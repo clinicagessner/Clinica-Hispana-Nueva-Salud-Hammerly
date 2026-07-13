@@ -146,7 +146,7 @@
 @theme inline {
   /* Fuentes (variables inyectadas por next/font en layout) */
   --font-sans: var(--font-jakarta);
-  --font-heading: var(--font-fraunces);
+  --font-heading: var(--font-bricolage);
   --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
 
   /* Tokens shadcn */
