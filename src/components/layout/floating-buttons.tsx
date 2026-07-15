@@ -2,12 +2,14 @@
 
 import { useEffect, useState } from "react";
 import { ArrowUp, Navigation, Phone } from "lucide-react";
+import { WhatsappLogoIcon } from "@phosphor-icons/react";
 import { useTranslations } from "next-intl";
 import { CONTACT_INFO } from "@/lib/constants";
-import { cn } from "@/lib/utils";
+import { cn, whatsappHref } from "@/lib/utils";
 
 export function FloatingButtons() {
   const t = useTranslations("Floating");
+  const tc = useTranslations("Common");
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -54,6 +56,24 @@ export function FloatingButtons() {
       >
         <Phone className="h-5 w-5 shrink-0" />
         <span className="hidden sm:inline">{CONTACT_INFO.phoneDisplay}</span>
+      </a>
+
+      {/* WhatsApp — número exclusivo de WhatsApp; aparece con scroll para
+          no duplicar el CTA verde del hero mientras este sigue en pantalla */}
+      <a
+        href={whatsappHref(tc("whatsappMessage"))}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label={`${tc("whatsappCta")} ${CONTACT_INFO.whatsappFormatted}`}
+        className={cn(
+          "pointer-events-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-whatsapp font-heading text-sm font-semibold text-white shadow-lg shadow-whatsapp/30 ring-1 ring-white/10 transition-all duration-300 hover:bg-whatsapp-dark sm:h-12 sm:w-auto sm:gap-2 sm:px-5",
+          scrolled
+            ? "translate-y-0 opacity-100"
+            : "pointer-events-none translate-y-3 opacity-0",
+        )}
+      >
+        <WhatsappLogoIcon weight="fill" className="h-5 w-5 shrink-0" />
+        <span className="hidden sm:inline">{t("whatsapp")}</span>
       </a>
     </div>
   );

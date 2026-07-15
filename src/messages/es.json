@@ -24,7 +24,9 @@
     "bilingual": "Atención en español e inglés",
     "withOrWithoutInsurance": "Sin seguro necesario",
     "ratingSummary": "{count} reseñas en Google",
-    "affordable": "Precios accesibles"
+    "affordable": "Precios accesibles",
+    "whatsappCta": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
     "badge": "Clínica médica hispana en Houston, TX",
@@ -34,6 +36,7 @@
     "titleTail": "para toda la familia",
     "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
     "ctaCall": "Llamar a la clínica",
+    "ctaWhatsapp": "WhatsApp",
     "ctaDirections": "Cómo llegar",
     "trustWalkIn": "Sin cita previa",
     "trustBilingual": "Hablamos español",
@@ -166,6 +169,7 @@
   "Floating": {
     "call": "Llamar",
     "directions": "Cómo llegar",
+    "whatsapp": "WhatsApp",
     "backToTop": "Volver arriba"
   },
   "ServicesPage": {

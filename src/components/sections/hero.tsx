@@ -7,15 +7,18 @@ import {
   Phone,
   ShieldCheck,
 } from "lucide-react";
+import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import { getTranslations } from "next-intl/server";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
+import { whatsappHref } from "@/lib/utils";
 import { StarRating } from "@/components/shared/star-rating";
 
 export async function Hero() {
   const t = await getTranslations("Hero");
   const tc = await getTranslations("Common");
   const place = await getGooglePlaceData();
+  const waHref = whatsappHref(tc("whatsappMessage"));
 
   return (
     <section className="relative isolate flex min-h-[88vh] items-center overflow-hidden">
@@ -75,6 +78,19 @@ export async function Hero() {
               <span className="whitespace-nowrap">
                 {t("callShort")} · {CONTACT_INFO.phoneDisplay}
               </span>
+            </a>
+            <a
+              href={waHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`${tc("whatsappCta")} ${CONTACT_INFO.whatsappFormatted}`}
+              className="group inline-flex h-14 items-center justify-center gap-2.5 rounded-xl bg-whatsapp px-7 font-heading text-base font-semibold text-white shadow-xl shadow-whatsapp/30 transition-all duration-200 hover:bg-whatsapp-dark hover:shadow-2xl hover:shadow-whatsapp/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-blue-deep"
+            >
+              <WhatsappLogoIcon
+                weight="fill"
+                className="h-5 w-5 shrink-0 transition-transform group-hover:scale-110"
+              />
+              {t("ctaWhatsapp")}
             </a>
             <a
               href={CONTACT_INFO.googleMapsUrl}

@@ -1,5 +1,6 @@
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
+import { CONTACT_INFO } from "@/lib/constants";
 import type {
   BlogPost,
   Locale,
@@ -11,6 +12,17 @@ import type {
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
+}
+
+/**
+ * Enlace wa.me con mensaje precargado. WhatsApp SIEMPRE usa
+ * CONTACT_INFO.whatsapp (número exclusivo de WhatsApp, distinto del
+ * teléfono principal); si algún día se activa CallRail, su override
+ * solo aplica a llamadas `tel:`, nunca a este enlace.
+ */
+export function whatsappHref(message: string): string {
+  const digits = CONTACT_INFO.whatsapp.replace(/\D/g, "");
+  return `https://wa.me/${digits}?text=${encodeURIComponent(message)}`;
 }
 
 /**

@@ -54,6 +54,10 @@
   --error: #e04444;
   --warning: #d98a1f;
 
+  /* WhatsApp (color oficial de la marca) */
+  --whatsapp: #25d366;
+  --whatsapp-dark: #1da851;
+
   /* ── Tokens shadcn mapeados a la paleta (modo claro) ── */
   --background: #ffffff;
   --foreground: var(--slate-dark);
@@ -213,6 +217,8 @@
   --color-success: var(--success);
   --color-error: var(--error);
   --color-warning: var(--warning);
+  --color-whatsapp: var(--whatsapp);
+  --color-whatsapp-dark: var(--whatsapp-dark);
 
   /* Escala de radios — estética editorial, crujiente (menos "blobby") */
   --radius-sm: calc(var(--radius) * 0.5);

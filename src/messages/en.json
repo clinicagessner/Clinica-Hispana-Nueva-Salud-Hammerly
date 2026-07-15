@@ -24,7 +24,9 @@
     "bilingual": "Care in Spanish and English",
     "withOrWithoutInsurance": "No insurance needed",
     "ratingSummary": "{count} Google reviews",
-    "affordable": "Affordable prices"
+    "affordable": "Affordable prices",
+    "whatsappCta": "Message us on WhatsApp",
+    "whatsappMessage": "Hello, I would like more information about your services."
   },
   "Hero": {
     "badge": "Hispanic medical clinic in Houston, TX",
@@ -34,6 +36,7 @@
     "titleTail": "for the whole family",
     "subtitle": "Family medicine, gynecology, urology, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
     "ctaCall": "Call the clinic",
+    "ctaWhatsapp": "WhatsApp",
     "ctaDirections": "Get directions",
     "trustWalkIn": "Walk-ins welcome",
     "trustBilingual": "We speak Spanish",
@@ -166,6 +169,7 @@
   "Floating": {
     "call": "Call",
     "directions": "Directions",
+    "whatsapp": "WhatsApp",
     "backToTop": "Back to top"
   },
   "ServicesPage": {
