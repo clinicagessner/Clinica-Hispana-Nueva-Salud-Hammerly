@@ -27,10 +27,9 @@ export function Header() {
   const [activeHash, setActiveHash] = useState("");
 
   useEffect(() => {
-    if (pathname !== "/") {
-      setActiveHash("");
-      return;
-    }
+    // Fuera de la home no hay scroll-spy; un hash viejo es inofensivo porque
+    // isActive() exige pathname === "/" y el observer lo corrige al volver.
+    if (pathname !== "/") return;
     const ids = NAV_LINKS.filter((l) => l.href.startsWith("/#")).map(
       (l) => l.href.split("#")[1],
     );
