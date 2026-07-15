@@ -44,6 +44,10 @@ export const CONTACT_INFO = {
   phone: "+18322809555",
   phoneFormatted: "+1 (832) 280-9555",
   phoneDisplay: "(832) 280-9555",
+  // Número EXCLUSIVO de WhatsApp (confirmado por el cliente, jul 2026).
+  // Distinto del teléfono principal: nunca usarlo en enlaces tel:.
+  whatsapp: "+18328314016",
+  whatsappFormatted: "+1 (832) 831-4016",
   email: "clinicahns4@gmail.com",
   // Horario confirmado por el cliente: todos los días 9 AM - 9 PM.
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
@@ -111,72 +115,80 @@ export const FOOTER_NAV_LINKS: NavLink[] = [
 // Redacción factual (sin claims médicos exagerados) por compliance de salud.
 export const PROMOTIONS: Promotion[] = [
   {
-    slug: "salud-intima-femenina",
-    image: "/images/promotions/salud-intima-femenina.webp",
-    price: "$69",
+    slug: "chequeo-completo-mujer",
+    image: "/images/promotions/chequeo-completo-mujer.webp",
+    price: "$79",
     order: 1,
-    title: "Salud Íntima Femenina",
+    title: "Chequeo Completo de Mujer",
     blurb:
-      "¿Picazón, flujo o mal olor? No lo ignores. Atiende tu salud íntima con una evaluación profesional y discreta, con atención en español.",
-    includes: ["Cultivo íntimo", "Consulta médica", "Examen de orina gratis"],
-    alt: "Flyer de la promoción Salud Íntima Femenina por $69 en Clínica Hispana Nueva Salud Hammerly: cultivo íntimo, consulta médica y examen de orina gratis.",
-    titleEn: "Women's Intimate Health",
-    blurbEn:
-      "Itching, discharge or odor? Don't ignore it. Take care of your intimate health with a professional, discreet evaluation and care in Spanish.",
-    includesEn: [
-      "Intimate culture test",
-      "Medical consultation",
-      "Free urine test",
+      "Prevención hoy, tranquilidad siempre. Un chequeo integral para cuidar tu salud femenina en una sola visita, con atención discreta y en español.",
+    includes: [
+      "Examen Papanicolau",
+      "Examen de orina",
+      "Orden de mamografía",
+      "Consulta ginecológica",
     ],
-    altEn: "Flyer for the Women's Intimate Health promotion for $69 at Clínica Hispana Nueva Salud Hammerly: intimate culture test, medical consultation and a free urine test.",
+    alt: "Flyer de la promoción Chequeo Completo de Mujer por $79 en Clínica Hispana Nueva Salud Hammerly: examen Papanicolau, examen de orina, orden de mamografía y consulta ginecológica.",
+    titleEn: "Complete Women's Checkup",
+    blurbEn:
+      "Prevention today, peace of mind always. A comprehensive checkup to care for your health in a single visit, with discreet care in Spanish.",
+    includesEn: [
+      "Pap smear",
+      "Urine test",
+      "Mammogram order",
+      "Gynecological consultation",
+    ],
+    altEn: "Flyer for the Complete Women's Checkup promotion for $79 at Clínica Hispana Nueva Salud Hammerly: Pap smear, urine test, mammogram order and gynecological consultation.",
   },
   {
-    slug: "general-sangre-b12",
-    image: "/images/promotions/general-sangre-b12.webp",
-    price: "$99",
+    slug: "chequeo-completo-hombres",
+    image: "/images/promotions/chequeo-completo-hombres.webp",
+    price: "$89",
     order: 2,
-    title: "General de Sangre + Vitamina B12",
+    title: "Chequeo Completo para Hombres",
     blurb:
-      "Examen general de sangre acompañado de una inyección de vitamina B12, para apoyar tu energía y bienestar. Resultados claros y atención en tu idioma.",
+      "Prevenir hoy para vivir mejor. Un chequeo integral pensado para el hombre: revisa tu próstata, tu testosterona y tu salud general en una sola visita.",
+    includes: [
+      "Examen de orina",
+      "Examen de próstata (prevención de cáncer)",
+      "Examen de testosterona",
+      "Consulta médica",
+    ],
+    alt: "Flyer de la promoción Chequeo Completo para Hombres por $89 en Clínica Hispana Nueva Salud Hammerly: examen de orina, examen de próstata, examen de testosterona y consulta médica.",
+    titleEn: "Complete Men's Checkup",
+    blurbEn:
+      "Prevent today to live better. A comprehensive checkup designed for men: prostate, testosterone and overall health reviewed in a single visit.",
+    includesEn: [
+      "Urine test",
+      "Prostate exam (cancer prevention)",
+      "Testosterone test",
+      "Medical consultation",
+    ],
+    altEn: "Flyer for the Complete Men's Checkup promotion for $89 at Clínica Hispana Nueva Salud Hammerly: urine test, prostate exam, testosterone test and medical consultation.",
+  },
+  {
+    slug: "examen-general-sangre-vitaminas",
+    image: "/images/promotions/examen-general-sangre-vitaminas.webp",
+    price: "$99",
+    order: 3,
+    title: "Examen General de Sangre + Vitaminas",
+    blurb:
+      "Evaluación completa de tu salud para detectar a tiempo, con dos dosis de vitamina que impulsan tu energía. Más energía, más vida, ¡mejor tú!",
     includes: [
       "Examen general de sangre",
-      "Inyección de vitamina B12",
-      "Orientación de resultados",
+      "2 dosis de vitamina para la energía",
+      "Consulta médica con revisión de resultados",
     ],
-    alt: "Flyer de la promoción especial Examen General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud Hammerly.",
-    titleEn: "Blood Panel + Vitamin B12",
+    alt: "Flyer de la promoción Examen General de Sangre más Vitaminas por $99 en Clínica Hispana Nueva Salud Hammerly: examen general de sangre, 2 dosis de vitamina para la energía y consulta médica.",
+    titleEn: "Complete Blood Panel + Vitamins",
     blurbEn:
-      "A complete blood panel paired with a vitamin B12 injection to support your energy and well-being. Clear results and care in your language.",
+      "A complete health evaluation to detect issues early, plus two vitamin doses to boost your energy. More energy, more life, a better you!",
     includesEn: [
       "Complete blood panel",
-      "Vitamin B12 injection",
-      "Results guidance",
+      "2 vitamin doses for energy",
+      "Medical consultation with results review",
     ],
-    altEn: "Flyer for the special Complete Blood Panel plus Vitamin B12 promotion for $99 at Clínica Hispana Nueva Salud Hammerly.",
-  },
-  {
-    slug: "perfil-hormonal-hombres",
-    image: "/images/promotions/perfil-hormonal-hombres.webp",
-    price: "$200",
-    order: 3,
-    title: "Perfil Hormonal para Hombres",
-    blurb:
-      "Evaluación del perfil hormonal masculino, útil si presentas fatiga, cambios de ánimo, pérdida de masa muscular o disminución de la libido.",
-    includes: [
-      "Exámenes confiables",
-      "Resultados precisos",
-      "Atención profesional",
-    ],
-    alt: "Flyer de la promoción Perfil Hormonal para Hombres por $200 en Clínica Hispana Nueva Salud Hammerly: evaluación de fatiga, masa muscular y libido.",
-    titleEn: "Men's Hormone Panel",
-    blurbEn:
-      "An evaluation of the male hormone profile — useful if you experience fatigue, mood changes, muscle loss or low libido.",
-    includesEn: [
-      "Reliable testing",
-      "Accurate results",
-      "Professional care",
-    ],
-    altEn: "Flyer for the Men's Hormone Panel promotion for $200 at Clínica Hispana Nueva Salud Hammerly: evaluation of fatigue, muscle mass and libido.",
+    altEn: "Flyer for the Complete Blood Panel plus Vitamins promotion for $99 at Clínica Hispana Nueva Salud Hammerly: complete blood panel, 2 vitamin doses for energy and medical consultation.",
   },
 ];
 
