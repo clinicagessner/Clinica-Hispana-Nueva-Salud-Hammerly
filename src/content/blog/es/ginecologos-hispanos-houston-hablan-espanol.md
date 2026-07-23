@@ -35,4 +35,4 @@ La frecuencia depende de tu edad y tu historial. En tu consulta te indicaremos l
 
 ## Tu salud, en tu idioma
 
-En Clínica Hispana Nueva Salud Hammerly ofrecemos atención ginecológica en español, con la confianza que mereces. Agenda tu visita llamando al **(832) 906-8551**.
+En Clínica Hispana Nueva Salud Hammerly ofrecemos atención ginecológica en español, con la confianza que mereces. Agenda tu visita llamando al **(832) 280-9555**.
