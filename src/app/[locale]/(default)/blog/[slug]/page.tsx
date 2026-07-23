@@ -149,6 +149,9 @@ export default async function BlogPostPage({
               "[&_strong]:font-semibold [&_strong]:text-ink",
               "[&_a]:font-medium [&_a]:text-blue-dark [&_a]:underline [&_a]:underline-offset-2",
               "[&_blockquote]:border-l-4 [&_blockquote]:border-red-accent [&_blockquote]:pl-5 [&_blockquote]:text-slate-muted [&_blockquote]:italic",
+              "[&_table]:w-full [&_table]:border-collapse [&_table]:text-left",
+              "[&_th]:border [&_th]:border-blue-deep/15 [&_th]:bg-sand-bg [&_th]:px-4 [&_th]:py-3 [&_th]:font-heading [&_th]:font-semibold [&_th]:text-ink",
+              "[&_td]:border [&_td]:border-blue-deep/15 [&_td]:px-4 [&_td]:py-3 [&_td]:align-top [&_td]:text-slate-primary",
             )}
           >
             <ReactMarkdown remarkPlugins={[remarkGfm]}>

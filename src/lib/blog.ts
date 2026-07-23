@@ -18,6 +18,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "laboratorio-clinico-houston-analisis-sangre",
   "medicos-autorizados-uscis-houston-civil-surgeon",
   "salud-mujer-houston-servicios-ginecologia",
+  "salud-hombre-houston-chequeos-preventivos",
 ]);
 
 function readingMinutes(content: string): number {
