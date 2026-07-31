@@ -29,9 +29,9 @@
     "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
-    "badge": "Clínica médica hispana en Houston, TX",
+    "badge": "Centro médico en Spring Branch · Houston, TX",
     "openToday": "Abierto hoy",
-    "titleLead": "Atención médica",
+    "titleLead": "Tu clínica hispana en Houston,",
     "titleHighlight": "100% en español",
     "titleTail": "para toda la familia",
     "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
@@ -48,7 +48,7 @@
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
-    "title": "Todo lo que tu familia necesita, en un solo lugar",
+    "title": "Un centro médico con todo lo que tu familia necesita",
     "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
@@ -74,7 +74,7 @@
     "metaDescription": "Paquetes médicos a precios accesibles en Houston, TX: salud íntima femenina, examen de sangre con vitamina B12 y perfil hormonal. Atención en español, sin cita y sin seguro.",
     "backToHome": "Volver al inicio",
     "eyebrow": "Promociones",
-    "title": "Promociones de nuestra clínica",
+    "title": "Promociones de nuestra clínica hispana",
     "subtitle": "Paquetes médicos a precios accesibles, con atención 100% en español. Sin cita previa y sin necesidad de seguro.",
     "viewDetail": "Ver detalles",
     "faqTitle": "Preguntas frecuentes",
@@ -155,7 +155,7 @@
     "cta": "Ver todo el blog"
   },
   "Footer": {
-    "tagline": "Atención médica profesional 100% en español en Houston, TX.",
+    "tagline": "Clínica hispana en Houston, TX: atención médica profesional 100% en español.",
     "servicesTitle": "Servicios",
     "navTitle": "Navegación",
     "contactTitle": "Contacto",
@@ -173,7 +173,7 @@
     "backToTop": "Volver arriba"
   },
   "ServicesPage": {
-    "title": "Servicios médicos en Houston, TX",
+    "title": "Servicios médicos de tu clínica hispana en Houston, TX",
     "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
     "filterAll": "Todos",
     "filtersLabel": "Filtrar por categoría",

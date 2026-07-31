@@ -37,10 +37,18 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Dónde están ubicados?",
     answer:
-      "Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, sirviendo a Houston, Houston, South Belt, Genoa, Galena Park, Deer Park y el área de Houston.",
+      "Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, en Spring Branch, sirviendo a Memorial, Spring Valley Village, Long Point, el corredor de la I-10 y el oeste de Houston.",
     questionEn: "Where are you located?",
     answerEn:
-      "We are at 8538 Hammerly Blvd Suite B, Houston, TX 77055, serving Houston, Houston, South Belt, Genoa, Galena Park, Deer Park and the greater Houston area.",
+      "We are at 8538 Hammerly Blvd Suite B, Houston, TX 77055, in Spring Branch, serving Memorial, Spring Valley Village, Long Point, the I-10 corridor and west Houston.",
+  },
+  {
+    question: "¿Buscas una clínica hispana cerca de mí en Houston?",
+    answer:
+      "Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti con médico primario, atención sin cita y precios accesibles, todos los días de 9 AM a 9 PM.",
+    questionEn: "Looking for a Hispanic clinic near me in Houston?",
+    answerEn:
+      "We are a Hispanic and Latino clinic in Spring Branch: a medical center near you with primary care, walk-in service and affordable pricing, every day from 9 AM to 9 PM.",
   },
   {
     question: "¿Realizan el examen médico de inmigración?",

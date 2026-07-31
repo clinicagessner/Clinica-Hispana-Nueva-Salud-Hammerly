@@ -21,11 +21,11 @@ import type { Locale } from "@/types";
 // COPY local bilingüe (sin message keys), propio de esta landing.
 const COPY = {
   es: {
-    metaTitle: "Clínica Sin Cita en Houston - Walk-in en Español",
+    metaTitle: "Clínica Hispana Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Atención médica sin cita previa en Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Atención médica sin cita previa en nuestra clínica hispana de Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
     eyebrow: "Atención sin cita previa",
-    title: "Te atendemos hoy, sin cita y en español",
+    title: "Tu clínica hispana te atiende hoy, sin cita y en español",
     subtitle:
       "No necesitas agendar. Llega a Clínica Hispana Nueva Salud Hammerly cuando lo necesites: te recibimos con precios accesibles y sin necesidad de seguro, todos los días de 9 AM a 9 PM.",
     call: "Llamar ahora",
@@ -63,11 +63,11 @@ const COPY = {
     finalBody: "8538 Hammerly Blvd Suite B, Houston, TX 77055",
   },
   en: {
-    metaTitle: "Walk-in Clinic in Houston - No Appointment, Spanish",
+    metaTitle: "Hispanic Walk-in Clinic in Houston - No Appointment, Spanish",
     metaDescription:
-      "Walk-in medical care in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
+      "Walk-in medical care at our Hispanic clinic in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
     eyebrow: "Walk-ins welcome",
-    title: "We see you today—no appointment, in Spanish",
+    title: "Your Hispanic clinic sees you today—no appointment, in Spanish",
     subtitle:
       "No need to schedule. Come to Clínica Hispana Nueva Salud Hammerly whenever you need: we see you with affordable pricing and no insurance required, every day from 9 AM to 9 PM.",
     call: "Call now",

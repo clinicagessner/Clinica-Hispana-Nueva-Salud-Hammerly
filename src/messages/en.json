@@ -29,9 +29,9 @@
     "whatsappMessage": "Hello, I would like more information about your services."
   },
   "Hero": {
-    "badge": "Hispanic medical clinic in Houston, TX",
+    "badge": "Medical center in Spring Branch · Houston, TX",
     "openToday": "Open today",
-    "titleLead": "Healthcare",
+    "titleLead": "Your Hispanic clinic in Houston,",
     "titleHighlight": "100% in Spanish",
     "titleTail": "for the whole family",
     "subtitle": "Family medicine, gynecology, urology, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
@@ -48,7 +48,7 @@
   },
   "Services": {
     "eyebrow": "Our services",
-    "title": "Everything your family needs, in one place",
+    "title": "A medical center with everything your family needs",
     "subtitle": "A wide range of medical services with professional care in your language.",
     "cta": "View all services",
     "featured": "Featured"
@@ -74,7 +74,7 @@
     "metaDescription": "Affordable medical packages in Houston, TX: women's intimate health, blood panel with vitamin B12 and men's hormone panel. Care in Spanish, walk-ins welcome and no insurance needed.",
     "backToHome": "Back to home",
     "eyebrow": "Promotions",
-    "title": "Our clinic's promotions",
+    "title": "Our Hispanic clinic's promotions",
     "subtitle": "Affordable medical packages with care 100% in Spanish. Walk-ins welcome and no insurance needed.",
     "viewDetail": "View details",
     "faqTitle": "Frequently asked questions",
@@ -155,7 +155,7 @@
     "cta": "View the full blog"
   },
   "Footer": {
-    "tagline": "Professional healthcare 100% in Spanish in Houston, TX.",
+    "tagline": "Hispanic clinic in Houston, TX: professional medical care 100% in Spanish.",
     "servicesTitle": "Services",
     "navTitle": "Navigation",
     "contactTitle": "Contact",
@@ -173,7 +173,7 @@
     "backToTop": "Back to top"
   },
   "ServicesPage": {
-    "title": "Medical services in Houston, TX",
+    "title": "Medical services at your Hispanic clinic in Houston, TX",
     "subtitle": "Professional care in Spanish, with affordable pricing and walk-ins welcome.",
     "filterAll": "All",
     "filtersLabel": "Filter by category",

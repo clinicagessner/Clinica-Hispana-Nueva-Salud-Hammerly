@@ -24,12 +24,12 @@ const SITE_URL = normalizeBaseUrl(
 export const SITE_CONFIG = {
   name: "Clínica Hispana Nueva Salud Hammerly",
   shortName: "Nueva Salud Hammerly",
-  tagline: "Atención médica profesional 100% en español",
-  taglineEn: "Professional healthcare 100% in Spanish",
+  tagline: "Centro médico 100% en español en Houston, TX",
+  taglineEn: "Medical center 100% in Spanish in Houston, TX",
   description:
-    "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica hispana en Houston, TX (Spring Branch): centro médico con atención 100% en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, ginecología, exámenes de inmigración, laboratorio y más.",
   descriptionEn:
-    "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, no insurance needed. Family medicine, immigration exams, lab work and more.",
+    "Hispanic clinic in Houston, TX (Spring Branch): medical center with care 100% in Spanish, walk-ins welcome, no insurance needed. Family medicine, gynecology, immigration exams, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -207,11 +207,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud + Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Hammerly?
 
-En Clínica Hispana Nueva Salud Hammerly te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti donde te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Hammerly?
 
-At Clínica Hispana Nueva Salud Hammerly we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are a Hispanic and Latino clinic in Spring Branch: a medical center near you where we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -628,23 +628,25 @@ ${AREAS_EN}`,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    title: "Ginecología: Papanicolaou, Cultivos y Chequeo",
+    titleEn: "Gynecology: Pap Smear, Cultures & Checkup",
     shortDescription:
       "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Ginecología en Houston, TX, en una clínica hispana: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
     descriptionEn:
-      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Gynecology in Houston, TX, at a Hispanic clinic: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
+      "ginecologia en houston",
       "ginecologo houston español",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
     ],
     keywordsEn: [
+      "gynecology in houston",
       "gynecologist houston spanish",
       "pap smear houston",
       "vaginal culture houston",
@@ -676,6 +678,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Si buscas ginecología en Houston, TX, en nuestra clínica hispana de Spring Branch te atendemos sin cita previa, con precios accesibles y con total privacidad, siempre en tu idioma.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -694,6 +700,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+If you're looking for gynecology in Houston, TX, our Hispanic clinic in Spring Branch sees you with no appointment, affordable pricing and complete privacy, always in your language.
 
 ${WHY_EN}
 
@@ -1105,8 +1115,8 @@ ${AREAS_EN}`,
     descriptionEn:
       "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with affordable pricing.",
     keywords: [
+      "infecciones urinarias houston",
       "examen de orina houston",
-      "infeccion urinaria houston",
       "tratamiento infeccion urinaria houston",
       "doctor infeccion de orina houston",
     ],
@@ -1142,6 +1152,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Infecciones urinarias: atención en una clínica hispana cerca de ti
+
+Si tienes síntomas de infección urinaria, en nuestra clínica hispana de Spring Branch, Houston, TX te hacemos el examen de orina y empezamos el tratamiento el mismo día, sin cita y en español.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1160,6 +1174,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## Urinary infections: care at a Hispanic clinic near you
+
+If you have urinary infection symptoms, our Hispanic clinic in Spring Branch, Houston, TX runs your urine test and starts treatment the same day — no appointment needed, in Spanish.
 
 ${WHY_EN}
 
