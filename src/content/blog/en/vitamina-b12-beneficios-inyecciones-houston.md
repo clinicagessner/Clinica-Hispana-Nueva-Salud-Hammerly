@@ -4,7 +4,7 @@ description: "What vitamin B12 is for, how to spot a deficiency and when the inj
 date: "2026-08-18"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Health"
-cover: "/images/services/sueros-vitaminados.webp"
+cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
 coverAlt: "Vitamin IV drip with B12 being administered at a Hispanic clinic in Houston"
 keywords:
   - "vitamin b12 injection houston"

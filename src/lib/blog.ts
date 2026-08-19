@@ -19,6 +19,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "medicos-autorizados-uscis-houston-civil-surgeon",
   "salud-mujer-houston-servicios-ginecologia",
   "salud-hombre-houston-chequeos-preventivos",
+  "vitamina-b12-beneficios-inyecciones-houston",
 ]);
 
 function readingMinutes(content: string): number {

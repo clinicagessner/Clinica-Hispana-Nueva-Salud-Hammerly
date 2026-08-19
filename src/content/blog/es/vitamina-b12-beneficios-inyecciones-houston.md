@@ -4,7 +4,7 @@ description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y
 date: "2026-08-18"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud"
-cover: "/images/services/sueros-vitaminados.webp"
+cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
 coverAlt: "Aplicación de suero vitaminado con vitamina B12 en una clínica hispana de Houston"
 keywords:
   - "inyección de vitamina b12 houston"
