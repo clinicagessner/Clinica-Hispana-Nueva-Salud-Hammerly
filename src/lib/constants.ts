@@ -46,8 +46,8 @@ export const CONTACT_INFO = {
   phoneDisplay: "(832) 280-9555",
   // Número EXCLUSIVO de WhatsApp (confirmado por el cliente, jul 2026).
   // Distinto del teléfono principal: nunca usarlo en enlaces tel:.
-  whatsapp: "+18328314016",
-  whatsappFormatted: "+1 (832) 831-4016",
+  whatsapp: "+13462221006",
+  whatsappFormatted: "+1 (346) 222-1006",
   email: "clinicahns4@gmail.com",
   // Horario confirmado por el cliente: todos los días 9 AM - 9 PM.
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
