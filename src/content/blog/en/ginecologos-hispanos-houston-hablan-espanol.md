@@ -20,9 +20,9 @@ A gynecological checkup isn't only for when something is wrong. It's a preventio
 
 ## What a visit includes
 
-- **Pap smear:** helps detect abnormal cells in the cervix.
+- **[Pap smear](/en/services/ginecologia):** helps detect abnormal cells in the cervix.
 - **Women's health exam:** general review and guidance.
-- **Family planning:** information on methods based on your plans.
+- **[Family planning](/en/services/anticonceptivos):** information on methods based on your plans, including [pregnancy testing](/en/services/prueba-embarazo).
 - **Care for discomfort and infections.**
 
 ## Let go of fear and embarrassment
@@ -35,4 +35,4 @@ The frequency depends on your age and history. At your visit we'll advise what's
 
 ## Your health, in your language
 
-At Clínica Hispana Nueva Salud Hammerly we offer gynecological care in Spanish, with the trust you deserve. Book your visit by calling **(832) 280-9555**.
+At [Clínica Hispana Nueva Salud Hammerly](/en/services/ginecologia) we offer gynecological care in Spanish, with the trust you deserve. We see you [with no appointment](/en/walk-in) and no insurance needed, every day from **9 AM to 9 PM**, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Book your visit by calling **(832) 280-9555**.

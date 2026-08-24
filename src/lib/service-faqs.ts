@@ -124,6 +124,18 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Do you accept patients without insurance?",
       answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
+    {
+      question: "¿Cuándo están los resultados del papanicolaou?",
+      answer: "La muestra se procesa en laboratorio y el resultado suele tardar unos días; te avisamos en cuanto esté y te lo explicamos en español.",
+      questionEn: "When will my Pap smear results be ready?",
+      answerEn: "The sample is processed in a lab and results usually take a few days; we let you know as soon as they're in and explain them in Spanish.",
+    },
+    {
+      question: "¿Tratan infecciones vaginales en la misma visita?",
+      answer: "Sí. Evaluamos tus síntomas, tomamos cultivo si hace falta y, cuando el diagnóstico es claro, empiezas el tratamiento ese mismo día.",
+      questionEn: "Do you treat vaginal infections in the same visit?",
+      answerEn: "Yes. We evaluate your symptoms, take a culture if needed and, when the diagnosis is clear, you start treatment that same day.",
+    },
   ],
   "prueba-embarazo": [
     {
@@ -243,6 +255,18 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
       questionEn: "Do you accept patients without insurance?",
       answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
+    },
+    {
+      question: "¿En cuánto tiempo está el resultado del examen de orina?",
+      answer: "El urianálisis se procesa en nuestro laboratorio en el sitio y el resultado está en la misma visita.",
+      questionEn: "How fast are urine test results?",
+      answerEn: "The urinalysis is processed at our on-site lab and you get the result during the same visit.",
+    },
+    {
+      question: "¿Qué pasa si no trato una infección urinaria?",
+      answer: "Puede avanzar hacia los riñones y volverse más seria. Si tienes fiebre, escalofríos o dolor en la espalda baja, acude el mismo día.",
+      questionEn: "What happens if I don't treat a urinary infection?",
+      answerEn: "It can move toward the kidneys and become more serious. If you have fever, chills or lower-back pain, come in the same day.",
     },
   ],
   "examen-heces": [

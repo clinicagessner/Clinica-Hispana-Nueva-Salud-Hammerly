@@ -20,9 +20,9 @@ El chequeo ginecológico no es solo para cuando algo anda mal. Es una herramient
 
 ## Qué incluye una consulta
 
-- **Papanicolaou:** ayuda a detectar células anormales en el cuello uterino.
+- **[Papanicolaou](/services/ginecologia):** ayuda a detectar células anormales en el cuello uterino.
 - **Examen de salud de la mujer:** revisión general y orientación.
-- **Planificación familiar:** información sobre métodos según tus planes.
+- **[Planificación familiar](/services/anticonceptivos):** información sobre métodos según tus planes, incluida la [prueba de embarazo](/services/prueba-embarazo).
 - **Atención de molestias e infecciones.**
 
 ## Rompe el miedo y la pena
@@ -35,4 +35,4 @@ La frecuencia depende de tu edad y tu historial. En tu consulta te indicaremos l
 
 ## Tu salud, en tu idioma
 
-En Clínica Hispana Nueva Salud Hammerly ofrecemos atención ginecológica en español, con la confianza que mereces. Agenda tu visita llamando al **(832) 280-9555**.
+En [Clínica Hispana Nueva Salud Hammerly](/services/ginecologia) ofrecemos atención ginecológica en español, con la confianza que mereces. Te atendemos [sin cita previa](/walk-in) y sin necesidad de seguro médico, todos los días de **9 AM a 9 PM**, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Agenda tu visita llamando al **(832) 280-9555**.

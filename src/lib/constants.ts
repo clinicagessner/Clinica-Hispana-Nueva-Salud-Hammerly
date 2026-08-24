@@ -686,6 +686,16 @@ Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita at
 
 Si buscas ginecología en Houston, TX, en nuestra clínica hispana de Spring Branch te atendemos sin cita previa, con precios accesibles y con total privacidad, siempre en tu idioma.
 
+## Cómo es tu consulta
+
+1. **Conversamos primero:** nos cuentas el motivo de tu visita — un chequeo o una molestia — sin prisa y en tu idioma
+2. **Examen y toma de muestras:** papanicolaou o cultivo vaginal según lo que necesites, explicándote cada paso
+3. **Diagnóstico y plan claro:** si hay una infección con diagnóstico claro, empiezas el tratamiento el mismo día; los resultados del papanicolaou tardan unos días y te avisamos en cuanto estén
+
+## Planificación familiar y salud de la mujer
+
+Además del chequeo ginecológico, te acompañamos con la [prueba de embarazo](/services/prueba-embarazo), [métodos anticonceptivos](/services/anticonceptivos) y la [extracción de implantes subdérmicos](/services/extraccion-implantes). Si prefieres informarte antes de tu visita, en el blog te contamos [cómo es la atención ginecológica en español en Houston](/blog/ginecologos-hispanos-houston-hablan-espanol).
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -708,6 +718,16 @@ Itching, burning, unusual discharge or odor are signs that something needs atten
 ## Gynecology at a Hispanic clinic near you
 
 If you're looking for gynecology in Houston, TX, our Hispanic clinic in Spring Branch sees you with no appointment, affordable pricing and complete privacy, always in your language.
+
+## What your visit looks like
+
+1. **We talk first:** you tell us the reason for your visit — a checkup or a concern — unhurried and in your language
+2. **Exam and samples:** Pap smear or vaginal culture as needed, explaining every step
+3. **Diagnosis and a clear plan:** if there's an infection with a clear diagnosis, you start treatment the same day; Pap results take a few days and we let you know as soon as they're in
+
+## Family planning and women's health
+
+Beyond the gynecological checkup, we support you with [pregnancy testing](/en/services/prueba-embarazo), [birth control options](/en/services/anticonceptivos) and [subdermal implant removal](/en/services/extraccion-implantes). If you'd like to read more before your visit, our blog covers [gynecology care in Spanish in Houston](/en/blog/ginecologos-hispanos-houston-hablan-espanol).
 
 ${WHY_EN}
 
@@ -1112,6 +1132,8 @@ ${AREAS_EN}`,
     icon: "Droplet",
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
+    metaTitle: "Tratamiento de Infecciones Urinarias en Houston",
+    metaTitleEn: "UTI Treatment & Urinalysis in Houston",
     shortDescription:
       "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
@@ -1162,6 +1184,20 @@ Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y 
 
 Si tienes síntomas de infección urinaria, en nuestra clínica hispana de Spring Branch, Houston, TX te hacemos el examen de orina y empezamos el tratamiento el mismo día, sin cita y en español.
 
+## Cómo es tu visita
+
+1. **Entregas tu muestra de orina:** te explicamos cómo recolectarla correctamente
+2. **La analizamos en el sitio:** contamos con laboratorio en la clínica, sin envíos ni esperas de días
+3. **Sales con tu plan:** si se confirma la infección, empiezas el tratamiento en la misma visita, con indicaciones claras
+
+## Señales de que no debes esperar
+
+Fiebre, escalofríos, náuseas o dolor en la espalda baja junto con las molestias al orinar pueden indicar que la infección avanza hacia los riñones. En ese caso acude el mismo día: abrimos todos los días de 9 AM a 9 PM.
+
+## ¿Te dan infecciones seguido?
+
+Si has tenido varias infecciones urinarias en poco tiempo, vale la pena buscar la causa. En mujeres a veces se relaciona con la salud vaginal — podemos apoyarte también en [ginecología](/services/ginecologia) — y en hombres con la próstata, que revisamos en los [exámenes del hombre](/services/salud-hombre). Un [examen de sangre](/services/examenes-sangre) puede completar la evaluación cuando hace falta.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1184,6 +1220,20 @@ Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and
 ## Urinary infections: care at a Hispanic clinic near you
 
 If you have urinary infection symptoms, our Hispanic clinic in Spring Branch, Houston, TX runs your urine test and starts treatment the same day — no appointment needed, in Spanish.
+
+## What your visit looks like
+
+1. **You provide a urine sample:** we explain how to collect it correctly
+2. **We analyze it on site:** our in-clinic lab means no shipping and no days of waiting
+3. **You leave with a plan:** if the infection is confirmed, you start treatment during the same visit, with clear instructions
+
+## Signs you shouldn't wait
+
+Fever, chills, nausea or lower-back pain along with urinary symptoms can mean the infection is moving toward the kidneys. If that's the case, come in the same day: we're open every day from 9 AM to 9 PM.
+
+## Getting infections often?
+
+If you've had several urinary infections in a short time, it's worth finding the cause. In women it's sometimes related to vaginal health — we can also help you in [gynecology](/en/services/ginecologia) — and in men to the prostate, which we check in our [men's health exams](/en/services/salud-hombre). A [blood test](/en/services/examenes-sangre) can complete the evaluation when needed.
 
 ${WHY_EN}
 
