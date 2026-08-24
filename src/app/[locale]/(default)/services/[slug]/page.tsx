@@ -51,13 +51,14 @@ export async function generateMetadata({
   const service = getServiceBySlug(slug);
   if (!service) return {};
   const l = getLocalizedService(service, locale as Locale);
+  const metaTitle = l.metaTitle ?? l.title;
   return {
-    title: l.title,
+    title: metaTitle,
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),
     openGraph: {
-      title: l.title,
+      title: metaTitle,
       description: l.description,
       type: "article",
       url: absoluteUrl(`/services/${slug}`, locale as Locale),

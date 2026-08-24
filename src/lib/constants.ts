@@ -551,6 +551,8 @@ ${AREAS_EN}`,
     icon: "ClipboardList",
     title: "Chequeos Físicos Escolares y Deportivos",
     titleEn: "School & Sports Physical Exams",
+    metaTitle: "Examen Físico Escolar y Deportivo en Houston",
+    metaTitleEn: "School & Sports Physicals in Houston",
     shortDescription:
       "Exámenes físicos para la escuela y los deportes, rápidos y con los formularios completados.",
     shortDescriptionEn:
@@ -630,6 +632,8 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Ginecología: Papanicolaou, Cultivos y Chequeo",
     titleEn: "Gynecology: Pap Smear, Cultures & Checkup",
+    metaTitle: "Ginecología en Houston: Papanicolaou y Chequeo",
+    metaTitleEn: "Gynecology in Houston: Pap Smear & Checkup",
     shortDescription:
       "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
     shortDescriptionEn:
@@ -1028,6 +1032,8 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Exámenes de Sangre | Laboratorio",
     titleEn: "Blood Tests | Lab",
+    metaTitle: "Exámenes de Sangre en Houston | Laboratorio",
+    metaTitleEn: "Blood Tests in Houston | Lab",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
@@ -1731,6 +1737,8 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Examen Físico DOT - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
+    metaTitle: "Examen Físico DOT para CDL en Houston",
+    metaTitleEn: "DOT Physical Exam for CDL in Houston",
     shortDescription:
       "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
     shortDescriptionEn:
@@ -1809,6 +1817,8 @@ ${AREAS_EN}`,
     icon: "ClipboardCheck",
     title: "Examen Médico de Inmigración I-693",
     titleEn: "Immigration Medical Exam I-693",
+    metaTitle: "Examen Médico de Inmigración I-693 en Houston",
+    metaTitleEn: "Immigration Medical Exam I-693 in Houston",
     shortDescription:
       "Examen médico de inmigración con médico autorizado por USCIS y el Formulario I-693 sellado.",
     shortDescriptionEn:
@@ -1965,6 +1975,8 @@ ${AREAS_EN}`,
     icon: "Droplets",
     title: "Sueros Vitaminados (Terapia IV)",
     titleEn: "Vitamin IV Therapy",
+    metaTitle: "Sueros Vitaminados (Terapia IV) en Houston",
+    metaTitleEn: "Vitamin IV Therapy in Houston",
     shortDescription:
       "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
     shortDescriptionEn:

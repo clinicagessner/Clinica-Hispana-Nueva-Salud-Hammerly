@@ -23,9 +23,11 @@ export async function generateMetadata({
   const { locale } = await params;
   const isEn = locale === "en";
   return {
-    title: isEn
-      ? "Hispanic Clinic in Houston, TX - Care in Spanish"
-      : "Clínica Hispana en Houston, TX - Atención en Español",
+    // Página de marca: el nombre completo va al principio y se salta el
+    // template global para no repetir "Nueva Salud Hammerly".
+    title: {
+      absolute: `${SITE_CONFIG.name} | Houston, TX (Spring Branch)`,
+    },
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
   };

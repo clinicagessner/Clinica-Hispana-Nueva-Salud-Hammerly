@@ -33,7 +33,9 @@ export async function generateMetadata({
     metadataBase: new URL(SITE_CONFIG.baseUrl),
     title: {
       default: `${SITE_CONFIG.name} · ${tagline}`,
-      template: "%s",
+      // Sufijo de marca en todas las páginas internas (servicios, blog, etc.).
+      // La home define su título con `absolute` para no duplicar la marca.
+      template: `%s | ${SITE_CONFIG.shortName}`,
     },
     description,
     applicationName: SITE_CONFIG.name,
