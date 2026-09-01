@@ -117,52 +117,54 @@ export const PROMOTIONS: Promotion[] = [
   {
     slug: "chequeo-completo-mujer",
     image: "/images/promotions/chequeo-completo-mujer.webp",
-    price: "$179",
+    price: "$79",
     order: 1,
-    title: "Chequeo Completo de la Mujer",
+    title: "Chequeo Completo de Mujer",
     blurb:
-      "¿Hace cuánto no revisas tu salud femenina? Un chequeo integral en una sola visita, con atención discreta y en español. Precio regular $300, ahora $179.",
+      "Prevención hoy, tranquilidad siempre. Un chequeo integral para cuidar tu salud femenina en una sola visita, con atención discreta y en español.",
     includes: [
-      "Ultrasonido pélvico",
       "Examen Papanicolau",
       "Examen de orina",
-      "Consulta médica gratis",
+      "Orden de mamografía",
+      "Consulta ginecológica",
     ],
-    alt: "Flyer de la promoción Chequeo Completo de la Mujer por $179 en Clínica Hispana Nueva Salud Hammerly, Houston: ultrasonido pélvico, examen Papanicolau, examen de orina y consulta médica gratis.",
+    alt: "Flyer de la promoción Chequeo Completo de Mujer por $79 en Clínica Hispana Nueva Salud Hammerly: examen Papanicolau, examen de orina, orden de mamografía y consulta ginecológica.",
     titleEn: "Complete Women's Checkup",
     blurbEn:
-      "How long since your last women's health checkup? A comprehensive exam in a single visit, with discreet care in Spanish. Regular price $300, now $179.",
+      "Prevention today, peace of mind always. A comprehensive checkup to care for your health in a single visit, with discreet care in Spanish.",
     includesEn: [
-      "Pelvic ultrasound",
       "Pap smear",
       "Urine test",
-      "Free medical consultation",
+      "Mammogram order",
+      "Gynecological consultation",
     ],
-    altEn: "Flyer for the Complete Women's Checkup promotion for $179 at Clínica Hispana Nueva Salud Hammerly, Houston: pelvic ultrasound, Pap smear, urine test and free medical consultation.",
+    altEn: "Flyer for the Complete Women's Checkup promotion for $79 at Clínica Hispana Nueva Salud Hammerly: Pap smear, urine test, mammogram order and gynecological consultation.",
   },
   {
     slug: "chequeo-completo-hombres",
     image: "/images/promotions/chequeo-completo-hombres.webp",
-    price: "$79",
+    price: "$89",
     order: 2,
-    title: "Revisa tu Testosterona",
+    title: "Chequeo Completo para Hombres",
     blurb:
-      "¿Cansancio, poca energía, menos deseo sexual o dificultad con la erección? Revisa tu testosterona en una sola visita. Precio regular $220, ahora $79.",
+      "Prevenir hoy para vivir mejor. Un chequeo integral pensado para el hombre: revisa tu próstata, tu testosterona y tu salud general en una sola visita.",
     includes: [
-      "Examen de testosterona",
       "Examen de orina",
-      "Consulta médica gratis",
+      "Examen de próstata (prevención de cáncer)",
+      "Examen de testosterona",
+      "Consulta médica",
     ],
-    alt: "Flyer de la promoción Revisa tu Testosterona por $79 en Clínica Hispana Nueva Salud Hammerly, Houston: examen de testosterona, examen de orina y consulta médica gratis.",
-    titleEn: "Check Your Testosterone",
+    alt: "Flyer de la promoción Chequeo Completo para Hombres por $89 en Clínica Hispana Nueva Salud Hammerly: examen de orina, examen de próstata, examen de testosterona y consulta médica.",
+    titleEn: "Complete Men's Checkup",
     blurbEn:
-      "Tiredness, low energy, lower sex drive or erection difficulties? Check your testosterone in a single visit. Regular price $220, now $79.",
+      "Prevent today to live better. A comprehensive checkup designed for men: prostate, testosterone and overall health reviewed in a single visit.",
     includesEn: [
-      "Testosterone test",
       "Urine test",
-      "Free medical consultation",
+      "Prostate exam (cancer prevention)",
+      "Testosterone test",
+      "Medical consultation",
     ],
-    altEn: "Flyer for the Check Your Testosterone promotion for $79 at Clínica Hispana Nueva Salud Hammerly, Houston: testosterone test, urine test and free medical consultation.",
+    altEn: "Flyer for the Complete Men's Checkup promotion for $89 at Clínica Hispana Nueva Salud Hammerly: urine test, prostate exam, testosterone test and medical consultation.",
   },
   {
     slug: "examen-general-sangre-vitaminas",
@@ -187,6 +189,58 @@ export const PROMOTIONS: Promotion[] = [
       "Medical consultation with results review",
     ],
     altEn: "Flyer for the Complete Blood Panel plus Vitamins promotion for $99 at Clínica Hispana Nueva Salud Hammerly: complete blood panel, 2 vitamin doses for energy and medical consultation.",
+  },
+  {
+    slug: "examen-testosterona",
+    image: "/images/promotions/examen-testosterona.webp",
+    price: "$79",
+    order: 4,
+    title: "Examen de Testosterona",
+    blurb:
+      "¿Cansado, con menos energía o menos deseo sexual? Revisa tu testosterona: examen de testosterona más examen de orina, con consulta médica gratis, por solo $79 (precio regular $220).",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Examen de Testosterona por $79 en Clínica Hispana Nueva Salud Hammerly: examen de testosterona, examen de orina y consulta médica gratis.",
+    titleEn: "Testosterone Test",
+    blurbEn:
+      "Tired, low on energy or with less sexual desire? Check your testosterone: testosterone test plus a urine test, with a free medical consultation, for only $79 (regular price $220).",
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn:
+      "Flyer for the Testosterone Test promotion for $79 at Clínica Hispana Nueva Salud Hammerly: testosterone test, urine test and free medical consultation.",
+  },
+  {
+    slug: "chequeo-mujer-ultrasonido",
+    image: "/images/promotions/chequeo-mujer-ultrasonido.webp",
+    price: "$179",
+    order: 5,
+    title: "Chequeo de la Mujer con Ultrasonido",
+    blurb:
+      "¿Hace cuánto no revisas tu salud femenina? Chequeo completo con ultrasonido pélvico, papanicolaou y examen de orina, más consulta médica gratis, por solo $179 (precio regular $300).",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Chequeo de la Mujer con Ultrasonido por $179 en Clínica Hispana Nueva Salud Hammerly: ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis.",
+    titleEn: "Women's Checkup with Ultrasound",
+    blurbEn:
+      "How long has it been since you checked your women's health? Complete checkup with a pelvic ultrasound, Pap smear and urine test, plus a free medical consultation, for only $179 (regular price $300).",
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn:
+      "Flyer for the Women's Checkup with Ultrasound promotion for $179 at Clínica Hispana Nueva Salud Hammerly: pelvic ultrasound, Pap smear, urine test and free medical consultation.",
   },
 ];
 
