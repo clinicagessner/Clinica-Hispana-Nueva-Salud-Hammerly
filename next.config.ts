@@ -59,6 +59,15 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "maps.googleapis.com" },
     ],
   },
+  async redirects() {
+    return [
+      // URLs finales de anuncios de Google Ads que no existen en el sitio (2026-10-02)
+      { source: "/enfermedades-cronicas-diabetes-e-hipertension", destination: "/services/condiciones-cronicas", permanent: true },
+      { source: "/clinica-ginecologica", destination: "/services/ginecologia", permanent: true },
+      { source: "/examenes-para-inmigracion", destination: "/services/examenes-inmigracion", permanent: true },
+      { source: "/sueros-vitaminados", destination: "/services/sueros-vitaminados", permanent: true },
+    ];
+  },
   async headers() {
     return [
       {
