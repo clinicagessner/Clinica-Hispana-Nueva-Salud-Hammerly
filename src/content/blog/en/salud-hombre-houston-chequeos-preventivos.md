@@ -98,4 +98,4 @@ We are in the heart of **Spring Branch**, serving men across west Houston: Memor
 
 ## Schedule your checkup today
 
-Don't wait until something hurts. Walk in — **no appointment needed** — at 8538 Hammerly Blvd Suite B, Houston, TX 77055, every day from **9 AM to 9 PM**, or call us at **(832) 280-9555**. Your family needs you healthy: invest 30 minutes in your health today.
+Don't wait until something hurts. Walk in — **no appointment needed** — at 8538 Hammerly Blvd Suite B, Houston, TX 77055, Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM**, or call us at **(832) 280-9555**. Your family needs you healthy: invest 30 minutes in your health today.

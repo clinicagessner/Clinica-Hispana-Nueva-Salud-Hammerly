@@ -53,7 +53,7 @@ El certificado médico DOT dura **hasta 24 meses**. Si tienes alguna condición 
 
 En [Clínica Hispana Nueva Salud Hammerly](/services/examen-dot) realizamos tu examen físico DOT **en español**, [sin cita previa](/walk-in) y con laboratorio en el sitio. En la mayoría de los casos sales el **mismo día con tu certificado** listo para tramitar o renovar tu CDL. También hacemos [exámenes de alcohol y drogas](/services/examen-alcohol-drogas) si tu empresa los requiere por separado.
 
-Visítanos todos los días de **9 AM a 9 PM** en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — a minutos de la I-10 — o llámanos al **(832) 280-9555**.
+Visítanos de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM** en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — a minutos de la I-10 — o llámanos al **(832) 280-9555**.
 
 ## Preguntas frecuentes
 

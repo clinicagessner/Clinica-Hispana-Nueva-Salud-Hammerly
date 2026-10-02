@@ -16,7 +16,7 @@ At Clínica Hispana Nueva Salud Hammerly we believe that taking care of your hea
 
 ## Who we are
 
-We are a family medical clinic located at **8538 Hammerly Blvd Suite B, Houston, TX 77055**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
+We are a family medical clinic located at **8538 Hammerly Blvd Suite B, Houston, TX 77055**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Saturday, 9:00 AM to 9:00 PM, and Sunday, 9:00 AM to 5:00 PM**, because health doesn't wait for the weekend.
 
 ## What you'll find with us
 

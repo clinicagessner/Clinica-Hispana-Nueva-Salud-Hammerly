@@ -35,4 +35,4 @@ The frequency depends on your age and history. At your visit we'll advise what's
 
 ## Your health, in your language
 
-At [Clínica Hispana Nueva Salud Hammerly](/en/services/ginecologia) we offer gynecological care in Spanish, with the trust you deserve. We see you [with no appointment](/en/walk-in) and no insurance needed, every day from **9 AM to 9 PM**, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Book your visit by calling **(832) 280-9555**.
+At [Clínica Hispana Nueva Salud Hammerly](/en/services/ginecologia) we offer gynecological care in Spanish, with the trust you deserve. We see you [with no appointment](/en/walk-in) and no insurance needed, Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM**, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Book your visit by calling **(832) 280-9555**.

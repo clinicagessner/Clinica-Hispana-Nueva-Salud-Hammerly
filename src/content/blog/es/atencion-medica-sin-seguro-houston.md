@@ -48,7 +48,7 @@ Somos honestos: si tu caso necesita un especialista o un hospital, te lo decimos
 
 ## Estamos para ayudarte
 
-En Clínica Hispana Nueva Salud Hammerly atendemos a pacientes **sin necesidad de seguro médico**, en español y [sin cita previa](/walk-in), todos los días de **9 AM a 9 PM** — también fines de semana y por la tarde-noche, cuando muchas clínicas ya cerraron. Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, en Spring Branch. Si tienes dudas sobre el costo de un servicio, llámanos al **(832) 280-9555** y te lo decimos con claridad antes de tu visita.
+En Clínica Hispana Nueva Salud Hammerly atendemos a pacientes **sin necesidad de seguro médico**, en español y [sin cita previa](/walk-in), de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM** — también fines de semana y por la tarde-noche, cuando muchas clínicas ya cerraron. Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, en Spring Branch. Si tienes dudas sobre el costo de un servicio, llámanos al **(832) 280-9555** y te lo decimos con claridad antes de tu visita.
 
 ## Preguntas frecuentes
 

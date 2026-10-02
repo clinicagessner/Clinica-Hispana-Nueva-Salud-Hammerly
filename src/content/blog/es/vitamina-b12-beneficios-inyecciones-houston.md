@@ -107,7 +107,7 @@ En tu consulta definimos el esquema adecuado para ti con base en tus análisis �
 
 ## Qué esperar en tu visita
 
-1. **Llega sin cita** cualquier día de la semana, de 9 AM a 9 PM
+1. **Llega sin cita** de lunes a sábado de 9 AM a 9 PM o domingo de 9 AM a 5 PM
 2. **Consulta en español:** revisamos tus síntomas, medicamentos y antecedentes
 3. **Examen de sangre** con laboratorio en el sitio y resultados el mismo día
 4. **Plan claro:** si hay deficiencia, te explicamos si te conviene inyección, suero vitaminado o suplemento oral, y con qué frecuencia
@@ -119,14 +119,14 @@ En tu consulta definimos el esquema adecuado para ti con base en tus análisis �
 - **Sin cita previa:** ven cuando puedas, los 7 días de la semana
 - **Laboratorio en el sitio** con resultados el mismo día
 - **No necesitas seguro médico:** precios accesibles y transparentes que te informamos antes de tu visita
-- **Horario amplio:** lunes a domingo de 9 AM a 9 PM
+- **Horario amplio:** lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM
 - Estamos en el corazón de **Spring Branch**, cerca de Memorial, Spring Valley Village, Hilshire Village, Long Point y el corredor de Katy Freeway (I-10)
 
 ## Recupera tu energía hoy
 
 No te acostumbres al cansancio. Una prueba de vitamina B12 toma minutos, y la solución puede ser tan simple como una inyección mensual. Antes de venir, revisa nuestras [promociones vigentes](/promociones) — con frecuencia incluyen descuentos en chequeos y laboratorio.
 
-Visítanos **sin cita** en 8538 Hammerly Blvd Suite B, Houston, TX 77055, todos los días de **9 AM a 9 PM**, o llámanos al **(832) 280-9555**.
+Visítanos **sin cita** en 8538 Hammerly Blvd Suite B, Houston, TX 77055, de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM**, o llámanos al **(832) 280-9555**.
 
 ## Preguntas frecuentes
 

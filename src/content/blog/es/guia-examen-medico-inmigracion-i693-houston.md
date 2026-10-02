@@ -55,12 +55,12 @@ La visita en sí es corta. Los resultados de laboratorio pueden tardar unos día
 
 ## Tu examen I-693 en Houston, en español
 
-En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-inmigracion) realizamos el examen completo con **médico autorizado por USCIS**: examen físico, laboratorio en el sitio, vacunas y tu formulario en sobre sellado. Te atendemos **en español, sin cita previa y sin necesidad de seguro**, todos los días de 9 AM a 9 PM, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Llámanos al **(832) 280-9555**.
+En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-inmigracion) realizamos el examen completo con **médico autorizado por USCIS**: examen físico, laboratorio en el sitio, vacunas y tu formulario en sobre sellado. Te atendemos **en español, sin cita previa y sin necesidad de seguro**, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Llámanos al **(832) 280-9555**.
 
 ## Preguntas frecuentes
 
 **¿Necesito cita para el examen de inmigración?**
-No es obligatoria: atendemos por orden de llegada todos los días de 9 AM a 9 PM. Si prefieres asegurar un horario, llámanos y lo reservamos.
+No es obligatoria: atendemos por orden de llegada de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM. Si prefieres asegurar un horario, llámanos y lo reservamos.
 
 **¿El I-693 se vence?**
 Las reglas de vigencia del I-693 han cambiado en los últimos años. Confirma la política actual con tu abogado de inmigración o en uscis.gov antes de programar tu examen, para presentarlo en el momento correcto de tu caso.

@@ -5,10 +5,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Necesito cita para que me atiendan?",
     answer:
-      "No. Atendemos sin cita previa de lunes a domingo de 9:00 AM a 9:00 PM. También puedes llamarnos para reservar un horario.",
+      "No. Atendemos sin cita previa de lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM. También puedes llamarnos para reservar un horario.",
     questionEn: "Do I need an appointment to be seen?",
     answerEn:
-      "No. We welcome walk-ins Monday to Sunday from 9:00 AM to 9:00 PM. You can also call us to reserve a time.",
+      "No. We welcome walk-ins Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 5:00 PM. You can also call us to reserve a time.",
   },
   {
     question: "¿Atienden a pacientes sin seguro médico?",
@@ -45,10 +45,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Buscas una clínica hispana cerca de mí en Houston?",
     answer:
-      "Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti con médico primario, atención sin cita y precios accesibles, todos los días de 9 AM a 9 PM.",
+      "Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti con médico primario, atención sin cita y precios accesibles, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
     questionEn: "Looking for a Hispanic clinic near me in Houston?",
     answerEn:
-      "We are a Hispanic and Latino clinic in Spring Branch: a medical center near you with primary care, walk-in service and affordable pricing, every day from 9 AM to 9 PM.",
+      "We are a Hispanic and Latino clinic in Spring Branch: a medical center near you with primary care, walk-in service and affordable pricing, Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM.",
   },
   {
     question: "¿Realizan el examen médico de inmigración?",

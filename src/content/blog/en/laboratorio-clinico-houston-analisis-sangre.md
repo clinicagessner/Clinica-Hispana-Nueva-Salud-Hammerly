@@ -48,7 +48,7 @@ Our lab is **inside the clinic**: the sample is drawn on the spot, no second loc
 
 ## Walk in, no appointment
 
-At [Clínica Hispana Nueva Salud Hammerly](/en/services/examenes-sangre) we draw your samples [with no appointment](/en/walk-in) and no insurance needed, every day from **9 AM to 9 PM**, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Before your visit, check our [promotions](/en/promociones) — they often include discounted lab packages. Call us at **(832) 280-9555**.
+At [Clínica Hispana Nueva Salud Hammerly](/en/services/examenes-sangre) we draw your samples [with no appointment](/en/walk-in) and no insurance needed, Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM**, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Before your visit, check our [promotions](/en/promociones) — they often include discounted lab packages. Call us at **(832) 280-9555**.
 
 ## Frequently asked questions
 

@@ -98,4 +98,4 @@ Estamos en el corazón de **Spring Branch**, y atendemos a hombres de todo el oe
 
 ## Programa tu chequeo hoy
 
-No esperes a que algo duela. Visítanos **sin cita** en 8538 Hammerly Blvd Suite B, Houston, TX 77055, todos los días de **9 AM a 9 PM**, o llámanos al **(832) 280-9555**. Tu familia te necesita sano: invierte 30 minutos en tu salud hoy.
+No esperes a que algo duela. Visítanos **sin cita** en 8538 Hammerly Blvd Suite B, Houston, TX 77055, de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM**, o llámanos al **(832) 280-9555**. Tu familia te necesita sano: invierte 30 minutos en tu salud hoy.

@@ -49,11 +49,11 @@ export const CONTACT_INFO = {
   whatsapp: "+13462221006",
   whatsappFormatted: "+1 (346) 222-1006",
   email: "clinicahns4@gmail.com",
-  // Horario confirmado por el cliente: todos los días 9 AM - 9 PM.
-  hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
-  hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
-  hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
-  hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
+  // Horario según la ficha de Google (2026-10-02): lunes a sábado 9 AM - 9 PM, domingo 9 AM - 5 PM.
+  hours: "Lunes a Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 5:00 PM",
+  hoursEn: "Monday to Saturday: 9:00 AM - 9:00 PM · Sunday: 9:00 AM - 5:00 PM",
+  hoursWeekday: "Lunes a Sábado: 9:00 AM - 9:00 PM",
+  hoursWeekend: "Domingo: 9:00 AM - 5:00 PM",
   // Coordenadas exactas del listado de Google (Places API New).
   coordinates: { lat: 29.8114012, lng: -95.5000267 },
   // Place ID real del listado de Google (Places API New, jul 2026).
@@ -75,7 +75,7 @@ export const OPENING_HOURS = [
   { day: "Thursday", opens: "09:00", closes: "21:00" },
   { day: "Friday", opens: "09:00", closes: "21:00" },
   { day: "Saturday", opens: "09:00", closes: "21:00" },
-  { day: "Sunday", opens: "09:00", closes: "21:00" },
+  { day: "Sunday", opens: "09:00", closes: "17:00" },
 ] as const;
 
 export const SOCIAL_LINKS = {
@@ -259,11 +259,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud + Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Hammerly?
 
-Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti donde te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti donde te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Hammerly?
 
-We are a Hispanic and Latino clinic in Spring Branch: a medical center near you where we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are a Hispanic and Latino clinic in Spring Branch: a medical center near you where we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -1244,7 +1244,7 @@ Si tienes síntomas de infección urinaria, en nuestra clínica hispana de Sprin
 
 ## Señales de que no debes esperar
 
-Fiebre, escalofríos, náuseas o dolor en la espalda baja junto con las molestias al orinar pueden indicar que la infección avanza hacia los riñones. En ese caso acude el mismo día: abrimos todos los días de 9 AM a 9 PM.
+Fiebre, escalofríos, náuseas o dolor en la espalda baja junto con las molestias al orinar pueden indicar que la infección avanza hacia los riñones. En ese caso acude el mismo día: abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.
 
 ## ¿Te dan infecciones seguido?
 
@@ -1281,7 +1281,7 @@ If you have urinary infection symptoms, our Hispanic clinic in Spring Branch, Ho
 
 ## Signs you shouldn't wait
 
-Fever, chills, nausea or lower-back pain along with urinary symptoms can mean the infection is moving toward the kidneys. If that's the case, come in the same day: we're open every day from 9 AM to 9 PM.
+Fever, chills, nausea or lower-back pain along with urinary symptoms can mean the infection is moving toward the kidneys. If that's the case, come in the same day: we're open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM.
 
 ## Getting infections often?
 

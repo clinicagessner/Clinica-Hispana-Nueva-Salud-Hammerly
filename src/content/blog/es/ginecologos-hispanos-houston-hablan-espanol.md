@@ -35,4 +35,4 @@ La frecuencia depende de tu edad y tu historial. En tu consulta te indicaremos l
 
 ## Tu salud, en tu idioma
 
-En [Clínica Hispana Nueva Salud Hammerly](/services/ginecologia) ofrecemos atención ginecológica en español, con la confianza que mereces. Te atendemos [sin cita previa](/walk-in) y sin necesidad de seguro médico, todos los días de **9 AM a 9 PM**, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Agenda tu visita llamando al **(832) 280-9555**.
+En [Clínica Hispana Nueva Salud Hammerly](/services/ginecologia) ofrecemos atención ginecológica en español, con la confianza que mereces. Te atendemos [sin cita previa](/walk-in) y sin necesidad de seguro médico, de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM**, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Agenda tu visita llamando al **(832) 280-9555**.

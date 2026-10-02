@@ -107,7 +107,7 @@ At your visit we define the right schedule for you based on your lab work — we
 
 ## What to expect at your visit
 
-1. **Walk in with no appointment** any day of the week, 9 AM to 9 PM
+1. **Walk in with no appointment** Monday to Saturday from 9 AM to 9 PM or Sunday from 9 AM to 5 PM
 2. **Consultation in Spanish:** we review your symptoms, medications and history
 3. **Blood test** with our on-site lab and same-day results
 4. **A clear plan:** if there's a deficiency, we explain whether an injection, a vitamin IV drip or an oral supplement suits you best, and how often
@@ -119,14 +119,14 @@ At your visit we define the right schedule for you based on your lab work — we
 - **No appointment needed:** come when you can, 7 days a week
 - **On-site lab** with same-day results
 - **No medical insurance required:** affordable, transparent pricing we share before your visit
-- **Extended hours:** Monday to Sunday, 9 AM to 9 PM
+- **Extended hours:** Monday to Saturday, 9 AM to 9 PM, and Sunday, 9 AM to 5 PM
 - We're in the heart of **Spring Branch**, near Memorial, Spring Valley Village, Hilshire Village, Long Point and the Katy Freeway (I-10) corridor
 
 ## Get your energy back today
 
 Don't get used to being tired. A vitamin B12 test takes minutes, and the solution can be as simple as a monthly injection. Before you come, check our [current promotions](/promociones) — they often include discounts on checkups and lab work.
 
-Visit us **with no appointment** at 8538 Hammerly Blvd Suite B, Houston, TX 77055, every day from **9 AM to 9 PM**, or call us at **(832) 280-9555**.
+Visit us **with no appointment** at 8538 Hammerly Blvd Suite B, Houston, TX 77055, Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM**, or call us at **(832) 280-9555**.
 
 ## Frequently asked questions
 

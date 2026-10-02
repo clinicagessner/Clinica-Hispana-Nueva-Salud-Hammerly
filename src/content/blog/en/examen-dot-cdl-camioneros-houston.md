@@ -53,7 +53,7 @@ The DOT medical certificate lasts **up to 24 months**. If you have a condition t
 
 At [Clínica Hispana Nueva Salud Hammerly](/en/services/examen-dot) we perform your DOT physical **in Spanish**, [no appointment needed](/en/walk-in), with an on-site lab. In most cases you leave the **same day with your certificate** ready to process or renew your CDL. We also do [drug and alcohol testing](/en/services/examen-alcohol-drogas) if your company requires it separately.
 
-Visit us every day from **9 AM to 9 PM** at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — minutes from I-10 — or call **(832) 280-9555**.
+Visit us Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM** at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — minutes from I-10 — or call **(832) 280-9555**.
 
 ## Frequently asked questions
 

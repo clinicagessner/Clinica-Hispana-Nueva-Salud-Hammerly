@@ -55,12 +55,12 @@ The visit itself is short. Lab results can take a few days, and with them the do
 
 ## Your I-693 exam in Houston, in Spanish
 
-At [Clínica Hispana Nueva Salud Hammerly](/en/services/examenes-inmigracion) we perform the complete exam with a **USCIS-authorized physician**: physical exam, on-site lab, vaccines and your form in a sealed envelope. We serve you **in Spanish, with no appointment and no insurance needed**, every day from 9 AM to 9 PM, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Call us at **(832) 280-9555**.
+At [Clínica Hispana Nueva Salud Hammerly](/en/services/examenes-inmigracion) we perform the complete exam with a **USCIS-authorized physician**: physical exam, on-site lab, vaccines and your form in a sealed envelope. We serve you **in Spanish, with no appointment and no insurance needed**, Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM, at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Call us at **(832) 280-9555**.
 
 ## Frequently asked questions
 
 **Do I need an appointment for the immigration exam?**
-It's not required: we see patients first-come, first-served every day from 9 AM to 9 PM. If you prefer a set time, call us and we'll reserve it.
+It's not required: we see patients first-come, first-served Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM. If you prefer a set time, call us and we'll reserve it.
 
 **Does the I-693 expire?**
 The validity rules for the I-693 have changed in recent years. Confirm the current policy with your immigration attorney or at uscis.gov before scheduling, so you file it at the right point in your case.

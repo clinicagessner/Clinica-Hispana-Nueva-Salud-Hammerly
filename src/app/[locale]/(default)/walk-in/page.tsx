@@ -23,11 +23,11 @@ const COPY = {
   es: {
     metaTitle: "Clínica Hispana Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Atención médica sin cita previa en nuestra clínica hispana de Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Atención médica sin cita previa en nuestra clínica hispana de Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
     eyebrow: "Atención sin cita previa",
     title: "Tu clínica hispana te atiende hoy, sin cita y en español",
     subtitle:
-      "No necesitas agendar. Llega a Clínica Hispana Nueva Salud Hammerly cuando lo necesites: te recibimos con precios accesibles y sin necesidad de seguro, todos los días de 9 AM a 9 PM.",
+      "No necesitas agendar. Llega a Clínica Hispana Nueva Salud Hammerly cuando lo necesites: te recibimos con precios accesibles y sin necesidad de seguro, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
     call: "Llamar ahora",
     directions: "Cómo llegar",
     benefitsTitle: "Por qué venir sin cita",
@@ -35,7 +35,7 @@ const COPY = {
       { title: "Sin cita previa", body: "Llega cuando puedas; te atendemos el mismo día." },
       { title: "Sin seguro necesario", body: "Precios accesibles y transparentes para todos." },
       { title: "100% en español", body: "Un equipo que te escucha y te explica en tu idioma." },
-      { title: "Todos los días", body: "Abierto de lunes a domingo, de 9 AM a 9 PM." },
+      { title: "Todos los días", body: "Abierto de lunes a sábado, de 9 AM a 9 PM, y domingo, de 9 AM a 5 PM." },
     ],
     stepsTitle: "Cómo funciona",
     steps: [
@@ -47,7 +47,7 @@ const COPY = {
     faqs: [
       {
         question: "¿De verdad no necesito cita?",
-        answer: "Correcto. Puedes llegar sin cita de lunes a domingo de 9 AM a 9 PM.",
+        answer: "Correcto. Puedes llegar sin cita de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
       },
       {
         question: "¿Atienden si no tengo seguro?",
@@ -65,11 +65,11 @@ const COPY = {
   en: {
     metaTitle: "Hispanic Walk-in Clinic in Houston - No Appointment, Spanish",
     metaDescription:
-      "Walk-in medical care at our Hispanic clinic in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
+      "Walk-in medical care at our Hispanic clinic in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Saturday, 9 AM to 9 PM, and Sunday, 9 AM to 5 PM.",
     eyebrow: "Walk-ins welcome",
     title: "Your Hispanic clinic sees you today—no appointment, in Spanish",
     subtitle:
-      "No need to schedule. Come to Clínica Hispana Nueva Salud Hammerly whenever you need: we see you with affordable pricing and no insurance required, every day from 9 AM to 9 PM.",
+      "No need to schedule. Come to Clínica Hispana Nueva Salud Hammerly whenever you need: we see you with affordable pricing and no insurance required, Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM.",
     call: "Call now",
     directions: "Get directions",
     benefitsTitle: "Why walk in",
@@ -77,7 +77,7 @@ const COPY = {
       { title: "No appointment", body: "Come when you can; we see you the same day." },
       { title: "No insurance needed", body: "Affordable, transparent pricing for everyone." },
       { title: "100% in Spanish", body: "A team that listens and explains in your language." },
-      { title: "Every day", body: "Open Monday to Sunday, 9 AM to 9 PM." },
+      { title: "Every day", body: "Open Monday to Saturday, 9 AM to 9 PM, and Sunday, 9 AM to 5 PM." },
     ],
     stepsTitle: "How it works",
     steps: [
@@ -89,7 +89,7 @@ const COPY = {
     faqs: [
       {
         question: "Do I really not need an appointment?",
-        answer: "Correct. You can walk in Monday to Sunday from 9 AM to 9 PM.",
+        answer: "Correct. You can walk in Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM.",
       },
       {
         question: "Do you see patients without insurance?",

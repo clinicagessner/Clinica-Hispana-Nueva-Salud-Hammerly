@@ -55,7 +55,7 @@ Si quieres el detalle completo de pruebas, vacunas y qué llevar el día de tu v
 
 ## Civil surgeon en Houston, en español
 
-En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-inmigracion) contamos con **médico autorizado por USCIS** y realizamos el examen I-693 completo: historial, examen físico, pruebas de laboratorio en el sitio, vacunas y el formulario en su sobre sellado. Todo **100% en español, sin cita previa y sin necesidad de seguro médico**, todos los días de 9 AM a 9 PM en Spring Branch, al oeste de Houston.
+En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-inmigracion) contamos con **médico autorizado por USCIS** y realizamos el examen I-693 completo: historial, examen físico, pruebas de laboratorio en el sitio, vacunas y el formulario en su sobre sellado. Todo **100% en español, sin cita previa y sin necesidad de seguro médico**, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM en Spring Branch, al oeste de Houston.
 
 Llámanos al **(832) 280-9555** o visítanos en 8538 Hammerly Blvd Suite B, Houston, TX 77055.
 

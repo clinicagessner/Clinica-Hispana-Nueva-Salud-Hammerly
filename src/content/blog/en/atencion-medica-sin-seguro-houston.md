@@ -48,7 +48,7 @@ We're honest: if your case needs a specialist or a hospital, we tell you and poi
 
 ## We're here to help
 
-At Clínica Hispana Nueva Salud Hammerly we see patients **with no insurance required**, in Spanish and [with no appointment](/en/walk-in), every day from **9 AM to 9 PM** — including weekends and evenings, when many clinics have already closed. We're at 8538 Hammerly Blvd Suite B, Houston, TX 77055, in Spring Branch. If you have questions about the cost of a service, call us at **(832) 280-9555** and we'll tell you clearly before your visit.
+At Clínica Hispana Nueva Salud Hammerly we see patients **with no insurance required**, in Spanish and [with no appointment](/en/walk-in), Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM** — including weekends and evenings, when many clinics have already closed. We're at 8538 Hammerly Blvd Suite B, Houston, TX 77055, in Spring Branch. If you have questions about the cost of a service, call us at **(832) 280-9555** and we'll tell you clearly before your visit.
 
 ## Frequently asked questions
 

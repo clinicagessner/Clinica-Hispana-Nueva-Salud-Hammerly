@@ -48,7 +48,7 @@ Nuestro laboratorio está **dentro de la clínica**: la muestra se toma en el mo
 
 ## Ven sin cita
 
-En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-sangre) tomamos tus muestras [sin cita previa](/walk-in) y sin necesidad de seguro, todos los días de **9 AM a 9 PM**, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Antes de venir, revisa nuestras [promociones](/promociones) — con frecuencia incluyen paquetes de laboratorio a precio reducido. Llámanos al **(832) 280-9555**.
+En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-sangre) tomamos tus muestras [sin cita previa](/walk-in) y sin necesidad de seguro, de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM**, en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch). Antes de venir, revisa nuestras [promociones](/promociones) — con frecuencia incluyen paquetes de laboratorio a precio reducido. Llámanos al **(832) 280-9555**.
 
 ## Preguntas frecuentes
 
