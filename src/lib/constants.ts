@@ -1240,7 +1240,7 @@ Si tienes síntomas de infección urinaria, en nuestra clínica hispana de Sprin
 
 1. **Entregas tu muestra de orina:** te explicamos cómo recolectarla correctamente
 2. **La analizamos en el sitio:** contamos con laboratorio en la clínica, sin envíos ni esperas de días
-3. **Sales con tu plan:** si se confirma la infección, empiezas el tratamiento en la misma visita, con indicaciones claras
+3. **Sales con tu plan:** si se confirma la infección, sales con tu tratamiento el mismo día, con indicaciones claras
 
 ## Señales de que no debes esperar
 
@@ -1277,7 +1277,7 @@ If you have urinary infection symptoms, our Hispanic clinic in Spring Branch, Ho
 
 1. **You provide a urine sample:** we explain how to collect it correctly
 2. **We analyze it on site:** our in-clinic lab means no shipping and no days of waiting
-3. **You leave with a plan:** if the infection is confirmed, you start treatment during the same visit, with clear instructions
+3. **You leave with a plan:** if the infection is confirmed, you leave with your treatment the same day, with clear instructions
 
 ## Signs you shouldn't wait
 
