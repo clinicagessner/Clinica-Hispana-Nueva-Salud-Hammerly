@@ -6,26 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 39 de 45 URLs del sitemap indexadas · 6 sin indexar (4 descubierta sin indexar · 2 desconocida).
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 39 de 45 URLs del sitemap indexadas · 6 sin indexar (4 descubierta sin indexar · 2 desconocida).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 35 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 25 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1  ✅ PEDIDA 05/10/2026
-
-- [x] https://www.clinicahispananhammerly.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 2092 impr.
-- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 504 impr.
-- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-02 · rastreada 2026-09-12 · indexada · 412 impr.
-- [x] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-02 · rastreada 2026-09-13 · indexada · 311 impr.
-- [x] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-02 · rastreada 2026-09-30 · indexada · 291 impr.
-- [x] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 261 impr.
-- [x] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-10-02 · rastreada 2026-08-20 · indexada · 157 impr.
-- [x] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-02 · rastreada 2026-08-11 · indexada · 152 impr.
-- [x] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-02 · rastreada 2026-08-06 · indexada · 59 impr.
-- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-02 · rastreada 2026-09-25 · indexada · 47 impr.
-
-## Tanda 2
+## Tanda 2  📨 ENVIADA 06/10/2026
 
 - [ ] https://www.clinicahispananhammerly.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 46 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examenes-inmigracion  — cambiada 2026-10-02 · rastreada 2026-09-17 · indexada · 42 impr.
@@ -59,3 +46,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-02 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/vacunas  — cambiada 2026-10-02 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog  — descubierta sin indexar · 0 impr.
+
+## Historial (tandas pedidas)
+
+## Tanda 1  ✅ PEDIDA 05/10/2026
+
+- [x] https://www.clinicahispananhammerly.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 2092 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 504 impr.
+- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-02 · rastreada 2026-09-12 · indexada · 412 impr.
+- [x] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-02 · rastreada 2026-09-13 · indexada · 311 impr.
+- [x] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-02 · rastreada 2026-09-30 · indexada · 291 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 261 impr.
+- [x] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-10-02 · rastreada 2026-08-20 · indexada · 157 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-02 · rastreada 2026-08-11 · indexada · 152 impr.
+- [x] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-02 · rastreada 2026-08-06 · indexada · 59 impr.
+- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-02 · rastreada 2026-09-25 · indexada · 47 impr.
