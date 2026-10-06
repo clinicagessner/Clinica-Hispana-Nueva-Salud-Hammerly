@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — 📨 ENVIADA 05/10/2026
+## Tanda 1  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 2092 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 504 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-02 · rastreada 2026-09-12 · indexada · 412 impr.
-- [ ] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-02 · rastreada 2026-09-13 · indexada · 311 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-02 · rastreada 2026-09-30 · indexada · 291 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 261 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-10-02 · rastreada 2026-08-20 · indexada · 157 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-02 · rastreada 2026-08-11 · indexada · 152 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-02 · rastreada 2026-08-06 · indexada · 59 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-02 · rastreada 2026-09-25 · indexada · 47 impr.
+- [x] https://www.clinicahispananhammerly.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 2092 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 504 impr.
+- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-02 · rastreada 2026-09-12 · indexada · 412 impr.
+- [x] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-02 · rastreada 2026-09-13 · indexada · 311 impr.
+- [x] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-02 · rastreada 2026-09-30 · indexada · 291 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 261 impr.
+- [x] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-10-02 · rastreada 2026-08-20 · indexada · 157 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-02 · rastreada 2026-08-11 · indexada · 152 impr.
+- [x] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-02 · rastreada 2026-08-06 · indexada · 59 impr.
+- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-02 · rastreada 2026-09-25 · indexada · 47 impr.
 
 ## Tanda 2
 
