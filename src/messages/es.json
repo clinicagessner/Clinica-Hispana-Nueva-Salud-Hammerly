@@ -103,6 +103,12 @@
     "reviewCta": "Escribir una reseña en Google",
     "verified": "Reseña verificada de Google"
   },
+  "About": {
+    "title": "¿Qué es Clínica Hispana Nueva Salud Hammerly?",
+    "p1": "Clínica Hispana Nueva Salud Hammerly es una clínica médica familiar para la comunidad hispana en <address></address>, en la zona de Spring Branch. Abre de lunes a sábado de 9 AM a 9 PM y los domingos de 9 AM a 5 PM. Se atiende sin cita previa, en español y en inglés, y no hace falta tener seguro médico.",
+    "p2": "El equipo médico de la clínica ofrece {count} <services>servicios</services>, entre ellos medicina familiar, <chronic>control de diabetes y presión alta</chronic>, <gyn>ginecología básica con papanicolaou</gyn>, <uti>examen de orina para infecciones urinarias</uti>, <lab>análisis de sangre</lab>, <immigration>examen médico de inmigración I-693</immigration>, <dot>examen físico DOT para la licencia CDL</dot> y <iv>sueros vitaminados</iv>.",
+    "p3": "Para dudas o precios, llama al <phone></phone> o escribe por <whatsapp>WhatsApp</whatsapp>. Hay estacionamiento gratuito en el lugar, y la entrada y los baños son accesibles en silla de ruedas."
+  },
   "Faq": {
     "eyebrow": "Preguntas frecuentes",
     "title": "Resolvemos tus dudas",

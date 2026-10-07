@@ -103,6 +103,12 @@
     "reviewCta": "Write a review on Google",
     "verified": "Verified Google review"
   },
+  "About": {
+    "title": "What is Clínica Hispana Nueva Salud Hammerly?",
+    "p1": "Clínica Hispana Nueva Salud Hammerly is a family medical clinic for the Hispanic community at <address></address>, in the Spring Branch area. It is open Monday to Saturday from 9 AM to 9 PM and on Sundays from 9 AM to 5 PM. Walk-ins are seen without an appointment, in Spanish and English, and health insurance is not required.",
+    "p2": "The clinic's medical team offers {count} <services>services</services>, including family medicine, <chronic>diabetes and high blood pressure care</chronic>, <gyn>basic gynecology with Pap smears</gyn>, <uti>urine testing for urinary tract infections</uti>, <lab>blood work</lab>, <immigration>the I-693 immigration medical exam</immigration>, <dot>DOT physicals for the CDL license</dot> and <iv>vitamin IV drips</iv>.",
+    "p3": "For questions or prices, call <phone></phone> or send a message on <whatsapp>WhatsApp</whatsapp>. Free parking is available on site, and the entrance and restrooms are wheelchair accessible."
+  },
   "Faq": {
     "eyebrow": "Frequently asked questions",
     "title": "We answer your questions",

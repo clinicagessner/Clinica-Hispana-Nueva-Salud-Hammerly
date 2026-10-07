@@ -8,6 +8,7 @@ import { Gynecology } from "@/components/sections/gynecology";
 import { MensHealth } from "@/components/sections/mens-health";
 import { Testimonials } from "@/components/sections/testimonials";
 import { BlogPreview } from "@/components/sections/blog-preview";
+import { About } from "@/components/sections/about";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
@@ -59,6 +60,7 @@ export default async function HomePage({
       <MensHealth />
       <Testimonials />
       <BlogPreview />
+      <About />
       <Faq />
       <Location />
       <Contact />
