@@ -8,7 +8,7 @@ import {
   type PromotionsGridLabels,
 } from "@/components/promotions/promotions-grid";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import { StarRating } from "@/components/shared/star-rating";
 import {
   JsonLdBreadcrumb,
@@ -192,7 +192,7 @@ export default async function PromotionsPage({
             </p>
           </Reveal>
           <Reveal delay={120} className="mt-10">
-            <ContactForm services={services} />
+            <LazyContactForm services={services} />
           </Reveal>
         </div>
       </section>
