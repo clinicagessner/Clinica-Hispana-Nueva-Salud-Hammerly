@@ -6,6 +6,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
 import { Link } from "@/i18n/navigation";
+import { MedicalReview } from "@/components/shared/medical-review";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
@@ -164,6 +165,12 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          <MedicalReview
+            locale={loc}
+            published={post.date}
+            reviewed={post.updated ?? post.date}
+          />
 
           {/* CTA navy */}
           <div className="relative isolate mt-12 overflow-hidden rounded-3xl bg-blue-deep p-8 text-center text-sky-bg shadow-xl sm:p-10">

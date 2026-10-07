@@ -33,6 +33,7 @@ export function JsonLdBlogPosting({
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
         mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        reviewedBy: { "@id": CLINIC_ID },
         author: {
           "@type": "Organization",
           name: post.author,

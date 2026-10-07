@@ -14,6 +14,7 @@ import {
   JsonLdBreadcrumb,
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
+  JsonLdMedicalWebPage,
   JsonLdMedicalClinicRef,
 } from "@/components/seo/json-ld";
 import {
@@ -25,6 +26,8 @@ import {
 } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
 import { getAllPosts } from "@/lib/blog";
+import { MedicalReview } from "@/components/shared/medical-review";
+import { serviceLastReviewed } from "@/lib/content-dates";
 import { CONTACT_INFO } from "@/lib/constants";
 import {
   getLocalizedFaq,
@@ -99,6 +102,7 @@ export default async function ServiceDetailPage({
   });
 
   const url = absoluteUrl(`/services/${slug}`, loc);
+  const reviewed = serviceLastReviewed(slug);
 
   return (
     <>
@@ -116,6 +120,14 @@ export default async function ServiceDetailPage({
         url={url}
         slug={slug}
         image={hasServiceImage(slug) ? serviceImagePath(slug) : undefined}
+      />
+      <JsonLdMedicalWebPage
+        slug={slug}
+        name={l.title}
+        description={l.description}
+        url={url}
+        lastReviewed={reviewed}
+        locale={loc}
       />
       <JsonLdFaqPage faqs={faqs} />
 
@@ -238,6 +250,8 @@ export default async function ServiceDetailPage({
                 </div>
               </div>
             )}
+
+            <MedicalReview locale={loc} reviewed={reviewed} />
           </div>
 
           {/* Sidebar CTA */}

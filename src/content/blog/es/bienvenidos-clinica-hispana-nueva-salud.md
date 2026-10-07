@@ -2,7 +2,7 @@
 title: "Bienvenidos a Clínica Hispana Nueva Salud Hammerly"
 description: "Conoce Clínica Hispana Nueva Salud Hammerly: atención médica en español en Spring Branch, Houston, sin cita previa y sin necesidad de seguro."
 date: "2026-01-15"
-updated: "2026-10-02"
+updated: "2026-10-07"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"

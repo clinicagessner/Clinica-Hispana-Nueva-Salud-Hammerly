@@ -3,6 +3,7 @@ import { SITE_CONFIG } from "@/lib/constants";
 import { getAllServiceSlugs } from "@/lib/services";
 import { getAllPosts } from "@/lib/blog";
 import { locales } from "@/i18n/config";
+import { serviceLastReviewed } from "@/lib/content-dates";
 
 const BASE = SITE_CONFIG.baseUrl;
 
@@ -10,18 +11,13 @@ const BASE = SITE_CONFIG.baseUrl;
 // volver a rastrear. Las fechas reflejan cambios REALES de contenido (sacadas
 // del historial de git): actualízalas solo cuando cambie algo visible.
 const LASTMOD = {
-  home: "2026-10-04", // estacionamiento gratuito
-  walkIn: "2026-10-02", // horario del domingo
-  promociones: "2026-10-02",
-  services: "2026-10-02", // horario del domingo en las FAQ de todos los servicios
-  servicesIndex: "2026-10-02",
-  blogIndex: "2026-10-02",
+  home: "2026-10-07", // bloque "¿Qué es…?", FAQ propias y footer con todos los servicios
+  walkIn: "2026-10-07",
+  promociones: "2026-10-07",
+  servicesIndex: "2026-10-07",
+  blogIndex: "2026-10-07",
 } as const;
 
-// Servicios actualizados después de LASTMOD.services.
-const SERVICE_LASTMOD: Record<string, string> = {
-  "infecciones-urinarias": "2026-10-04", // tratamiento el mismo día si hay infección
-};
 
 const localePath = (locale: string) => (locale === "es" ? "" : `/${locale}`);
 
@@ -50,7 +46,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...entries("/blog", LASTMOD.blogIndex),
     ...entries("/walk-in", LASTMOD.walkIn),
     ...getAllServiceSlugs().flatMap((slug) =>
-      entries(`/services/${slug}`, SERVICE_LASTMOD[slug] ?? LASTMOD.services),
+      entries(`/services/${slug}`, serviceLastReviewed(slug)),
     ),
     ...getAllPosts("es").flatMap((post) =>
       entries(`/blog/${post.slug}`, post.updated ?? post.date),

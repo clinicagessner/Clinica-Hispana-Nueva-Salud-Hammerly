@@ -289,3 +289,42 @@ export function JsonLdCollectionPage({
     />
   );
 }
+
+/**
+ * `MedicalWebPage` con `lastReviewed` y `reviewedBy` → `@id` de la clínica
+ * (§12 B2). La fecha es la misma que la caja de revisión y el lastmod.
+ */
+export function JsonLdMedicalWebPage({
+  slug,
+  name,
+  description,
+  url,
+  lastReviewed,
+  locale,
+}: {
+  slug: string;
+  name: string;
+  description: string;
+  url: string;
+  lastReviewed: string;
+  locale: Locale;
+}) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "@id": `${url}#webpage`,
+        name,
+        description,
+        url,
+        inLanguage: locale,
+        lastReviewed,
+        dateModified: lastReviewed,
+        reviewedBy: { "@id": CLINIC_ID },
+        publisher: { "@id": CLINIC_ID },
+        about: { "@id": serviceProcedureId(slug) },
+      }}
+    />
+  );
+}
