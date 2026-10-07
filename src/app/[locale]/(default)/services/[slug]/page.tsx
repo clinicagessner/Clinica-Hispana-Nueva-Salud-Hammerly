@@ -14,6 +14,7 @@ import {
   JsonLdBreadcrumb,
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
+  JsonLdMedicalClinicRef,
 } from "@/components/seo/json-ld";
 import {
   getAllServiceSlugs,
@@ -99,9 +100,10 @@ export default async function ServiceDetailPage({
   return (
     <>
       <JsonLdBreadcrumb
+      <JsonLdMedicalClinicRef />
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
-          { name: "Servicios", url: absoluteUrl("/services", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Services" : "Servicios", url: absoluteUrl("/services", loc) },
           { name: l.title, url },
         ]}
       />
@@ -110,6 +112,8 @@ export default async function ServiceDetailPage({
         description={l.description}
         url={url}
       />
+        slug={slug}
+        image={hasServiceImage(slug) ? serviceImagePath(slug) : undefined}
       <JsonLdFaqPage faqs={faqs} />
 
       {/* Hero del servicio: split editorial sobre crema */}

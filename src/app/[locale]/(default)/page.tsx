@@ -1,3 +1,4 @@
+import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { Hero } from "@/components/sections/hero";
@@ -49,6 +50,7 @@ export default async function HomePage({
       <Services />
       <Gynecology />
       <MensHealth />
+      <JsonLdMedicalClinic locale={locale as Locale} />
       <Testimonials />
       <BlogPreview />
       <Faq />

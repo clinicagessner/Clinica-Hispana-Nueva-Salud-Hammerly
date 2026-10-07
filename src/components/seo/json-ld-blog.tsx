@@ -1,4 +1,5 @@
 import { SITE_CONFIG } from "@/lib/constants";
+import { CLINIC_ID } from "@/components/seo/json-ld";
 import type { BlogPost, Locale } from "@/types";
 
 function JsonLd({ data }: { data: object }) {
@@ -27,14 +28,20 @@ export function JsonLdBlogPosting({
         headline: post.title,
         description: post.description,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.updated ?? post.date,
         inLanguage: locale,
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
         mainEntityOfPage: { "@type": "WebPage", "@id": url },
-        author: { "@type": "Organization", name: post.author },
+        author: {
+          "@type": "Organization",
+          name: post.author,
+          url: SITE_CONFIG.baseUrl,
+          memberOf: { "@id": CLINIC_ID },
+        },
         publisher: {
           "@type": "Organization",
+          "@id": CLINIC_ID,
           name: SITE_CONFIG.name,
           logo: {
             "@type": "ImageObject",

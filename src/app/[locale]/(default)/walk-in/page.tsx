@@ -11,7 +11,7 @@ import {
 import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdFaqPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { CONTACT_INFO } from "@/lib/constants";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
@@ -135,8 +135,9 @@ export default async function WalkInPage({
   return (
     <>
       <JsonLdBreadcrumb
+      <JsonLdMedicalClinicRef />
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: c.eyebrow, url: absoluteUrl("/walk-in", loc) },
         ]}
       />

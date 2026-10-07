@@ -3,7 +3,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { ServicesFilter } from "@/components/services/services-filter";
 import { FaqSection } from "@/components/sections/faq-section";
-import { JsonLdBreadcrumb, JsonLdCollectionPage } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { SERVICE_CATEGORIES } from "@/lib/constants";
 import {
@@ -51,8 +51,9 @@ export default async function ServicesPage({
   return (
     <>
       <JsonLdBreadcrumb
+      <JsonLdMedicalClinicRef />
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: t("title"), url: absoluteUrl("/services", loc) },
         ]}
       />

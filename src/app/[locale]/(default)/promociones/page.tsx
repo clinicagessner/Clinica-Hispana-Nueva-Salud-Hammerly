@@ -14,6 +14,7 @@ import {
   JsonLdBreadcrumb,
   JsonLdCollectionPage,
   JsonLdFaqPage,
+  JsonLdMedicalClinicRef,
 } from "@/components/seo/json-ld";
 import { getPromotionCardData } from "@/lib/promotions";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -89,6 +90,7 @@ export default async function PromotionsPage({
   return (
     <>
       <JsonLdBreadcrumb
+      <JsonLdMedicalClinicRef />
         items={[
           { name: homeLabel, url: absoluteUrl("/", loc) },
           { name: t("title"), url: absoluteUrl("/promociones", loc) },

@@ -3,7 +3,7 @@ import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
-import { JsonLdBreadcrumb, JsonLdCollectionPage } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { getAllPosts } from "@/lib/blog";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
@@ -42,8 +42,9 @@ export default async function BlogIndexPage({
   return (
     <>
       <JsonLdBreadcrumb
+      <JsonLdMedicalClinicRef />
         items={[
-          { name: "Home", url: absoluteUrl("/", loc) },
+          { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: t("title"), url: absoluteUrl("/blog", loc) },
         ]}
       />

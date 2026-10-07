@@ -1,3 +1,4 @@
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -90,6 +91,7 @@ export default async function PrivacyPage({
   return (
     <>
       {/* Cabecera editorial */}
+      <JsonLdMedicalClinicRef />
       <header className="relative isolate overflow-hidden bg-sand-bg py-16 lg:py-20">
         <div
           aria-hidden
