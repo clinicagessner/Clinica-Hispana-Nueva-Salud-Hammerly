@@ -14,7 +14,7 @@ import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO } from "@/lib/constants";
 import { formatDate } from "@/lib/utils";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -40,14 +40,14 @@ export async function generateMetadata({
     description: post.description,
     keywords: post.keywords,
     alternates: buildAlternates(`/blog/${slug}`, locale as Locale),
-    openGraph: {
-      type: "article",
+    ...buildSocial({
       title: post.title,
       description: post.description,
-      publishedTime: post.date,
-      url: absoluteUrl(`/blog/${slug}`, locale as Locale),
-      images: [{ url: post.cover, alt: post.coverAlt }],
-    },
+      path: `/blog/${slug}`,
+      locale: locale as Locale,
+      image: post.cover,
+      type: "article",
+    }),
   };
 }
 

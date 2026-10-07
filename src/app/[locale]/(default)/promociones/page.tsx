@@ -21,7 +21,7 @@ import { getGooglePlaceData } from "@/lib/google-places";
 import { getAllServices } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
 import { CONTACT_INFO } from "@/lib/constants";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale, LocalizedFaq } from "@/types";
 
@@ -40,6 +40,7 @@ export async function generateMetadata({
     title: t("metaTitle"),
     description: t("metaDescription"),
     alternates: buildAlternates("/promociones", locale as Locale),
+    ...buildSocial({ title: t("metaTitle"), description: t("metaDescription"), path: "/promociones", locale: locale as Locale }),
   };
 }
 
@@ -89,8 +90,8 @@ export default async function PromotionsPage({
 
   return (
     <>
-      <JsonLdBreadcrumb
       <JsonLdMedicalClinicRef />
+      <JsonLdBreadcrumb
         items={[
           { name: homeLabel, url: absoluteUrl("/", loc) },
           { name: t("title"), url: absoluteUrl("/promociones", loc) },

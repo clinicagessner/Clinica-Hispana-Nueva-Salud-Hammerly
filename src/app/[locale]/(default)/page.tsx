@@ -13,7 +13,7 @@ import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
 import { ScrollSpyUrl } from "@/components/shared/scroll-spy-url";
 import { SITE_CONFIG } from "@/lib/constants";
-import { buildAlternates } from "@/lib/seo";
+import { buildAlternates, buildSocial } from "@/lib/seo";
 import type { Locale } from "@/types";
 
 export async function generateMetadata({
@@ -31,6 +31,12 @@ export async function generateMetadata({
     },
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
+    ...buildSocial({
+      title: `${SITE_CONFIG.name} | Houston, TX (Spring Branch)`,
+      description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
+      path: "/",
+      locale: locale as Locale,
+    }),
   };
 }
 
@@ -44,13 +50,13 @@ export default async function HomePage({
 
   return (
     <>
+      <JsonLdMedicalClinic locale={locale as Locale} />
       <ScrollSpyUrl />
       <Hero />
       <Promotions />
       <Services />
       <Gynecology />
       <MensHealth />
-      <JsonLdMedicalClinic locale={locale as Locale} />
       <Testimonials />
       <BlogPreview />
       <Faq />

@@ -4,7 +4,7 @@ import { setRequestLocale } from "next-intl/server";
 import { FaqSection } from "@/components/sections/faq-section";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
-import { buildAlternates } from "@/lib/seo";
+import { buildAlternates, buildSocial } from "@/lib/seo";
 import type { Locale } from "@/types";
 
 const COPY = {
@@ -75,6 +75,7 @@ export async function generateMetadata({
     title: c.title,
     description: c.subtitle,
     alternates: buildAlternates("/privacy", locale as Locale),
+    ...buildSocial({ title: c.title, description: c.subtitle, path: "/privacy", locale: locale as Locale }),
     robots: { index: false, follow: true },
   };
 }
@@ -90,8 +91,8 @@ export default async function PrivacyPage({
 
   return (
     <>
-      {/* Cabecera editorial */}
       <JsonLdMedicalClinicRef />
+      {/* Cabecera editorial */}
       <header className="relative isolate overflow-hidden bg-sand-bg py-16 lg:py-20">
         <div
           aria-hidden

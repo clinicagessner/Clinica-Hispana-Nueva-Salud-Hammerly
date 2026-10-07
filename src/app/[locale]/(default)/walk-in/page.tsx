@@ -13,7 +13,7 @@ import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { JsonLdBreadcrumb, JsonLdFaqPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { CONTACT_INFO } from "@/lib/constants";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import type { Locale } from "@/types";
@@ -119,6 +119,7 @@ export async function generateMetadata({
     title: c.metaTitle,
     description: c.metaDescription,
     alternates: buildAlternates("/walk-in", locale as Locale),
+    ...buildSocial({ title: c.metaTitle, description: c.metaDescription, path: "/walk-in", locale: locale as Locale }),
   };
 }
 
@@ -134,8 +135,8 @@ export default async function WalkInPage({
 
   return (
     <>
-      <JsonLdBreadcrumb
       <JsonLdMedicalClinicRef />
+      <JsonLdBreadcrumb
         items={[
           { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: c.eyebrow, url: absoluteUrl("/walk-in", loc) },

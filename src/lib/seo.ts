@@ -26,3 +26,41 @@ export function buildAlternates(path: string, locale: Locale) {
     },
   };
 }
+
+/**
+ * openGraph + twitter por página. En Next el openGraph de una página reemplaza
+ * entero al del layout, así que hay que repetir la imagen o se pierde.
+ */
+export function buildSocial({
+  title,
+  description,
+  path,
+  locale,
+  image = SITE_CONFIG.ogImage,
+  type = "website",
+}: {
+  title: string;
+  description: string;
+  path: string;
+  locale: Locale;
+  image?: string;
+  type?: "website" | "article";
+}) {
+  return {
+    openGraph: {
+      type,
+      title,
+      description,
+      url: absoluteUrl(path, locale),
+      siteName: SITE_CONFIG.name,
+      locale: locale === "en" ? "en_US" : "es_US",
+      images: [{ url: image }],
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title,
+      description,
+      images: [image],
+    },
+  };
+}

@@ -6,7 +6,7 @@ import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb, JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { getAllPosts } from "@/lib/blog";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
 
@@ -25,6 +25,7 @@ export async function generateMetadata({
     title: t("title"),
     description: t("subtitle"),
     alternates: buildAlternates("/blog", locale as Locale),
+    ...buildSocial({ title: t("title"), description: t("subtitle"), path: "/blog", locale: locale as Locale }),
   };
 }
 
@@ -41,8 +42,8 @@ export default async function BlogIndexPage({
 
   return (
     <>
-      <JsonLdBreadcrumb
       <JsonLdMedicalClinicRef />
+      <JsonLdBreadcrumb
         items={[
           { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: t("title"), url: absoluteUrl("/blog", loc) },

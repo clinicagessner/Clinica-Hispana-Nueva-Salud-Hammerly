@@ -30,7 +30,7 @@ import {
   getLocalizedService,
   serviceImagePath,
 } from "@/lib/utils";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -58,12 +58,13 @@ export async function generateMetadata({
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),
-    openGraph: {
+    ...buildSocial({
       title: metaTitle,
       description: l.description,
-      type: "article",
-      url: absoluteUrl(`/services/${slug}`, locale as Locale),
-    },
+      path: `/services/${slug}`,
+      locale: locale as Locale,
+      image: hasServiceImage(slug) ? serviceImagePath(slug) : undefined,
+    }),
   };
 }
 
@@ -99,8 +100,8 @@ export default async function ServiceDetailPage({
 
   return (
     <>
-      <JsonLdBreadcrumb
       <JsonLdMedicalClinicRef />
+      <JsonLdBreadcrumb
         items={[
           { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },
           { name: loc === "en" ? "Services" : "Servicios", url: absoluteUrl("/services", loc) },
@@ -111,9 +112,9 @@ export default async function ServiceDetailPage({
         name={l.title}
         description={l.description}
         url={url}
-      />
         slug={slug}
         image={hasServiceImage(slug) ? serviceImagePath(slug) : undefined}
+      />
       <JsonLdFaqPage faqs={faqs} />
 
       {/* Hero del servicio: split editorial sobre crema */}
@@ -175,8 +176,8 @@ export default async function ServiceDetailPage({
                     width={760}
                     height={570}
                     priority
-                    sizes="(max-width: 1024px) 90vw, 45vw"
                     fetchPriority="high"
+                    sizes="(max-width: 1024px) 90vw, 45vw"
                     className="aspect-4/3 h-full w-full object-cover"
                   />
                 </div>
