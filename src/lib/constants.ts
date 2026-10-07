@@ -3,7 +3,6 @@ import type {
   Promotion,
   Service,
   ServiceCategory,
-  Testimonial,
 } from "@/types";
 
 // Normaliza la URL del sitio: añade https:// si falta el esquema y quita la
@@ -88,7 +87,9 @@ export const SOCIAL_LINKS = {
 // getGooglePlaceData() cuando hay GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
 export const GOOGLE_REVIEWS_DATA = {
   averageRating: 4.9,
-  totalReviews: 310,
+// Respaldo de Places (solo nota y conteo, sin reseñas): comprobado en la web en
+// vivo el 2026-10-07 (4,9 con 339 reseñas).
+  totalReviews: 339,
 } as const;
 
 // Navbar (header): sin "Sin cita".
@@ -2617,50 +2618,5 @@ ${WHY_EN}
 ${PAYMENT_EN}
 
 ${AREAS_EN}`,
-  },
-];
-
-// Testimonios de respaldo para el carrusel cuando no hay data en vivo de Google.
-// Reseñas reales del listado de Google de la clínica Hammerly (Places API, jul 2026).
-export const FALLBACK_TESTIMONIALS: Testimonial[] = [
-  {
-    author: "Maria",
-    rating: 5,
-    text: "Excelente atención. Todo el personal fue muy amable y profesional desde que llegué. Me hicieron sentir cómoda y respondieron todas mis dudas con paciencia. El proceso fue rápido y organizado.",
-    textEn:
-      "Excellent care. The whole staff was very kind and professional from the moment I arrived. They made me feel comfortable and answered all my questions patiently. The process was fast and organized.",
-    relativeTime: "Hace 3 semanas",
-  },
-  {
-    author: "Ludwin X.",
-    rating: 5,
-    text: "Soy paciente de esta clínica hace muchos años, no me decepcionan, son muy amables y profesionales. Muchas gracias por todo.",
-    textEn:
-      "I've been a patient at this clinic for many years and they never disappoint; they are very kind and professional. Thank you for everything.",
-    relativeTime: "Hace 1 mes",
-  },
-  {
-    author: "Adolfo S.",
-    rating: 5,
-    text: "Tuve una excelente experiencia en la Clínica Hispana Nueva Salud Hammerly. Desde que llegué, el personal fue muy amable y profesional. El doctor me explicó todo con paciencia y claridad.",
-    textEn:
-      "I had an excellent experience at Clínica Hispana Nueva Salud Hammerly. From the moment I arrived, the staff was very kind and professional. The doctor explained everything patiently and clearly.",
-    relativeTime: "Hace 3 meses",
-  },
-  {
-    author: "Retro L.",
-    rating: 5,
-    text: "Excelente atención y servicio. Todo el personal es muy amable y profesional y te hacen sentir en confianza desde el primer momento. La clínica está muy limpia y organizada, y explican todo claramente en español.",
-    textEn:
-      "Excellent care and service. The whole staff is very kind and professional and they put you at ease from the very first moment. The clinic is very clean and organized, and they explain everything clearly in Spanish.",
-    relativeTime: "Hace 4 meses",
-  },
-  {
-    author: "Cristian D.",
-    rating: 5,
-    text: "Llegué con una molestia médica pequeña y me atendieron rápido y con mucha amabilidad. El problema se resolvió sin complicaciones. Se nota el profesionalismo del equipo y la clínica se mantiene muy limpia.",
-    textEn:
-      "I came in with a minor medical issue and was seen quickly and with great kindness. The problem was resolved without complications. The team's professionalism shows and the clinic is kept very clean.",
-    relativeTime: "Hace 5 meses",
   },
 ];

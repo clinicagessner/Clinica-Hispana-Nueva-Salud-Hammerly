@@ -116,14 +116,6 @@ export interface LocalizedFaq {
   answer: string;
 }
 
-export interface Testimonial {
-  author: string;
-  rating: number;
-  text: string;
-  textEn: string;
-  relativeTime?: string;
-}
-
 export interface BlogFrontmatter {
   title: string;
   description: string;
