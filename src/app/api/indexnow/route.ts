@@ -3,13 +3,25 @@ import { SITE_CONFIG } from "@/lib/constants";
 
 /**
  * Ping a IndexNow (Bing, Yandex, etc.) para notificar URLs nuevas/actualizadas.
- * Requiere INDEXNOW_KEY en .env y el archivo de verificación servido en
- * /public/<INDEXNOW_KEY>.txt (cuyo contenido es la propia key).
+ * Requiere INDEXNOW_KEY (pública por diseño, servida en /public/<key>.txt) e
+ * INDEXNOW_TOKEN (privada) para que solo nosotros podamos enviar URLs.
  *
+ * Cabecera obligatoria: Authorization: Bearer <INDEXNOW_TOKEN>.
  * Body opcional: { "urls": ["https://.../a", "https://.../b"] }
  * Sin body, envía la home.
  */
 export async function POST(request: Request) {
+  const token = process.env.INDEXNOW_TOKEN;
+  if (!token) {
+    return NextResponse.json(
+      { error: "INDEXNOW_TOKEN no configurada" },
+      { status: 503 },
+    );
+  }
+  if (request.headers.get("authorization") !== `Bearer ${token}`) {
+    return NextResponse.json({ error: "No autorizado" }, { status: 401 });
+  }
+
   const key = process.env.INDEXNOW_KEY;
   if (!key) {
     return NextResponse.json(
@@ -24,7 +36,10 @@ export async function POST(request: Request) {
   try {
     const body = (await request.json()) as { urls?: unknown };
     if (Array.isArray(body?.urls)) {
-      urlList = body.urls.filter((u): u is string => typeof u === "string");
+      urlList = body.urls.filter(
+        (u): u is string =>
+          typeof u === "string" && u.startsWith(SITE_CONFIG.baseUrl),
+      );
     }
   } catch {
     // sin body válido → se usa el fallback
