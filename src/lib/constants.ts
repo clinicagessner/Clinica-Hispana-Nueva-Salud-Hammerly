@@ -1026,8 +1026,8 @@ ${AREAS_EN}`,
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre: PSA y Testosterona",
-    titleEn: "Men's Health Exams: PSA & Testosterone",
+    title: "Salud del Hombre: Examen de Próstata (PSA)",
+    titleEn: "Men's Health: Prostate Exam (PSA)",
     shortDescription:
       "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
     shortDescriptionEn:
