@@ -55,8 +55,8 @@
   --warning: #d98a1f;
 
   /* WhatsApp (color oficial de la marca) */
-  --whatsapp: #25d366;
-  --whatsapp-dark: #1da851;
+  --whatsapp: #15803d; /* verde WhatsApp oscurecido: texto blanco 5,0:1 (B4, WCAG AA) */
+  --whatsapp-dark: #166534;
 
   /* ── Tokens shadcn mapeados a la paleta (modo claro) ── */
   --background: #ffffff;
