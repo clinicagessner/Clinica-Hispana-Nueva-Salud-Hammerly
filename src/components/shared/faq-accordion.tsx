@@ -10,7 +10,9 @@ import type { LocalizedFaq } from "@/types";
 
 export function FaqAccordion({ items }: { items: LocalizedFaq[] }) {
   return (
-    <Accordion className="w-full">
+    // hiddenUntilFound: las respuestas cerradas van en el HTML del servidor
+    // (hidden="until-found") para Google y bots de IA, y Ctrl+F las abre.
+    <Accordion hiddenUntilFound className="w-full">
       {items.map((faq, i) => (
         <AccordionItem
           key={i}
