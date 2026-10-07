@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 2  📨 ENVIADA 06/10/2026
+## Tanda 2  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 46 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examenes-inmigracion  — cambiada 2026-10-02 · rastreada 2026-09-17 · indexada · 42 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/curacion-heridas  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 39 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-02 · rastreada 2026-09-29 · indexada · 33 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-02 · rastreada 2026-07-15 · indexada · 31 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/ultrasonido  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 23 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 22 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 22 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-02 · rastreada 2026-09-11 · indexada · 18 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-02 · rastreada 2026-09-20 · indexada · 16 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 46 impr.
+- [x] https://www.clinicahispananhammerly.com/services/examenes-inmigracion  — cambiada 2026-10-02 · rastreada 2026-09-17 · indexada · 42 impr.
+- [x] https://www.clinicahispananhammerly.com/services/curacion-heridas  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 39 impr.
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-02 · rastreada 2026-09-29 · indexada · 33 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-02 · rastreada 2026-07-15 · indexada · 31 impr.
+- [x] https://www.clinicahispananhammerly.com/services/ultrasonido  — cambiada 2026-10-02 · rastreada 2026-09-23 · indexada · 23 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-02 · rastreada 2026-09-19 · indexada · 22 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-02 · rastreada 2026-08-24 · indexada · 22 impr.
+- [x] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-02 · rastreada 2026-09-11 · indexada · 18 impr.
+- [x] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-02 · rastreada 2026-09-20 · indexada · 16 impr.
 
 ## Tanda 3
 
