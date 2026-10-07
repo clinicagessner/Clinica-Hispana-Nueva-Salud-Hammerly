@@ -10,6 +10,7 @@ import { ScrollLink } from "@/components/shared/scroll-link";
 import {
   CONTACT_INFO,
   FOOTER_NAV_LINKS,
+  SERVICE_CATEGORIES,
   SITE_CONFIG,
   SOCIAL_LINKS,
 } from "@/lib/constants";
@@ -22,9 +23,8 @@ export function Footer() {
   const tNav = useTranslations("Nav");
   const locale = useLocale() as Locale;
   const year = new Date().getFullYear();
-  const services = getAllServices()
-    .slice(0, 6)
-    .map((s) => getLocalizedService(s, locale));
+  const allServices = getAllServices().map((s) => getLocalizedService(s, locale));
+  const services = allServices.slice(0, 6);
 
   return (
     <footer className="relative overflow-hidden bg-blue-deep text-sky-alt">
@@ -158,6 +158,41 @@ export function Footer() {
             </ul>
           </div>
         </div>
+
+        {/* Todos los servicios, por categoría */}
+        <nav
+          aria-label={t("allServicesTitle")}
+          className="mt-12 border-t border-white/10 pt-8"
+        >
+          <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
+            {t("allServicesTitle")}
+          </h2>
+          <div className="mt-5 grid gap-6 sm:grid-cols-2 lg:grid-cols-5">
+            {SERVICE_CATEGORIES.map((c) => {
+              const items = allServices.filter((s) => s.category === c.value);
+              if (items.length === 0) return null;
+              return (
+                <div key={c.value}>
+                  <h3 className="text-xs font-semibold uppercase tracking-wider text-sky-bg/70">
+                    {locale === "en" ? c.labelEn : c.label}
+                  </h3>
+                  <ul className="mt-3 space-y-2 text-sm">
+                    {items.map((s) => (
+                      <li key={s.slug}>
+                        <Link
+                          href={`/services/${s.slug}`}
+                          className="text-sky-bg/80 hover:text-teal-light"
+                        >
+                          {s.title}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              );
+            })}
+          </div>
+        </nav>
 
         {/* Disclaimer médico */}
         <p className="mt-12 border-t border-white/10 pt-6 text-xs leading-relaxed text-sky-bg/60">
