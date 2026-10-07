@@ -1,6 +1,6 @@
 ---
 title: "Guide to the I-693 immigration medical exam in Houston"
-description: "Everything about the I-693 medical exam in Houston: what it includes, which vaccines you need and how to get the form sealed by a USCIS-authorized physician."
+description: "The I-693 medical exam in Houston: what it includes, which vaccines you need and how the USCIS-designated civil surgeon seals the form."
 date: "2026-03-18"
 updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"

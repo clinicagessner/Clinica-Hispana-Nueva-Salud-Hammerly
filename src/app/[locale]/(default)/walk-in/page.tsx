@@ -13,7 +13,7 @@ import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { JsonLdBreadcrumb, JsonLdFaqPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { CONTACT_INFO } from "@/lib/constants";
-import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial, seoTitle } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import type { Locale } from "@/types";
@@ -23,7 +23,7 @@ const COPY = {
   es: {
     metaTitle: "Clínica Hispana Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Atención médica sin cita previa en nuestra clínica hispana de Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
+      "Atención médica sin cita en Spring Branch, Houston, en español y sin seguro. Lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
     eyebrow: "Atención sin cita previa",
     title: "Tu clínica hispana te atiende hoy, sin cita y en español",
     subtitle:
@@ -65,7 +65,7 @@ const COPY = {
   en: {
     metaTitle: "Hispanic Walk-in Clinic in Houston - No Appointment, Spanish",
     metaDescription:
-      "Walk-in medical care at our Hispanic clinic in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Saturday, 9 AM to 9 PM, and Sunday, 9 AM to 5 PM.",
+      "Walk-in medical care in Spring Branch, Houston, in Spanish and with no insurance needed. Mon-Sat 9 AM to 9 PM, Sunday 9 AM to 5 PM.",
     eyebrow: "Walk-ins welcome",
     title: "Your Hispanic clinic sees you today—no appointment, in Spanish",
     subtitle:
@@ -116,7 +116,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const c = COPY[locale === "en" ? "en" : "es"];
   return {
-    title: c.metaTitle,
+    title: seoTitle(c.metaTitle),
     description: c.metaDescription,
     alternates: buildAlternates("/walk-in", locale as Locale),
     ...buildSocial({ title: c.metaTitle, description: c.metaDescription, path: "/walk-in", locale: locale as Locale }),

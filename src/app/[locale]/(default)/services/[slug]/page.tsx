@@ -31,7 +31,7 @@ import {
   getLocalizedService,
   serviceImagePath,
 } from "@/lib/utils";
-import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial, ADS_LANDING_SLUGS, seoTitle } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -55,7 +55,7 @@ export async function generateMetadata({
   const l = getLocalizedService(service, locale as Locale);
   const metaTitle = l.metaTitle ?? l.title;
   return {
-    title: metaTitle,
+    title: ADS_LANDING_SLUGS.has(slug) ? metaTitle : seoTitle(metaTitle),
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),

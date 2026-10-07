@@ -10,7 +10,7 @@ import {
   getCategoryLabel,
   getServiceCardData,
 } from "@/lib/services";
-import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial, seoTitle } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
 
@@ -26,7 +26,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "ServicesPage" });
   return {
-    title: t("title"),
+    title: seoTitle(t("title")),
     description: t("subtitle"),
     alternates: buildAlternates("/services", locale as Locale),
     ...buildSocial({ title: t("title"), description: t("subtitle"), path: "/services", locale: locale as Locale }),

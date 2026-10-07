@@ -21,7 +21,7 @@ import { getGooglePlaceData } from "@/lib/google-places";
 import { getAllServices } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
 import { CONTACT_INFO } from "@/lib/constants";
-import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial, seoTitle } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale, LocalizedFaq } from "@/types";
 
@@ -37,7 +37,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "PromotionsPage" });
   return {
-    title: t("metaTitle"),
+    title: seoTitle(t("metaTitle")),
     description: t("metaDescription"),
     alternates: buildAlternates("/promociones", locale as Locale),
     ...buildSocial({ title: t("metaTitle"), description: t("metaDescription"), path: "/promociones", locale: locale as Locale }),

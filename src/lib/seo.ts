@@ -64,3 +64,23 @@ export function buildSocial({
     },
   };
 }
+
+// Landings de Google Ads (RED.md): su <title> no se toca sin aprobación del usuario.
+export const ADS_LANDING_SLUGS = new Set([
+  "ginecologia",
+  "infecciones-urinarias",
+  "condiciones-cronicas",
+  "examenes-inmigracion",
+  "sueros-vitaminados",
+]);
+
+/**
+ * Título de 60 caracteres o menos: con el sufijo de marca del layout si cabe;
+ * si no, el título solo (absolute). Los que pasan de 60 por sí solos llevan
+ * un metaTitle propio.
+ */
+export function seoTitle(title: string) {
+  const suffix = ` | ${SITE_CONFIG.shortName}`;
+  if (title.length + suffix.length <= 60) return title;
+  return { absolute: title };
+}

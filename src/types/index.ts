@@ -127,6 +127,8 @@ export interface BlogFrontmatter {
   cover: string;
   coverAlt: string;
   keywords?: string[];
+  /** <title> propio si el título del post pasa de 60 caracteres. */
+  metaTitle?: string;
   /** Slugs de los servicios de los que trata el post (enlaces cruzados). */
   services?: string[];
 }
