@@ -3,59 +3,45 @@ import type { ServiceFaq } from "@/types";
 // FAQs generales del home (bilingüe). También alimentan el FAQPage JSON-LD.
 export const HOME_FAQS: ServiceFaq[] = [
   {
-    question: "¿Necesito cita para que me atiendan?",
-    answer:
-      "No. Atendemos sin cita previa de lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM. También puedes llamarnos para reservar un horario.",
-    questionEn: "Do I need an appointment to be seen?",
-    answerEn:
-      "No. We welcome walk-ins Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 5:00 PM. You can also call us to reserve a time.",
+    question: "¿Puedo llegar a la clínica sin haber llamado antes?",
+    answer: "Sí, aquí se atiende por orden de llegada, sin cita previa. Las puertas abren a las 9 AM los siete días; de lunes a sábado cerramos a las 9 PM y el domingo a las 5 PM.",
+    questionEn: "Can I show up at the clinic without calling first?",
+    answerEn: "Yes, patients are seen in order of arrival, with no appointment. Doors open at 9 AM all seven days; Monday through Saturday we close at 9 PM, and on Sunday at 5 PM.",
   },
   {
-    question: "¿Atienden a pacientes sin seguro médico?",
-    answer:
-      "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-    questionEn: "Do you see patients without health insurance?",
-    answerEn:
-      "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
+    question: "Si no tengo aseguranza, ¿cómo pago la consulta?",
+    answer: "No necesitas seguro médico para atenderte en Clínica Hispana Nueva Salud Hammerly. Pagas en el momento con efectivo o con tarjeta de débito o crédito, y antes de cualquier servicio puedes preguntar el precio en recepción.",
+    questionEn: "If I don't have insurance, how do I pay for my visit?",
+    answerEn: "You don't need health insurance to be seen at Clínica Hispana Nueva Salud Hammerly. You pay at the visit with cash or a debit or credit card, and you can ask the front desk about the price before any service.",
   },
   {
-    question: "¿El personal habla español?",
-    answer:
-      "Sí, todo nuestro equipo te atiende 100% en español. También ofrecemos atención en inglés.",
-    questionEn: "Does the staff speak Spanish?",
-    answerEn:
-      "Yes, our entire team cares for you 100% in Spanish. We also offer care in English.",
+    question: "¿En qué idiomas me pueden atender?",
+    answer: "En español y en inglés. Puedes explicar tus síntomas, hacer preguntas y recibir las indicaciones del equipo médico en el idioma con el que te sientas más cómodo, y si vienes con familiares que prefieren otro de los dos, también se les atiende.",
+    questionEn: "Which languages can I be seen in?",
+    answerEn: "Spanish and English. You can describe your symptoms, ask questions and get the medical team's instructions in whichever language feels most comfortable, and relatives who prefer the other one are welcome too.",
   },
   {
-    question: "¿Qué servicios ofrecen?",
-    answer:
-      "Medicina familiar, exámenes de inmigración I-693, laboratorio, ultrasonido, ginecología, examen DOT, control de diabetes e hipertensión y mucho más.",
-    questionEn: "What services do you offer?",
-    answerEn:
-      "Family medicine, I-693 immigration exams, lab work, ultrasound, gynecology, DOT exams, diabetes and hypertension management and much more.",
+    question: "¿Qué puedo resolver en una sola visita a la clínica?",
+    answer: "Consultas generales, control de diabetes y presión, laboratorio en el lugar, ultrasonido, electrocardiograma, examen DOT, examen de inmigración I-693, vacunas, suturas y cirugías menores. Y antes de salir recoges en la farmacia del local lo que el equipo médico te indicó.",
+    questionEn: "What can I take care of in a single visit?",
+    answerEn: "General visits, diabetes and blood pressure care, on-site lab work, ultrasound, EKG, DOT exams, the I-693 immigration exam, vaccines, stitches and minor surgery. Medications ordered during the visit are handed out at our pharmacy as well.",
   },
   {
-    question: "¿Dónde están ubicados?",
-    answer:
-      "Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, en Spring Branch, sirviendo a Memorial, Spring Valley Village, Long Point, el corredor de la I-10 y el oeste de Houston.",
-    questionEn: "Where are you located?",
-    answerEn:
-      "We are at 8538 Hammerly Blvd Suite B, Houston, TX 77055, in Spring Branch, serving Memorial, Spring Valley Village, Long Point, the I-10 corridor and west Houston.",
+    question: "¿Cuál es la dirección exacta y hay dónde estacionarse?",
+    answer: "Estamos en 8538 Hammerly Blvd Suite B, Houston, TX 77055, en la zona de Spring Branch. Hay estacionamiento gratuito frente al local, y tanto la entrada como el estacionamiento y los baños son accesibles en silla de ruedas.",
+    questionEn: "What's the exact address, and is there parking?",
+    answerEn: "We're at 8538 Hammerly Blvd Suite B, Houston, TX 77055, in the Spring Branch area. Free parking is available on site, and the entrance, parking and restrooms are all wheelchair accessible.",
   },
   {
-    question: "¿Buscas una clínica hispana cerca de mí en Houston?",
-    answer:
-      "Somos una clínica hispana y latina en Spring Branch: un centro médico cerca de ti con médico primario, atención sin cita y precios accesibles, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM.",
-    questionEn: "Looking for a Hispanic clinic near me in Houston?",
-    answerEn:
-      "We are a Hispanic and Latino clinic in Spring Branch: a medical center near you with primary care, walk-in service and affordable pricing, Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 5 PM.",
+    question: "¿Hacen análisis de sangre y orina dentro de la clínica?",
+    answer: "Sí. Contamos con laboratorio propio para tomar muestras de sangre, orina y heces sin mandarte a otro sitio, y también con ultrasonido y electrocardiograma. Cuando tus resultados estén listos, te avisamos para revisarlos contigo.",
+    questionEn: "Do you run blood and urine tests inside the clinic?",
+    answerEn: "Yes. We have our own lab to collect blood, urine and stool samples without sending you elsewhere, plus ultrasound and EKG. Once your results are ready, we let you know and go over them with you.",
   },
   {
-    question: "¿Realizan el examen médico de inmigración?",
-    answer:
-      "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas y el formulario sellado el mismo día.",
-    questionEn: "Do you perform the immigration medical exam?",
-    answerEn:
-      "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines and the sealed form the same day.",
+    question: "¿Quién firma el examen médico para inmigración?",
+    answer: "El examen I-693 lo realiza y firma un Civil Surgeon autorizado por USCIS. Al terminar el proceso recibes el formulario sellado en sobre cerrado, que debes entregar sin abrir. Te avisamos en cuanto esté listo para recogerlo.",
+    questionEn: "Who signs the immigration medical exam?",
+    answerEn: "Your I-693 is completed and signed by a Civil Surgeon whom USCIS has authorized. When the process is complete you receive the form sealed in a closed envelope, which must be submitted unopened. We'll let you know as soon as it's ready to pick up.",
   },
 ];
