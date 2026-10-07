@@ -1033,20 +1033,20 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
+      "Salud del hombre en Houston, TX: examen de próstata (PSA) y chequeo general con laboratorio, en español y sin seguro médico.",
     descriptionEn:
-      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
+      "Men's health in Houston, TX: prostate exam (PSA) and a general checkup with lab work, in Spanish and with no insurance needed.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
-      "examen de testosterona houston",
+      "chequeo del hombre houston",
     ],
     keywordsEn: [
       "mens health houston",
       "psa test houston",
       "prostate exam houston",
-      "testosterone test houston",
+      "mens checkup houston",
     ],
     features: [
       "Antígeno prostático (PSA)",
@@ -2555,29 +2555,29 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pick up your medications right after your visit — no second stop.",
     description:
-      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Farmacia dentro de la clínica en Houston, TX: recoge los medicamentos indicados en tu consulta y productos de venta libre, en español.",
     descriptionEn:
-      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "In-clinic pharmacy in Houston, TX: pick up the medications prescribed at your visit and over-the-counter products, in Spanish.",
     keywords: [
       "farmacia en houston",
       "farmacia hispana houston",
       "farmacia cerca de mí houston",
-      "surtir receta houston",
+      "medicamentos en la clinica houston",
     ],
     keywordsEn: [
       "pharmacy houston",
       "hispanic pharmacy houston",
       "pharmacy near me houston",
-      "fill prescription houston",
+      "medications at the clinic houston",
     ],
     features: [
-      "Surtido de tu receta al instante",
+      "Medicamentos indicados en tu consulta",
       "Medicamentos de marca y genéricos",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
+      "Medications prescribed at your visit",
       "Brand-name and generic medications",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
