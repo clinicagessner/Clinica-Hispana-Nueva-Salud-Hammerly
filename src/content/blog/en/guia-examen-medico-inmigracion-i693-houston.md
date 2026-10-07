@@ -2,7 +2,7 @@
 title: "Guide to the I-693 immigration medical exam in Houston"
 description: "The I-693 medical exam in Houston: what it includes, which vaccines you need and how the USCIS-designated civil surgeon seals the form."
 date: "2026-03-18"
-updated: "2026-10-02"
+updated: "2026-10-07"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Immigration"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
@@ -49,7 +49,7 @@ No card or records? Come anyway — the exam can still be done; you may simply n
 
 ## How long does the whole process take?
 
-The visit itself is short. Lab results can take a few days, and with them the doctor completes and seals the form. As soon as your envelope is ready, we let you know so you can pick it up.
+The visit itself is short. Lab results can take a few days, and with them the civil surgeon completes and seals the form. As soon as your envelope is ready, we let you know so you can pick it up.
 
 ## Tips so nothing delays you
 
@@ -71,7 +71,7 @@ It's not required: we see patients first-come, first-served Monday to Saturday f
 The validity rules for the I-693 have changed in recent years. Confirm the current policy with your immigration attorney or at uscis.gov before scheduling, so you file it at the right point in your case.
 
 **What if I have diabetes, high blood pressure or another chronic condition?**
-A controlled condition generally doesn't keep you from passing the exam. The doctor notes it on the form along with your treatment. If you need to catch up on your care, we can also help with [diabetes and hypertension management](/en/services/condiciones-cronicas).
+A controlled condition generally doesn't keep you from passing the exam. The civil surgeon notes it on the form along with your treatment. If you need to catch up on your care, we can also help with [diabetes and hypertension management](/en/services/condiciones-cronicas).
 
 **Do you do the exam for children?**
 Yes — the I-693 is required for every applicant, including minors. Tests and vaccines vary by age.

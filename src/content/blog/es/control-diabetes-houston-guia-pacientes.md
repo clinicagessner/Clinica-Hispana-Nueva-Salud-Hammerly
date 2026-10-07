@@ -2,7 +2,7 @@
 title: "Control de diabetes en Houston: guía para pacientes"
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Houston."
 date: "2026-02-10"
-updated: "2026-07-22"
+updated: "2026-10-07"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"
@@ -46,4 +46,4 @@ La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Po
 
 ## Cuenta con nosotros
 
-En Clínica Hispana Nueva Salud Hammerly tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(832) 280-9555** y toma el control de tu salud.
+En Clínica Hispana Nueva Salud Hammerly tenemos un programa de control de diabetes en español, con laboratorio en la misma clínica y un plan personalizado. Llámanos al **(832) 280-9555** y toma el control de tu salud.

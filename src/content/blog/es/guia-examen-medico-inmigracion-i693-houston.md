@@ -2,7 +2,7 @@
 title: "Guía del examen médico de inmigración I-693 en Houston"
 description: "Todo sobre el examen médico I-693 en Houston: qué incluye, qué vacunas necesitas y cómo recibir el formulario sellado por un médico autorizado por USCIS."
 date: "2026-03-18"
-updated: "2026-10-02"
+updated: "2026-10-07"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Inmigración"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
@@ -49,7 +49,7 @@ USCIS requiere las vacunas recomendadas según tu edad e historial — entre ell
 
 ## ¿Cuánto tarda todo el proceso?
 
-La visita en sí es corta. Los resultados de laboratorio pueden tardar unos días, y con ellos el médico completa y sella el formulario. En cuanto tu sobre esté listo, te avisamos para que pases a recogerlo.
+La visita en sí es corta. Los resultados de laboratorio pueden tardar unos días, y con ellos el Civil Surgeon completa y sella el formulario. En cuanto tu sobre esté listo, te avisamos para que pases a recogerlo.
 
 ## Consejos para que nada te retrase
 
@@ -71,7 +71,7 @@ No es obligatoria: atendemos por orden de llegada de lunes a sábado de 9 AM a 9
 Las reglas de vigencia del I-693 han cambiado en los últimos años. Confirma la política actual con tu abogado de inmigración o en uscis.gov antes de programar tu examen, para presentarlo en el momento correcto de tu caso.
 
 **¿Qué pasa si tengo diabetes, presión alta u otra condición crónica?**
-Tener una condición controlada no impide, por lo general, aprobar el examen. El médico la anota en el formulario junto con tu tratamiento. Si necesitas ponerte al día con tu control, también podemos ayudarte con el [manejo de diabetes e hipertensión](/services/condiciones-cronicas).
+Tener una condición controlada no impide, por lo general, aprobar el examen. El Civil Surgeon la anota en el formulario junto con tu tratamiento. Si necesitas ponerte al día con tu control, también podemos ayudarte con el [manejo de diabetes e hipertensión](/services/condiciones-cronicas).
 
 **¿Hacen el examen para niños?**
 Sí — el I-693 se requiere para cada solicitante, incluidos menores. Las pruebas y vacunas varían según la edad.

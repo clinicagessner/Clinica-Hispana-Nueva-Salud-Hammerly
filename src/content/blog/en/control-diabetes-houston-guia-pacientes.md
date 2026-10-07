@@ -2,7 +2,7 @@
 title: "Diabetes management in Houston: a patient guide"
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Houston."
 date: "2026-02-10"
-updated: "2026-07-22"
+updated: "2026-10-07"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"
@@ -46,4 +46,4 @@ Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why r
 
 ## Count on us
 
-At Clínica Hispana Nueva Salud Hammerly we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(832) 280-9555** and take control of your health.
+At Clínica Hispana Nueva Salud Hammerly we have a diabetes management program in Spanish, with on-site lab work and a personalized plan. Call us at **(832) 280-9555** and take control of your health.

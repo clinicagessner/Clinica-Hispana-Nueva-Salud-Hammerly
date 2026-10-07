@@ -2,7 +2,7 @@
 title: "Men's health in Houston: preventive checkups that save lives"
 description: "A guide to preventive checkups for men in Houston: PSA, testosterone, blood work and warning signs, with care in Spanish."
 date: "2026-07-22"
-updated: "2026-10-02"
+updated: "2026-10-07"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Men's health"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
@@ -23,7 +23,7 @@ Many men only see a doctor when something already hurts. The problem is that hig
 
 ## Why should men get regular checkups?
 
-The statistics are clear: men visit the doctor far less than women, and Hispanic men working long shifts tend to postpone their health even more. An annual checkup helps you:
+Many men put off routine checkups, and Hispanic men working long shifts tend to postpone their health even more. An annual checkup helps you:
 
 - **Detect early** high blood pressure, diabetes and high cholesterol, before they damage your heart or kidneys
 - **Monitor your prostate** with a simple blood test (PSA)
