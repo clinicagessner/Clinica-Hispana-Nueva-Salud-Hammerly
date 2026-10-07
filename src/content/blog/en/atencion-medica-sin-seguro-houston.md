@@ -11,6 +11,10 @@ keywords:
   - "healthcare without insurance houston"
   - "clinic no insurance houston"
   - "affordable doctor houston"
+services:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "farmacia"
 ---
 
 Not having health insurance doesn't mean going without care. In Houston — one of the cities with the most uninsured residents in the country — there are real options for looking after your health at a fair price, and Clínica Hispana Nueva Salud Hammerly is one of them. Here's how it works and how to make the most of it.

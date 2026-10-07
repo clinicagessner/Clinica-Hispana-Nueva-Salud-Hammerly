@@ -127,6 +127,8 @@ export interface BlogFrontmatter {
   cover: string;
   coverAlt: string;
   keywords?: string[];
+  /** Slugs de los servicios de los que trata el post (enlaces cruzados). */
+  services?: string[];
 }
 
 export interface BlogPost extends BlogFrontmatter {

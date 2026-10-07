@@ -11,6 +11,10 @@ keywords:
   - "atención médica sin seguro houston"
   - "clínica sin seguro houston"
   - "doctor barato houston español"
+services:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "farmacia"
 ---
 
 No tener seguro médico no significa quedarte sin atención. En Houston — una de las ciudades con más personas sin seguro del país — existen opciones reales para cuidar tu salud a un precio justo, y en Clínica Hispana Nueva Salud Hammerly somos una de ellas. Aquí te explicamos cómo funciona y cómo sacarle el mayor provecho.

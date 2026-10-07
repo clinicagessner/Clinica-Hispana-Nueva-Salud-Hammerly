@@ -11,6 +11,10 @@ keywords:
   - "salud de la mujer houston"
   - "ginecología houston español"
   - "clínica de la mujer houston"
+services:
+  - "ginecologia"
+  - "prueba-embarazo"
+  - "ultrasonido"
 ---
 
 Cuidar tu salud como mujer va más allá de una sola consulta: es un acompañamiento en cada etapa de tu vida. En Houston puedes acceder a estos servicios en español y con confianza.

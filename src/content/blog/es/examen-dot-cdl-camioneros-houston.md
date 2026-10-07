@@ -11,6 +11,10 @@ keywords:
   - "examen dot houston"
   - "examen cdl houston español"
   - "dot physical houston"
+services:
+  - "examen-dot"
+  - "examen-alcohol-drogas"
+  - "examen-fisico-escolar"
 ---
 
 Si manejas camiones u otros vehículos comerciales, el examen físico DOT es un requisito que no puedes dejar pasar: sin certificado médico vigente no hay licencia CDL. Aquí te explicamos en español qué evalúa, qué llevar y cómo salir el mismo día con tu certificado.

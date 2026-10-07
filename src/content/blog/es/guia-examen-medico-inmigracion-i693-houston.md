@@ -11,6 +11,10 @@ keywords:
   - "examen de inmigración houston"
   - "examen i-693 houston"
   - "civil surgeon houston español"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 El examen médico de inmigración (Formulario I-693) es un paso obligatorio en muchos procesos de ajuste de estatus. No es un trámite complicado, pero llegar preparado te evita viajes extra, gastos repetidos y retrasos en tu caso. Esta guía en español te explica qué incluye, qué llevar y qué esperar.

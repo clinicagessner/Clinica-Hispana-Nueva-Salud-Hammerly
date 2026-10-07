@@ -11,6 +11,10 @@ keywords:
   - "hispanic clinic houston"
   - "spanish speaking doctor houston"
   - "walk in clinic houston"
+services:
+  - "ultrasonido"
+  - "curacion-heridas"
+  - "electrocardiograma"
 ---
 
 At Clínica Hispana Nueva Salud Hammerly we believe that taking care of your health shouldn't be complicated or expensive—and certainly not held back by language. That's why we opened our doors in Houston with a clear mission: to offer professional, caring healthcare **100% in Spanish** for the entire Hispanic community.

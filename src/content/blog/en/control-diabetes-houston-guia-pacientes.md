@@ -11,6 +11,10 @@ keywords:
   - "diabetes management houston"
   - "diabetes doctor houston"
   - "diabetes patient guide"
+services:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "electrocardiograma"
 ---
 
 Diabetes is one of the most common conditions in the Hispanic community, but with the right management you can live a full, active life. This guide explains the essentials in simple terms.

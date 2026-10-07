@@ -24,6 +24,7 @@ import {
   hasServiceImage,
 } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
+import { getAllPosts } from "@/lib/blog";
 import { CONTACT_INFO } from "@/lib/constants";
 import {
   getLocalizedFaq,
@@ -84,6 +85,7 @@ export default async function ServiceDetailPage({
   const t = await getTranslations("ServiceDetail");
   const categoryLabel = getCategoryLabel(l.category, loc);
   const faqs = getServiceFaqs(slug).map((f) => getLocalizedFaq(f, loc));
+  const posts = getAllPosts(loc).filter((p) => p.services?.includes(slug));
   const related = getRelatedServices(slug, 3).map((s) => {
     const rl = getLocalizedService(s, loc);
     return {
@@ -292,6 +294,28 @@ export default async function ServiceDetailPage({
           </aside>
         </div>
       </section>
+
+      {posts.length > 0 && (
+        <section className="bg-white py-14 lg:py-16">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <h2 className="font-heading text-2xl font-black tracking-tight text-ink sm:text-3xl">
+              {t("postsTitle")}
+            </h2>
+            <ul className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {posts.map((p) => (
+                <li key={p.slug}>
+                  <Link
+                    href={`/blog/${p.slug}`}
+                    className="block h-full rounded-2xl border border-slate-200 bg-white p-5 font-heading text-lg font-semibold leading-snug text-blue-dark shadow-sm transition-colors hover:border-red-accent hover:text-red-accent"
+                  >
+                    {p.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
 
       {/* Relacionados */}
       <section className="bg-sand-bg py-16 lg:py-20">

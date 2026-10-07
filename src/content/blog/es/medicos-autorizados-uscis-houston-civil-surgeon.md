@@ -11,6 +11,10 @@ keywords:
   - "médico autorizado uscis houston"
   - "civil surgeon houston español"
   - "doctor de inmigración houston"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 Cuando inicias un proceso de inmigración que requiere examen médico, escucharás el término *civil surgeon*. Elegir bien a este médico es más importante de lo que parece: un examen hecho por el doctor equivocado simplemente no cuenta. Aquí te explicamos en español qué es, cómo verificarlo y qué esperar de la visita.

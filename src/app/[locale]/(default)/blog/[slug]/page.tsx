@@ -65,7 +65,10 @@ export default async function BlogPostPage({
 
   const t = await getTranslations("BlogPost");
   const url = absoluteUrl(`/blog/${slug}`, loc);
-  const related = getAllPosts(loc)
+  // Los 3 siguientes en orden circular: cada post recibe enlaces de sus vecinos.
+  const allPosts = getAllPosts(loc);
+  const idx = allPosts.findIndex((p) => p.slug === slug);
+  const related = [...allPosts.slice(idx + 1), ...allPosts.slice(0, Math.max(idx, 0))]
     .filter((p) => p.slug !== slug)
     .slice(0, 3);
 

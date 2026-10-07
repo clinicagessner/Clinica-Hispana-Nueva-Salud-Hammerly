@@ -11,6 +11,10 @@ keywords:
   - "control de diabetes houston"
   - "doctor de diabetes español houston"
   - "guía diabetes pacientes"
+services:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "electrocardiograma"
 ---
 
 La diabetes es una de las condiciones más comunes en la comunidad hispana, pero con el control adecuado puedes llevar una vida plena y activa. Esta guía te explica lo esencial en palabras simples.

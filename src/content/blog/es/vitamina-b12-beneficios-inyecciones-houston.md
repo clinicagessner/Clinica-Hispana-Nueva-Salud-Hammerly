@@ -14,6 +14,10 @@ keywords:
   - "para qué sirve la vitamina b12"
   - "sueros vitaminados houston"
   - "prueba de vitamina b12 spring branch houston"
+services:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "farmacia"
 ---
 
 ¿Te sientes cansado todo el tiempo aunque duermas bien? ¿Notas hormigueo en las manos o los pies, se te olvidan las cosas o te falta energía para el trabajo? Antes de acostumbrarte a vivir así, vale la pena revisar algo muy sencillo: tu nivel de **vitamina B12**. La deficiencia de esta vitamina es mucho más común de lo que se piensa — y se corrige fácilmente cuando se detecta a tiempo.

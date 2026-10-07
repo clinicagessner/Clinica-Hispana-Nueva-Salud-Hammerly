@@ -11,6 +11,10 @@ keywords:
   - "laboratorio clínico houston"
   - "análisis de sangre houston"
   - "laboratorio cerca de mí houston"
+services:
+  - "examenes-sangre"
+  - "examen-heces"
+  - "enfermedades-transmision-sexual"
 ---
 
 Un análisis de sangre puede contar mucho sobre tu salud, incluso antes de que aparezca cualquier síntoma. La diabetes, el colesterol alto y los problemas de tiroides suelen avanzar en silencio durante años — y los tres se detectan con una muestra de sangre. Aquí te explicamos qué análisis existen, para qué sirve cada uno y cómo hacértelos en Houston sin cita y en español.

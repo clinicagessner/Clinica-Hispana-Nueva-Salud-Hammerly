@@ -11,6 +11,10 @@ keywords:
   - "ginecólogo houston español"
   - "clínica de la mujer houston"
   - "papanicolaou houston"
+services:
+  - "ginecologia"
+  - "ultrasonido"
+  - "anticonceptivos"
 ---
 
 Para muchas mujeres hispanas, hablar de su salud íntima en otro idioma es incómodo y hasta intimidante. Por eso contar con atención ginecológica **en español** marca una gran diferencia.

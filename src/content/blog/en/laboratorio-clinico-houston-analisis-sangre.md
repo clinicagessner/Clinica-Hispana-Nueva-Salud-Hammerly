@@ -11,6 +11,10 @@ keywords:
   - "clinical lab houston"
   - "blood test houston"
   - "lab near me houston"
+services:
+  - "examenes-sangre"
+  - "examen-heces"
+  - "enfermedades-transmision-sexual"
 ---
 
 A blood test can say a lot about your health, even before any symptom appears. Diabetes, high cholesterol and thyroid problems often advance silently for years — and all three are caught with a blood sample. Here's which tests exist, what each one is for and how to get them in Houston with no appointment, in Spanish.

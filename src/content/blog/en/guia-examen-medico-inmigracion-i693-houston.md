@@ -11,6 +11,10 @@ keywords:
   - "immigration medical exam houston"
   - "i-693 exam houston"
   - "civil surgeon houston"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 The immigration medical exam (Form I-693) is a required step in many adjustment-of-status cases. It isn't a complicated procedure, but arriving prepared saves you extra trips, repeated costs and delays in your case. This guide explains what it includes, what to bring and what to expect.

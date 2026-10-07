@@ -11,6 +11,10 @@ keywords:
   - "dot physical houston"
   - "cdl exam houston"
   - "dot exam houston"
+services:
+  - "examen-dot"
+  - "examen-alcohol-drogas"
+  - "examen-fisico-escolar"
 ---
 
 If you drive trucks or other commercial vehicles, the DOT physical is a requirement you can't skip: no valid medical certificate, no CDL. Here's what it evaluates, what to bring and how to leave the same day with your certificate.

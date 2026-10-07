@@ -11,6 +11,10 @@ keywords:
   - "uscis authorized doctor houston"
   - "civil surgeon houston"
   - "immigration doctor houston"
+services:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 ---
 
 If your immigration process requires a medical exam, you'll hear the term *civil surgeon*. Choosing this doctor well matters more than it seems: an exam done by the wrong physician simply doesn't count. Here's what a civil surgeon is, how to verify one, and what to expect from the visit.

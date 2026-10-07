@@ -11,6 +11,10 @@ keywords:
   - "womens health houston"
   - "gynecology houston spanish"
   - "womens clinic houston"
+services:
+  - "ginecologia"
+  - "prueba-embarazo"
+  - "ultrasonido"
 ---
 
 Caring for your health as a woman goes beyond a single visit: it's support at every stage of your life. In Houston you can access these services in Spanish and with confidence.

@@ -11,6 +11,10 @@ keywords:
   - "clínica hispana houston"
   - "doctor que habla español houston"
   - "clínica sin cita houston"
+services:
+  - "ultrasonido"
+  - "curacion-heridas"
+  - "electrocardiograma"
 ---
 
 En Clínica Hispana Nueva Salud Hammerly creemos que cuidar tu salud no debería ser complicado ni costoso, y mucho menos cuando el idioma se interpone. Por eso abrimos nuestras puertas en Houston con una idea muy clara: ofrecer atención médica profesional, cercana y **100% en español** para toda la comunidad hispana.

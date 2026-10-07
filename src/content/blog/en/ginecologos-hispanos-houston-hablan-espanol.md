@@ -11,6 +11,10 @@ keywords:
   - "gynecologist houston spanish"
   - "womens clinic houston"
   - "pap smear houston"
+services:
+  - "ginecologia"
+  - "ultrasonido"
+  - "anticonceptivos"
 ---
 
 For many Hispanic women, talking about their intimate health in another language is uncomfortable and even intimidating. That's why having gynecological care **in Spanish** makes a big difference.

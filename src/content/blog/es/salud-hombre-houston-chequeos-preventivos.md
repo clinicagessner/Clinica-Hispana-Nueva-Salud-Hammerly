@@ -13,6 +13,10 @@ keywords:
   - "chequeo para hombres houston"
   - "examen psa en español houston"
   - "testosterona houston"
+services:
+  - "salud-hombre"
+  - "condiciones-cronicas"
+  - "infecciones-urinarias"
 ---
 
 Muchos hombres solo van al médico cuando algo ya duele. El problema es que la presión alta, la diabetes o los cambios en la próstata avanzan en silencio durante años sin dar molestias. Cuando aparecen los síntomas, el daño suele estar más avanzado y el tratamiento se vuelve más complicado. La buena noticia: un chequeo preventivo sencillo, una o dos veces al año, permite detectar estos problemas a tiempo, cuando todavía son fáciles de controlar.

@@ -14,6 +14,10 @@ keywords:
   - "b12 shot near me houston"
   - "vitamin iv therapy houston"
   - "vitamin b12 test spring branch houston"
+services:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "farmacia"
 ---
 
 Do you feel tired all the time even when you sleep well? Do you notice tingling in your hands or feet, forget things or lack energy for work? Before you get used to living like that, it's worth checking something very simple: your **vitamin B12** level. Deficiency of this vitamin is far more common than people think — and it's easy to correct when caught early.

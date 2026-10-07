@@ -13,6 +13,10 @@ keywords:
   - "mens checkup houston"
   - "psa test houston"
   - "testosterone test houston"
+services:
+  - "salud-hombre"
+  - "condiciones-cronicas"
+  - "infecciones-urinarias"
 ---
 
 Many men only see a doctor when something already hurts. The problem is that high blood pressure, diabetes and prostate changes progress silently for years without causing discomfort. By the time symptoms appear, the damage is usually more advanced and treatment becomes more complicated. The good news: a simple preventive checkup, once or twice a year, can catch these problems early, while they are still easy to control.
