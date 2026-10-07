@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Centro médico 100% en español en Houston, TX",
   taglineEn: "Medical center 100% in Spanish in Houston, TX",
   description:
-    "Clínica hispana en Houston, TX (Spring Branch): centro médico con atención 100% en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, ginecología, exámenes de inmigración, laboratorio y más.",
+    "Clínica hispana sin cita en Spring Branch, Houston: medicina familiar, ginecología, laboratorio y examen de inmigración en español. Sin seguro médico.",
   descriptionEn:
-    "Hispanic clinic in Houston, TX (Spring Branch): medical center with care 100% in Spanish, walk-ins welcome, no insurance needed. Family medicine, gynecology, immigration exams, lab work and more.",
+    "Hispanic walk-in clinic in Spring Branch, Houston: family medicine, gynecology, lab work and immigration exams in Spanish. No insurance needed.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -2284,9 +2284,9 @@ Drop in for your shot Monday through Saturday until 9 PM, or Sunday until 5 PM, 
     shortDescriptionEn:
       "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con precios accesibles.",
+      "Sueros vitaminados (terapia IV) en Spring Branch, Houston: el equipo médico revisa tu salud antes de aplicarlo. En español y sin cita.",
     descriptionEn:
-      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+      "Vitamin IV therapy in Spring Branch, Houston: the medical team checks your health before the drip. In Spanish, walk-in.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",

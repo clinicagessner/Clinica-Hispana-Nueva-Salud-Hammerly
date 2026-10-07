@@ -28,12 +28,12 @@ export async function generateMetadata({
     // Página de marca: el nombre completo va al principio y se salta el
     // template global para no repetir "Nueva Salud Hammerly".
     title: {
-      absolute: `${SITE_CONFIG.name} | Houston, TX (Spring Branch)`,
+      absolute: `${SITE_CONFIG.name} | Spring Branch`,
     },
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
     ...buildSocial({
-      title: `${SITE_CONFIG.name} | Houston, TX (Spring Branch)`,
+      title: `${SITE_CONFIG.name} | Spring Branch`,
       description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
       path: "/",
       locale: locale as Locale,

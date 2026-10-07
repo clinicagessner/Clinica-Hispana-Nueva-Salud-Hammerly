@@ -66,13 +66,8 @@ export function buildSocial({
 }
 
 // Landings de Google Ads (RED.md): su <title> no se toca sin aprobación del usuario.
-export const ADS_LANDING_SLUGS = new Set([
-  "ginecologia",
-  "infecciones-urinarias",
-  "condiciones-cronicas",
-  "examenes-inmigracion",
-  "sueros-vitaminados",
-]);
+// Ginecología, urinarias, crónicas, I-693 y sueros: aprobados el 2026-10-07 ("procede hammerly").
+export const ADS_LANDING_SLUGS = new Set<string>([]);
 
 /**
  * Título de 60 caracteres o menos: con el sufijo de marca del layout si cabe;
