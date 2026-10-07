@@ -13,5 +13,5 @@ export function CallRail() {
   const src = process.env.NEXT_PUBLIC_CALLRAIL_SWAP_SRC;
   if (!src) return null;
 
-  return <Script id="callrail-swap" strategy="afterInteractive" src={src} />;
+  return <Script id="callrail-swap" strategy="lazyOnload" src={src} />;
 }
