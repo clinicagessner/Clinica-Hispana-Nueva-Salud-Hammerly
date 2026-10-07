@@ -43,10 +43,12 @@ export const CONTACT_INFO = {
   phone: "+18322809555",
   phoneFormatted: "+1 (832) 280-9555",
   phoneDisplay: "(832) 280-9555",
-  // Número EXCLUSIVO de WhatsApp (confirmado por el cliente, jul 2026).
-  // Distinto del teléfono principal: nunca usarlo en enlaces tel:.
-  whatsapp: "+13462221006",
-  whatsappFormatted: "+1 (346) 222-1006",
+  // WhatsApp — el de la ficha de Google, (832) 831-4016, compartido por varias
+  // clínicas del grupo Nueva Salud: el mensaje prellenado (`whatsappMessage`)
+  // nombra esta clínica y su calle para que quien conteste sepa de dónde viene.
+  // Solo chat: nunca en tel:, NAP, schema ni listados.
+  whatsapp: "+18328314016",
+  whatsappFormatted: "+1 (832) 831-4016",
   email: "clinicahns4@gmail.com",
   // Horario según la ficha de Google (2026-10-02): lunes a sábado 9 AM - 9 PM, domingo 9 AM - 5 PM.
   hours: "Lunes a Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 5:00 PM",
@@ -85,10 +87,10 @@ export const SOCIAL_LINKS = {
 // Fallback de build para rating/reseñas (valores reales del listado de Google
 // de Hammerly, Places API jul 2026). La data en vivo la trae
 // getGooglePlaceData() cuando hay GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
-export const GOOGLE_REVIEWS_DATA = {
-  averageRating: 4.9,
 // Respaldo de Places (solo nota y conteo, sin reseñas): comprobado en la web en
 // vivo el 2026-10-07 (4,9 con 339 reseñas).
+export const GOOGLE_REVIEWS_DATA = {
+  averageRating: 4.9,
   totalReviews: 339,
 } as const;
 
