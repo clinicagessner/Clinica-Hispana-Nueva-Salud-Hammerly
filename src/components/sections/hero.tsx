@@ -28,6 +28,7 @@ export async function Hero() {
         alt="Fachada de Clínica Hispana Nueva Salud Hammerly en 8538 Hammerly Blvd, Houston, TX"
         fill
         priority
+        fetchPriority="high"
         sizes="100vw"
         className="absolute inset-0 -z-20 object-cover object-center"
       />

@@ -176,6 +176,7 @@ export default async function ServiceDetailPage({
                     height={570}
                     priority
                     sizes="(max-width: 1024px) 90vw, 45vw"
+                    fetchPriority="high"
                     className="aspect-4/3 h-full w-full object-cover"
                   />
                 </div>
