@@ -2,6 +2,7 @@
 title: "Examen DOT para camioneros CDL en Houston"
 description: "Todo sobre el examen físico DOT para tu licencia CDL en Houston: qué incluye, qué llevar y cómo obtener tu certificado el mismo día."
 date: "2026-02-22"
+updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Exámenes"
 cover: "/images/blog/examen-dot-cdl-camioneros-houston.webp"

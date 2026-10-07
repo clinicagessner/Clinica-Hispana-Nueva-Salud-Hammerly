@@ -120,6 +120,8 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Última modificación real del contenido (sitemap y dateModified). */
+  updated?: string;
   author: string;
   category: string;
   cover: string;

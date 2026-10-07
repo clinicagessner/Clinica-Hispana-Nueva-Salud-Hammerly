@@ -2,6 +2,7 @@
 title: "Clinical lab in Houston: blood tests explained"
 description: "Learn which blood tests you can get in Houston, what they're for and how to receive same-day results in Spanish."
 date: "2026-03-30"
+updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Lab"
 cover: "/images/blog/laboratorio-clinico-houston-analisis-sangre.webp"

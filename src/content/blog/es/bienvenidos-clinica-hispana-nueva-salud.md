@@ -2,6 +2,7 @@
 title: "Bienvenidos a Clínica Hispana Nueva Salud Hammerly"
 description: "Conoce Clínica Hispana Nueva Salud Hammerly: atención médica 100% en español en Houston, TX, sin cita previa y con precios accesibles, sin necesidad de seguro."
 date: "2026-01-15"
+updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"

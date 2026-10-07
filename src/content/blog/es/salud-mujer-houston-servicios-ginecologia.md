@@ -2,6 +2,7 @@
 title: "Salud de la mujer en Houston: servicios de ginecología"
 description: "Una guía de los servicios de salud de la mujer disponibles en Houston en español: chequeos, planificación familiar y prevención."
 date: "2026-04-25"
+updated: "2026-07-22"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud de la mujer"
 cover: "/images/blog/salud-mujer-houston-servicios-ginecologia.webp"

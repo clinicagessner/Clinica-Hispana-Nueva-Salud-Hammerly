@@ -2,6 +2,7 @@
 title: "Men's health in Houston: preventive checkups that save lives"
 description: "A guide to preventive checkups for men in Houston: PSA, testosterone, blood work and warning signs, with care in Spanish."
 date: "2026-07-22"
+updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Men's health"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"

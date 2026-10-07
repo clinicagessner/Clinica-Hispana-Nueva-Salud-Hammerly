@@ -2,6 +2,7 @@
 title: "Diabetes management in Houston: a patient guide"
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Houston."
 date: "2026-02-10"
+updated: "2026-07-22"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"

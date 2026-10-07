@@ -2,6 +2,7 @@
 title: "Ginecólogos hispanos en Houston que hablan español"
 description: "Encuentra atención ginecológica en español en Houston: papanicolaou, chequeos y salud de la mujer con privacidad y respeto."
 date: "2026-03-05"
+updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud de la mujer"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"

@@ -2,6 +2,7 @@
 title: "Salud del hombre en Houston: chequeos preventivos que salvan vidas"
 description: "Guía de chequeos preventivos para hombres en Houston: PSA, testosterona, exámenes de sangre y señales de alarma, con atención en español."
 date: "2026-07-22"
+updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud del hombre"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"

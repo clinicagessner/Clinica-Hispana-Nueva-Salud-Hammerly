@@ -2,6 +2,7 @@
 title: "Guía del examen médico de inmigración I-693 en Houston"
 description: "Todo sobre el examen médico I-693 en Houston: qué incluye, qué vacunas necesitas y cómo recibir el formulario sellado por un médico autorizado por USCIS."
 date: "2026-03-18"
+updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Inmigración"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"

@@ -2,6 +2,7 @@
 title: "Vitamin B12: benefits, deficiency symptoms and injections"
 description: "What vitamin B12 is for, how to spot a deficiency and when the injection makes sense. B12 test and shots in Spanish in Houston, no appointment needed."
 date: "2026-08-18"
+updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Health"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"

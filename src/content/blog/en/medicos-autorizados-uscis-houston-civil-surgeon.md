@@ -2,6 +2,7 @@
 title: "USCIS-authorized physicians in Houston (Civil Surgeon)"
 description: "What a civil surgeon is, why you need one for your immigration exam, and how to find one in Houston who speaks Spanish."
 date: "2026-04-12"
+updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Immigration"
 cover: "/images/blog/medicos-autorizados-uscis-houston-civil-surgeon.webp"

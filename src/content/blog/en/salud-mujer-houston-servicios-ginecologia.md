@@ -2,6 +2,7 @@
 title: "Women's health in Houston: gynecology services"
 description: "A guide to the women's health services available in Houston in Spanish: checkups, family planning and prevention."
 date: "2026-04-25"
+updated: "2026-07-22"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Women's health"
 cover: "/images/blog/salud-mujer-houston-servicios-ginecologia.webp"

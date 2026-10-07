@@ -2,6 +2,7 @@
 title: "Welcome to Clínica Hispana Nueva Salud Hammerly"
 description: "Get to know Clínica Hispana Nueva Salud Hammerly: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and affordable pricing, no insurance needed."
 date: "2026-01-15"
+updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"
