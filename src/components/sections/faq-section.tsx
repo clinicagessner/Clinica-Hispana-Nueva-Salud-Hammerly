@@ -1,14 +1,15 @@
 import { useLocale, useTranslations } from "next-intl";
 import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { JsonLdFaqPage } from "@/components/seo/json-ld";
 import { getLocalizedFaq } from "@/lib/utils";
 import { cn } from "@/lib/utils";
 import type { Locale, ServiceFaq } from "@/types";
 
 /**
- * Bloque de FAQ reutilizable (centrado) + JSON-LD FAQPage.
- * Se usa en las páginas que no tienen un FAQ propio (services, blog, posts).
+ * Bloque de FAQ reutilizable (centrado), sin JSON-LD.
+ * Se usa en las páginas que no tienen un FAQ propio (blog, posts, privacidad)
+ * con las preguntas de la home: el FAQPage solo va en la home para no repetir
+ * el mismo marcado en decenas de URLs.
  */
 export function FaqSection({
   items,
@@ -27,7 +28,6 @@ export function FaqSection({
     <section
       className={cn("relative isolate overflow-hidden bg-sand-bg py-20 lg:py-24", className)}
     >
-      <JsonLdFaqPage faqs={faqs} />
       <div
         aria-hidden
         className="cross-pattern pointer-events-none absolute -right-20 top-8 -z-10 h-96 w-96 text-blue-deep/5"
