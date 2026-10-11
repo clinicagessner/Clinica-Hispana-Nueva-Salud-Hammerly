@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5 — cambios del 2026-10-07 (playbook B0-B4: landings de Ads y home con contenido propio)  📨 ENVIADA 10/10/2026
+## Tanda 5 — cambios del 2026-10-07 (playbook B0-B4: landings de Ads y home con contenido propio)  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/services/examenes-inmigracion  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/services/examenes-inmigracion  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-07
 
 ## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)
 
