@@ -13,12 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)  📨 ENVIADA 13/10/2026
+## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-12 (consulta inicial gratis)
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-12 (consulta inicial gratis)
-- [ ] https://www.clinicahispananhammerly.com/en/services/examenes-inmigracion  — cambiada 2026-10-07
-- [ ] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-12 (consulta inicial gratis)
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-12 (consulta inicial gratis)
+- [x] https://www.clinicahispananhammerly.com/en/services/examenes-inmigracion  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-10-07
 
 ## Tanda 16
 
