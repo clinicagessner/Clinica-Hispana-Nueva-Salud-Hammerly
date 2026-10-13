@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)  📨 ENVIADA 12/10/2026
 
+- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-12 (consulta inicial gratis)
+- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-12 (consulta inicial gratis)
 - [ ] https://www.clinicahispananhammerly.com/en/services/examenes-inmigracion  — cambiada 2026-10-07
 - [ ] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-10-07
 
