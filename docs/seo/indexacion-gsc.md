@@ -6,21 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-13; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 72 de 92 URLs del sitemap indexadas · 20 sin indexar (14 desconocida · 6 descubierta sin indexar).
+**Estado (actualizado 2026-10-14; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 72 de 92 URLs del sitemap indexadas · 20 sin indexar (14 desconocida · 6 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 67 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)  ✅ PEDIDA 13/10/2026
-
-- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-12 (consulta inicial gratis)
-- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-12 (consulta inicial gratis)
-- [x] https://www.clinicahispananhammerly.com/en/services/examenes-inmigracion  — cambiada 2026-10-07
-- [x] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-10-07
-
-## Tanda 16
+## Tanda 16  📨 ENVIADA 14/10/2026
 
 - [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr.
 - [ ] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 367 impr.
@@ -148,3 +141,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-07
 - [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-07
 - [x] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-07
+
+## Tanda 15 — cambios del 2026-10-07 (procede hammerly: landings de Ads con título/meta nuevos)  ✅ PEDIDA 13/10/2026
+
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-12 (consulta inicial gratis)
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-12 (consulta inicial gratis)
+- [x] https://www.clinicahispananhammerly.com/en/services/examenes-inmigracion  — cambiada 2026-10-07
+- [x] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-10-07
