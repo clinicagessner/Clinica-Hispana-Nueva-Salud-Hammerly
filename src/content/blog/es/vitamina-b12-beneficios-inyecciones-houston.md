@@ -3,7 +3,7 @@ title: "Vitamina B12: beneficios, síntomas de deficiencia e inyecciones"
 metaTitle: "Vitamina B12: deficiencia, análisis e inyecciones"
 description: "Qué hace la vitamina B12, qué señales sugieren que te falta y cómo se confirma con un análisis de sangre en nuestra clínica de Spring Branch, Houston."
 date: "2026-08-18"
-updated: "2026-10-07"
+updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
@@ -50,7 +50,7 @@ Con un [análisis de sangre](/services/examenes-sangre) que mide tu nivel de B12
 
 ## ¿Pastilla, inyección u otra vía: quién lo decide?
 
-La B12 sirve para corregir una deficiencia diagnosticada; no es un tónico para cualquiera. Cómo se repone tiene que ver con el motivo por el que falta. Cuando el problema es de absorción, a veces se prefiere aplicarla por inyección para que no tenga que pasar por el intestino; cuando el origen es la alimentación, puede bastar un suplemento por boca. **El equipo médico de la clínica decide si hace falta y en qué forma, después de revisar tus análisis**, y no existe una pauta que sirva igual para todos. Lo indicado en la consulta te lo entrega la farmacia de la clínica.
+La B12 sirve para corregir una deficiencia diagnosticada; no es un tónico para cualquiera. Cómo se repone tiene que ver con el motivo por el que falta. Cuando el problema es de absorción, a veces se prefiere aplicarla por inyección para que no tenga que pasar por el intestino; cuando el origen es la alimentación, puede bastar un suplemento por boca. **El equipo médico de la clínica decide si hace falta y en qué forma, después de revisar tus análisis**, y no existe una pauta que sirva igual para todos. Si lo que necesitas es un suplemento con receta, la enviamos de forma electrónica a la farmacia que prefieras.
 
 ## ¿Sirve tomar B12 si tus niveles ya están bien?
 

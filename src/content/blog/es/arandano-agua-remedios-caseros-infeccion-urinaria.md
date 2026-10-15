@@ -2,7 +2,7 @@
 title: "Arándano, agua y remedios caseros en la infección urinaria"
 description: "El jugo de arándano y tomar agua pueden ayudar a prevenir, pero no curan una infección de orina ya instalada. Qué sirve, qué no y cuándo venir a consulta."
 date: "2026-10-14"
-updated: "2026-10-14"
+updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -90,7 +90,7 @@ Si aparece cualquiera de estas, **ve a urgencias o llama al 911**, sin pasar ant
 
 ## Qué pasa cuando vienes a revisarte
 
-Te preguntamos desde cuándo tienes molestias y qué has tomado, así que cuéntanos con confianza si llevas días con cápsulas de arándano, tés o pastillas de otra vez: no te vamos a regañar, solo necesitamos saberlo para leer bien tu caso. Después de esa plática, y sin importar cuántos vasos de jugo de arándano llevas encima, se hace el examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día, así que el ardor no tiene que seguir en casa mientras pruebas otra receta de la familia (más detalles en la página de [infecciones urinarias](/services/infecciones-urinarias)). Cuando hace falta un urocultivo, por ejemplo si las infecciones se repiten, el resultado tarda unos días y te avisamos si hay que ajustar algo. Los medicamentos indicados en la consulta se entregan en la [farmacia de la clínica](/services/farmacia), así no tienes que hacer otra parada de regreso a casa.
+Te preguntamos desde cuándo tienes molestias y qué has tomado, así que cuéntanos con confianza si llevas días con cápsulas de arándano, tés o pastillas de otra vez: no te vamos a regañar, solo necesitamos saberlo para leer bien tu caso. Después de esa plática, y sin importar cuántos vasos de jugo de arándano llevas encima, se hace el examen de orina en la clínica y, si hay infección, el equipo médico te indica el tratamiento el mismo día, así que el ardor no tiene que seguir en casa mientras pruebas otra receta de la familia (más detalles en la página de [infecciones urinarias](/services/infecciones-urinarias)). Cuando hace falta un urocultivo, por ejemplo si las infecciones se repiten, el resultado tarda unos días y te avisamos si hay que ajustar algo. Si necesitas antibiótico, enviamos tu [receta electrónica](/services/farmacia) a la farmacia que elijas, cerca de tu casa o de tu trabajo, y la recoges cuando te quede mejor.
 
 Si después quieres seguir con el arándano para prevenir la próxima, también lo platicamos: el equipo médico de la clínica te dice qué tiene sentido en tu caso.
 

@@ -320,7 +320,7 @@ Si te toca glucosa en ayunas o perfil de lípidos, llega sin desayunar; el agua 
 1. Te avisamos y repasamos cada valor contigo, comparándolo con tu control anterior.
 2. El equipo médico de la clínica decide si tu tratamiento se queda igual, se ajusta o se cambia.
 3. Te llevas metas concretas: qué cambiar en el plato, cuánto moverte y cuándo volver a medirte.
-4. La farmacia de la clínica te entrega los medicamentos indicados en la consulta.
+4. Si necesitas un medicamento, enviamos la receta electrónica a la farmacia que prefieras.
 
 ## ¿Por qué no alcanza con sentirse bien?
 
@@ -346,7 +346,7 @@ If fasting glucose or a lipid panel is on the list, skip breakfast; plain water 
 1. We let you know they're in and go over each value with you, side by side with your previous check.
 2. The clinic's medical team decides whether your treatment stays the same, gets adjusted or changes.
 3. You leave with concrete goals: what to swap on your plate, how much to move and when to measure again.
-4. The clinic pharmacy hands you the medications prescribed during the visit.
+4. If you need medication, we send the prescription electronically to the pharmacy you prefer.
 
 ## Why isn't feeling fine enough?
 
@@ -406,7 +406,7 @@ La **TSH** es la hormona con la que el cerebro le ordena a la tiroides que produ
 ## ¿Cómo se afina el tratamiento tiroideo con los controles?
 
 1. El equipo médico de la clínica interpreta tus valores junto con tus síntomas y tu historia.
-2. Si hay un desequilibrio, te explica el tratamiento y la farmacia de la clínica te entrega lo indicado.
+2. Si hay un desequilibrio, te explica el tratamiento y envía la receta de forma electrónica a tu farmacia.
 3. Tras un periodo de prueba, repites el análisis para comprobar si la dosis se quedó corta o se pasó.
 4. Una vez estable, los controles se espacian y te avisamos cuándo te toca el siguiente.
 
@@ -426,7 +426,7 @@ When the gland falls short (**hypothyroidism**), your whole body seems to run in
 ## How is treatment fine-tuned over time?
 
 1. The clinic's medical team reads your values together with your symptoms and history.
-2. If something is off balance, they walk you through the treatment and the clinic pharmacy provides what was prescribed.
+2. If something is off balance, they walk you through the treatment and send the prescription electronically to your pharmacy.
 3. After a trial period you repeat the test to see whether the dose falls short or overshoots.
 4. Once you're stable, checks are spaced out and we remind you when the next one is due.
 
@@ -489,7 +489,7 @@ Con tus respuestas y la revisión física, el equipo médico de la clínica deci
 
 ## ¿Cómo se calman la nariz tapada y los ojos llorosos?
 
-Para la rinitis alérgica suelen usarse antihistamínicos, aerosoles nasales o gotas para los ojos; el equipo elige la combinación según tu edad, tus otros medicamentos y si el sueño durante el día es un problema para tu trabajo. La farmacia de la clínica te entrega lo indicado en la consulta, y además te damos ideas prácticas: lavar la ropa de cama con agua caliente, cerrar ventanas en días de mucho polen y ducharte al volver del jardín.
+Para la rinitis alérgica suelen usarse antihistamínicos, aerosoles nasales o gotas para los ojos; el equipo elige la combinación según tu edad, tus otros medicamentos y si el sueño durante el día es un problema para tu trabajo. La receta va de forma electrónica a la farmacia que elijas, y además te damos ideas prácticas: lavar la ropa de cama con agua caliente, cerrar ventanas en días de mucho polen y ducharte al volver del jardín.
 
 ## ¿Qué hacemos cuando la reacción sale en la piel?
 
@@ -516,7 +516,7 @@ With your answers and a physical exam, the clinic's medical team decides whether
 
 ## How do we ease a stuffy nose and watery eyes?
 
-Allergic rhinitis is usually handled with antihistamines, nasal sprays or eye drops; the team picks the combination based on your age, your other medications and whether daytime drowsiness would get in the way of your job. The clinic pharmacy provides whatever is prescribed, and we add practical tips: wash bedding in hot water, keep windows shut on high-pollen days and shower after yard work.
+Allergic rhinitis is usually handled with antihistamines, nasal sprays or eye drops; the team picks the combination based on your age, your other medications and whether daytime drowsiness would get in the way of your job. The prescription goes electronically to the pharmacy you pick, and we add practical tips: wash bedding in hot water, keep windows shut on high-pollen days and shower after yard work.
 
 ## What do we do when the reaction shows up on your skin?
 
@@ -588,7 +588,7 @@ Porque el plan cambia. Para la influenza existen antivirales que funcionan mejor
 - Dolor de garganta con placas blancas, que puede requerir la [prueba de strep](/services/prueba-strep)
 - Crisis de tos en personas con asma o alergias, que también se tratan en [alergias](/services/alergias)
 
-Los antibióticos solo sirven contra bacterias, así que el equipo médico los indica únicamente cuando hay una infección bacteriana. La farmacia de la clínica te entrega los medicamentos indicados en la consulta, y también productos de venta libre para la fiebre y la congestión.
+Los antibióticos solo sirven contra bacterias, así que el equipo médico los indica únicamente cuando hay una infección bacteriana. Si hace falta tratamiento, enviamos la receta electrónica a la farmacia que te quede más cómoda y te decimos qué productos de venta libre sirven para la fiebre y la congestión.
 
 ## ¿Qué señales piden ir a emergencias?
 
@@ -616,7 +616,7 @@ Because the plan changes. Flu has antiviral medicines that work best when starte
 - A sore throat with white patches, which may call for a [strep test](/en/services/prueba-strep)
 - Coughing spells in people with asthma or allergies, also handled under [allergy care](/en/services/alergias)
 
-Antibiotics only work on bacteria, so the medical team prescribes them only when there's a bacterial infection. The clinic pharmacy provides the medications prescribed during your visit, along with over-the-counter products for fever and congestion.
+Antibiotics only work on bacteria, so the medical team prescribes them only when there's a bacterial infection. If treatment is needed, we send the prescription electronically to whichever pharmacy is most convenient for you and tell you which over-the-counter products help with fever and congestion.
 
 ## Which warning signs mean going to the ER?
 
@@ -771,7 +771,7 @@ Weekday evenings and Saturdays at our Hammerly Blvd clinic are a good time to br
 
 ## ¿Qué hacemos si tienes flujo distinto o comezón?
 
-Las molestias vaginales no siempre tienen la misma causa: pueden ser hongos, un desequilibrio de bacterias o una infección de transmisión sexual, y cada una se trata diferente. Por eso el equipo médico de la clínica revisa la zona, toma un cultivo cuando hace falta y, si el diagnóstico es claro, empieza el tratamiento en la consulta. La farmacia de la clínica te entrega los medicamentos indicados. Si hay sospecha de una infección de transmisión sexual, también podemos hacer las [pruebas de ETS](/services/enfermedades-transmision-sexual) con total discreción.
+Las molestias vaginales no siempre tienen la misma causa: pueden ser hongos, un desequilibrio de bacterias o una infección de transmisión sexual, y cada una se trata diferente. Por eso el equipo médico de la clínica revisa la zona, toma un cultivo cuando hace falta y, si el diagnóstico es claro, te indica el tratamiento en la consulta y envía la receta electrónica a la farmacia que elijas. Si hay sospecha de una infección de transmisión sexual, también podemos hacer las [pruebas de ETS](/services/enfermedades-transmision-sexual) con total discreción.
 
 ## ¿Qué pasa después de tomar la muestra?
 
@@ -796,7 +796,7 @@ Muchas mujeres aprovechan para hacerse una [prueba de embarazo](/services/prueba
 
 ## What do we do about unusual discharge or itching?
 
-Vaginal discomfort doesn't always have the same cause: it might be yeast, a bacterial imbalance or a sexually transmitted infection, and each is treated differently. That's why the clinic's medical team examines the area, takes a culture when needed and, if the diagnosis is clear, starts treatment during the visit. The clinic pharmacy provides the prescribed medications. If an STI is suspected, we can also run [STD testing](/en/services/enfermedades-transmision-sexual) with complete discretion.
+Vaginal discomfort doesn't always have the same cause: it might be yeast, a bacterial imbalance or a sexually transmitted infection, and each is treated differently. That's why the clinic's medical team examines the area, takes a culture when needed and, if the diagnosis is clear, sets the treatment during the visit and sends the e-prescription to the pharmacy you choose. If an STI is suspected, we can also run [STD testing](/en/services/enfermedades-transmision-sexual) with complete discretion.
 
 ## What happens after the sample is taken?
 
@@ -956,7 +956,7 @@ La **pastilla** se toma todos los días, idealmente a la misma hora, y te da con
 1. Nos cuentas tus planes y qué métodos has usado antes.
 2. Medimos tu presión y revisamos tu historia de salud.
 3. Si existe la posibilidad de embarazo, primero hacemos una [prueba de embarazo](/services/prueba-embarazo).
-4. Eliges el método con toda la información y la farmacia de la clínica te entrega lo indicado en la consulta.
+4. Eliges el método con toda la información y, si lleva receta, la enviamos de forma electrónica a tu farmacia.
 5. Acordamos cuándo volver para revisar cómo te sientes.
 
 ## ¿Y si quieres cambiar de método?
@@ -986,7 +986,7 @@ The **pill** is taken every day, ideally at the same time, and keeps you fully i
 1. You tell us your plans and which methods you've used before.
 2. We check your blood pressure and go over your health history.
 3. If there's any chance of pregnancy, we start with a [pregnancy test](/en/services/prueba-embarazo).
-4. You choose the method with all the information, and the clinic pharmacy provides what was prescribed.
+4. You choose the method with all the information, and if it needs a prescription, we send it electronically to your pharmacy.
 5. We agree on when to come back to see how you're doing.
 
 ## What if you want to switch methods?
@@ -1323,7 +1323,7 @@ Una muestra tomada así evita que la piel la contamine y que el resultado confun
 
 ## ¿Qué pasa si el examen confirma la infección?
 
-El equipo médico revisa el examen de orina junto con tus síntomas, elige el antibiótico adecuado y te explica cómo tomarlo hasta terminarlo, aunque te sientas mejor antes. Ese antibiótico lo recoges en nuestra [farmacia](/services/farmacia) antes de irte a casa. En algunos casos conviene además un urocultivo para identificar la bacteria exacta; ese estudio tarda varios días y te avisamos cuando esté listo, por si hay que cambiar el antibiótico.
+El equipo médico revisa el examen de orina junto con tus síntomas, elige el antibiótico adecuado y te explica cómo tomarlo hasta terminarlo, aunque te sientas mejor antes. La receta del antibiótico la enviamos como [receta electrónica](/services/farmacia) a la farmacia que elijas, para que la recojas de camino a casa. En algunos casos conviene además un urocultivo para identificar la bacteria exacta; ese estudio tarda varios días y te avisamos cuando esté listo, por si hay que cambiar el antibiótico.
 
 ## ¿Cuándo una infección urinaria ya no puede esperar?
 
@@ -1347,7 +1347,7 @@ A sample collected this way keeps skin bacteria out, so the result isn't mislead
 
 ## What happens if the test confirms an infection?
 
-The medical team looks at your urinalysis together with your symptoms, picks the right antibiotic and explains how to take every dose, even if you feel better early. You pick up that antibiotic right at our [pharmacy](/en/services/farmacia) before heading home. Sometimes a urine culture is also worth doing to identify the exact bacteria; that test takes several days and we call you when it's ready in case the antibiotic needs to change.
+The medical team looks at your urinalysis together with your symptoms, picks the right antibiotic and explains how to take every dose, even if you feel better early. We send that antibiotic as an [e-prescription](/en/services/farmacia) to the pharmacy you choose, so you can pick it up on your way home. Sometimes a urine culture is also worth doing to identify the exact bacteria; that test takes several days and we call you when it's ready in case the antibiotic needs to change.
 
 ## When can a urinary infection not wait?
 
@@ -1501,7 +1501,7 @@ Con el estreptococo el dolor suele llegar de golpe, cuesta tragar y aparece fieb
 
 ## ¿Qué sigue según el resultado?
 
-- **Positivo:** sales con la receta del equipo médico y el antibiótico en mano desde nuestra [farmacia](/services/farmacia). Hay que terminarlo completo para evitar complicaciones.
+- **Positivo:** el equipo médico te indica un antibiótico y enviamos la [receta electrónica](/services/farmacia) a la farmacia que prefieras. Hay que terminarlo completo para evitar complicaciones.
 - **Negativo con síntomas fuertes:** en niños a veces se confirma con un cultivo, que tarda más; te avisamos cuando esté listo.
 - **Negativo y con pinta de virus:** te vas con un plan casero para la fiebre y el ardor de garganta.
 
@@ -1525,7 +1525,7 @@ Strep tends to hit suddenly: swallowing hurts, a fever shows up, and there may b
 
 ## What comes next depending on the result?
 
-- **Positive:** the medical team prescribes an antibiotic, which we hand you at the clinic's [pharmacy](/en/services/farmacia). Finish every dose to prevent complications.
+- **Positive:** the medical team prescribes an antibiotic and we send the [e-prescription](/en/services/farmacia) to the pharmacy you prefer. Finish every dose to prevent complications.
 - **Negative with strong symptoms:** in children it's sometimes confirmed with a culture, which takes longer; we'll let you know when it's ready.
 - **Negative with cold-like symptoms:** we give you tips to ease the pain and bring the fever down at home.
 
@@ -1685,7 +1685,7 @@ Tu consulta y tus resultados son confidenciales: no se comparten con tu familia,
 ## ¿Qué pasa si un resultado sale positivo?
 
 1. Te avisamos cuando los resultados estén listos y el equipo médico te explica qué encontró.
-2. Muchas infecciones se curan con medicamentos que te entregamos en la farmacia de la clínica.
+2. Muchas infecciones se curan con medicamentos; la receta la enviamos de forma electrónica a tu farmacia.
 3. Te orientamos sobre cómo avisar a tu pareja, para que también reciba tratamiento y no vuelva a pasarte la infección.
 4. Si hace falta un control posterior o atención de [ginecología](/services/ginecologia) o [salud del hombre](/services/salud-hombre), lo organizamos.
 
@@ -1711,7 +1711,7 @@ Your visit and your results are confidential: they aren't shared with your famil
 ## What happens if a result is positive?
 
 1. Once your results are in, we reach out and the medical team walks you through each finding.
-2. Many infections are cured with medication handed to you at the clinic's pharmacy.
+2. Many infections are cured with medication; we send the prescription electronically to your pharmacy.
 3. We guide you on how to tell your partner so they get treated too and don't pass the infection back to you.
 4. If you need a follow-up check or [gynecology](/en/services/ginecologia) or [men's health](/en/services/salud-hombre) care, we set it up.
 
@@ -2726,7 +2726,7 @@ Busca atención hoy mismo si además tienes fiebre, si la piel roja se extiende 
 5. En un absceso amplio puede quedar una tira de gasa adentro que ayuda a vaciarlo los días siguientes.
 6. Se cubre y se decide si necesitas antibiótico.
 
-Los medicamentos indicados en la consulta los puedes recoger en nuestra [farmacia](/services/farmacia) antes de irte.
+Si te indican medicamentos, enviamos la [receta electrónica](/services/farmacia) a la farmacia que elijas y la recoges cuando te quede mejor.
 
 ## ¿Por qué no conviene exprimirlo en casa?
 
@@ -2758,7 +2758,7 @@ Get seen today if you also have a fever, if the redness is spreading like a stai
 5. If it's large, gauze is left inside so it keeps draining.
 6. It's covered, and the team decides whether you need an antibiotic.
 
-Any medicine ordered during the visit can be picked up at our [pharmacy](/en/services/farmacia) before you leave.
+If medicine is ordered, we send an [e-prescription](/en/services/farmacia) to the pharmacy you choose and you pick it up whenever it suits you.
 
 ## Is it safe to pop it yourself?
 
@@ -2865,99 +2865,97 @@ If walking already hurts because of an ingrown nail, come to 8538 Hammerly Blvd 
     order: 29,
     category: "tratamientos",
     icon: "Pill",
-    title: "Farmacia",
-    titleEn: "Pharmacy",
+    title: "Receta electrónica",
+    titleEn: "E-prescriptions",
     shortDescription:
-      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+      "Al terminar tu consulta enviamos tu receta a la farmacia que prefieras.",
     shortDescriptionEn:
-      "Pick up your medications right after your visit — no second stop.",
+      "After your visit we send your prescription to the pharmacy you choose.",
     description:
-      "Farmacia dentro de la clínica en Houston, TX: recoge los medicamentos indicados en tu consulta y productos de venta libre, en español.",
+      "Receta electrónica en Houston, TX: al terminar tu consulta enviamos tu receta a la farmacia que elijas, cerca de tu casa o de tu trabajo.",
     descriptionEn:
-      "In-clinic pharmacy in Houston, TX: pick up the medications prescribed at your visit and over-the-counter products, in Spanish.",
+      "E-prescriptions in Houston, TX: after your visit we send your prescription electronically to the pharmacy you choose, near home or work.",
     keywords: [
-      "farmacia en houston",
-      "farmacia hispana houston",
-      "farmacia cerca de mí houston",
-      "medicamentos en la clinica houston",
+      "receta electrónica houston",
+      "receta médica a mi farmacia houston",
+      "clínica que envía receta electrónica",
+      "receta en español houston",
     ],
     keywordsEn: [
-      "pharmacy houston",
-      "hispanic pharmacy houston",
-      "pharmacy near me houston",
-      "medications at the clinic houston",
+      "e-prescription houston",
+      "electronic prescription houston",
+      "prescription sent to my pharmacy houston",
+      "spanish-speaking clinic prescription houston",
     ],
     features: [
-      "Medicamentos indicados en tu consulta",
-      "Medicamentos de marca y genéricos",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español",
+      "Receta enviada electrónicamente a tu farmacia",
+      "Tú eliges la farmacia: cerca de casa o del trabajo",
+      "Indicaciones en español de cómo tomar tu tratamiento",
+      "Sin papeles que se pierdan en el camino",
     ],
     featuresEn: [
-      "Medications prescribed at your visit",
-      "Brand-name and generic medications",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish",
+      "Prescription sent electronically to your pharmacy",
+      "You choose the pharmacy: near home or work",
+      "Instructions in Spanish on how to take your treatment",
+      "No paper slips to lose along the way",
     ],
-    longDescription: `La farmacia de Clínica Hispana Nueva Salud Hammerly, en Spring Branch, sirve para una cosa concreta: entregarte los medicamentos indicados en tu consulta y ofrecer productos de venta libre (OTC). Así sales de 8538 Hammerly Blvd con el tratamiento en la mano, sin tener que buscar otra tienda en Houston.
+    longDescription: `En Clínica Hispana Nueva Salud Hammerly, en Spring Branch, no tenemos farmacia propia: cuando el equipo médico te indica un tratamiento, enviamos tu receta de forma electrónica a la farmacia que tú elijas. Así la recoges donde te quede mejor, cerca de tu casa o de tu trabajo, sin cargar papeles desde 8538 Hammerly Blvd.
 
-## ¿Qué encuentras en la farmacia?
+## ¿Cómo funciona la receta electrónica?
 
-**Medicamentos indicados en la consulta.** Cuando el equipo médico de la clínica te indica un tratamiento, por ejemplo después de una revisión por [infección urinaria](/services/infecciones-urinarias) o de un [drenaje de absceso](/services/drenaje-abscesos), te lo entregamos antes de que te vayas.
+1. Terminas la consulta y el equipo médico define tu tratamiento, por ejemplo después de una revisión por [infección urinaria](/services/infecciones-urinarias) o de un [drenaje de absceso](/services/drenaje-abscesos).
+2. Te preguntamos a qué farmacia quieres que la enviemos; ayuda tener a mano su nombre y su dirección o su teléfono.
+3. Enviamos la receta electrónica directamente a esa farmacia.
+4. Pasas a recogerla cuando te quede mejor. Si quieres confirmar que ya la tienen, llama a la farmacia antes de ir.
 
-**Productos de venta libre (OTC).** Artículos que no necesitan indicación médica, como analgésicos comunes, remedios para la gripe o las alergias, y material básico de curación.
+## ¿Qué ventajas tiene que la receta llegue sola a la farmacia?
 
-## ¿Cómo funciona al terminar tu visita?
+- No se pierde, no se moja y no se queda olvidada en el carro.
+- La farmacia recibe el nombre del medicamento y la dosis tal como los indicó el equipo médico, sin batallar con la letra.
+- Puedes escoger una farmacia que abra en el horario que te sirve, aunque trabajes hasta tarde.
 
-1. Terminas la consulta y el equipo médico define tu tratamiento.
-2. Pasas a la farmacia, que está en el mismo local.
-3. Te entregan los medicamentos indicados.
-4. Te repasan cómo y cuándo tomarlos, y qué hacer si olvidas una dosis.
-5. Si quieres algún producto de venta libre, lo pides ahí mismo.
-
-## ¿Qué conviene decir antes de llevarte un medicamento?
+## ¿Qué conviene decir durante la consulta?
 
 - Todos los medicamentos, vitaminas o remedios naturales que ya tomas.
 - Si estás embarazada o amamantando.
 - Alergias a medicamentos, aunque hayan sido hace años.
 - Si tienes enfermedad del riñón, del hígado o presión alta.
 
-Con esta información se evitan mezclas que no convienen.
+Con esa información el equipo médico elige un tratamiento que no choque con lo que ya usas y te explica en español cómo y cuándo tomarlo, y qué hacer si olvidas una dosis.
 
 ## ¿Cómo guardar los medicamentos en casa?
 
 Mantenlos en su empaque original, lejos del calor del baño y del alcance de los niños. Algunos jarabes y suspensiones se guardan en el refrigerador una vez preparados; la etiqueta te lo dice. Termina el antibiótico completo aunque te sientas mejor y no compartas tu tratamiento con otra persona.
 
-Si estás en consulta con nosotros, recuerda pasar por la farmacia antes de salir; pregunta el precio de cada producto en el mostrador.`,
-    longDescriptionEn: `The pharmacy at Clínica Hispana Nueva Salud Hammerly in Spring Branch has a specific purpose: handing you the medications ordered during your visit and offering over-the-counter (OTC) products. That way you leave 8538 Hammerly Blvd with your treatment in hand, without hunting for another store in Houston.
+Si cambiaste de farmacia desde tu última visita, avísanos en la consulta para que la receta llegue al lugar correcto.`,
+    longDescriptionEn: `Clínica Hispana Nueva Salud Hammerly in Spring Branch doesn't have its own pharmacy: when the medical team sets a treatment, we send your prescription electronically to the pharmacy you choose. That way you pick it up wherever works best, near home or work, without carrying paper slips from 8538 Hammerly Blvd.
 
-## What does the pharmacy carry?
+## How does an e-prescription work?
 
-**Medications ordered during your visit.** When the clinic's medical team sets a treatment, for example after a [urinary tract infection](/en/services/infecciones-urinarias) check or an [abscess drainage](/en/services/drenaje-abscesos), we hand it to you before you go.
+1. Your visit ends and the medical team settles on your treatment, for example after a [urinary tract infection](/en/services/infecciones-urinarias) check or an [abscess drainage](/en/services/drenaje-abscesos).
+2. We ask which pharmacy you'd like it sent to; it helps to have its name and its address or phone number handy.
+3. We send the e-prescription straight to that pharmacy.
+4. You pick it up when it suits you. If you want to make sure they have it, call the pharmacy before you go.
 
-**Over-the-counter (OTC) products.** Items that don't need a medical order, such as common pain relievers, cold and allergy remedies, and basic first-aid supplies.
+## Why is it better when the prescription goes straight to the pharmacy?
 
-## How does it work after your visit?
+- It can't get lost, wet or forgotten in the car.
+- The pharmacy receives the medication name and dose exactly as the medical team ordered them, with no handwriting to decipher.
+- You can pick a pharmacy open during the hours that work for you, even if you work late.
 
-1. Your visit ends and the medical team settles on your treatment.
-2. You step over to the pharmacy, inside the same building.
-3. You receive the medications that were ordered.
-4. Staff go over how and when to take them, and what to do if you miss a dose.
-5. If you want an OTC product, you can ask for it right there.
-
-## What should you mention before taking a medicine home?
+## What should you mention during the visit?
 
 - Every medicine, vitamin or herbal remedy you already take.
 - Whether you're pregnant or breastfeeding.
 - Any drug allergy, even one from years ago.
 - Kidney or liver disease, or high blood pressure.
 
-That information helps avoid combinations that don't mix well.
+With that information the medical team picks a treatment that won't clash with what you already use, explains in Spanish how and when to take it, and what to do if you miss a dose.
 
 ## How should you store medicines at home?
 
 Keep them in their original packaging, away from bathroom heat and out of children's reach. Some syrups and suspensions go in the fridge once mixed; the label will say so. Finish the full antibiotic course even if you feel better, and don't share your treatment with anyone else.
 
-If you're being seen with us, remember to stop at the pharmacy before heading out, and ask at the counter about each item's price.`,
+If you've switched pharmacies since your last visit, let us know during the visit so the prescription reaches the right place.`,
   },
 ];

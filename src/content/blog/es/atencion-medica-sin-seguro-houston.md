@@ -2,7 +2,7 @@
 title: "Atención médica sin seguro en Houston: tus opciones"
 description: "¿No tienes seguro médico? En Houston puedes recibir atención profesional en español, con precios accesibles y sin cita previa."
 date: "2026-01-28"
-updated: "2026-10-02"
+updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
 category: "Salud"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
@@ -67,4 +67,4 @@ Depende del servicio. Lo importante: te informamos el precio completo **antes** 
 Sí, atendemos a toda la familia — desde exámenes escolares hasta consultas por enfermedad.
 
 **¿Qué pasa si necesito medicamentos?**
-Contamos con [farmacia](/services/farmacia) de medicamentos comunes en la clínica, para que salgas con tu tratamiento iniciado.
+Al terminar la consulta enviamos tu [receta electrónica](/services/farmacia) a la farmacia que elijas, cerca de tu casa o de tu trabajo, y te explicamos cómo tomar el tratamiento.

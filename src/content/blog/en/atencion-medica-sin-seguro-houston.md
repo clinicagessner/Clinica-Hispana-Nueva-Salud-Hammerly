@@ -2,7 +2,7 @@
 title: "Healthcare without insurance in Houston: your options"
 description: "No health insurance? In Houston you can get professional care in Spanish, with affordable pricing and no appointment needed."
 date: "2026-01-28"
-updated: "2026-10-02"
+updated: "2026-10-15"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Health"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
@@ -67,4 +67,4 @@ It depends on the service. What matters: we tell you the full price **before** t
 Yes, we care for the whole family — from school physicals to sick visits.
 
 **What if I need medication?**
-We have an in-clinic [pharmacy](/en/services/farmacia) with common medications, so you leave with your treatment already started.
+After your visit we send your [e-prescription](/en/services/farmacia) to the pharmacy you choose, near home or work, and explain how to take the treatment.

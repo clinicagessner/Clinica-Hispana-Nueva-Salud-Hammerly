@@ -14,9 +14,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Se me terminaron las pastillas de la diabetes o de la presión, ¿qué hago?",
-      answer: "No las dejes por tu cuenta ni esperes a tu próximo control. Ven a la clínica: el equipo médico mide tu glucosa o tu presión en ese momento, decide si el tratamiento sigue igual y la farmacia te entrega lo indicado en la consulta.",
+      answer: "No las dejes por tu cuenta ni esperes a tu próximo control. Ven a la clínica: el equipo médico mide tu glucosa o tu presión en ese momento, decide si el tratamiento sigue igual y, si hace falta, envía la receta electrónica a tu farmacia.",
       questionEn: "I ran out of my diabetes or blood pressure pills. What should I do?",
-      answerEn: "Don't just stop them or wait for your next check-up. Come in and the medical team will measure your glucose or blood pressure on the spot, decide whether the treatment stays the same, and the pharmacy will hand you what was prescribed.",
+      answerEn: "Don't just stop them or wait for your next check-up. Come in and the medical team will measure your glucose or blood pressure on the spot, decide whether the treatment stays the same and, if needed, send the prescription electronically to your pharmacy.",
     },
     {
       question: "Soy delgado, ¿también tengo que revisarme el colesterol?",
@@ -567,22 +567,22 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "farmacia": [
     {
-      question: "¿Qué tipo de productos hay en la farmacia de la clínica?",
-      answer: "Dos cosas: los medicamentos que el equipo médico te indica durante tu consulta en la clínica y productos de venta libre, como analgésicos comunes, remedios para la gripe y material de curación.",
-      questionEn: "What kind of products does the clinic pharmacy have?",
-      answerEn: "Two things: the medicines the medical team orders during your visit at the clinic, and over-the-counter products such as common pain relievers, cold remedies and first-aid supplies.",
+      question: "¿A qué farmacia envían mi receta?",
+      answer: "A la que tú prefieras. En la consulta te preguntamos cuál te queda más cómoda, cerca de tu casa o de tu trabajo, y la receta se envía de forma electrónica a esa farmacia.",
+      questionEn: "Which pharmacy do you send my prescription to?",
+      answerEn: "Whichever one you prefer. During the visit we ask which is most convenient for you, near home or work, and the prescription is sent electronically to that pharmacy.",
     },
     {
-      question: "¿Puedo comprar algo para el dolor sin pasar a consulta?",
-      answer: "Los productos de venta libre se pueden pedir directamente en el mostrador. Si el dolor es fuerte, dura varios días o viene con fiebre, es mejor que el equipo médico te revise antes.",
-      questionEn: "Can I buy something for pain without being seen?",
-      answerEn: "Over-the-counter items can be requested right at the counter. If the pain is severe, lasts several days or comes with a fever, it's better to let the medical team examine you first.",
+      question: "¿La clínica tiene farmacia?",
+      answer: "No. La clínica no vende ni entrega medicamentos: el equipo médico te atiende, decide el tratamiento y envía la receta electrónica a tu farmacia, donde la recoges.",
+      questionEn: "Does the clinic have a pharmacy?",
+      answerEn: "No. The clinic doesn't sell or hand out medication: the medical team sees you, decides on the treatment and sends the e-prescription to your pharmacy, where you pick it up.",
     },
     {
-      question: "¿Quién me dice la dosis y el horario de lo que me entregan?",
-      answer: "Sí. Al entregarlo te dicen la dosis, cada cuánto tomarlo, si va con comida y qué efectos vigilar. Si en casa te surge una duda, llama a la clínica y pregunta.",
-      questionEn: "Who tells me the dose and timing of what I'm handed?",
-      answerEn: "Yes. When it's handed to you, you'll hear the dose, how often to take it, whether it goes with food and which side effects to watch for. If a question comes up at home, call the clinic.",
+      question: "¿Quién me explica la dosis y el horario del tratamiento?",
+      answer: "El equipo médico te lo explica en español al terminar la consulta: cuánto tomar, cada cuánto, si va con comida y qué efectos vigilar. Si en casa te surge una duda, llama a la clínica y pregunta.",
+      questionEn: "Who explains the dose and timing of my treatment?",
+      answerEn: "The medical team walks you through it in Spanish at the end of the visit: how much to take, how often, whether it goes with food and which side effects to watch for. If a question comes up at home, call the clinic.",
     },
   ],
 };

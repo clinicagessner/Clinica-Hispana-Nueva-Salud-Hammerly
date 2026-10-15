@@ -22,9 +22,9 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Qué puedo resolver en una sola visita a la clínica?",
-    answer: "Consultas generales, control de diabetes y presión, laboratorio en el lugar, ultrasonido, electrocardiograma, examen DOT, examen de inmigración I-693, vacunas, suturas y cirugías menores. Y antes de salir recoges en la farmacia del local lo que el equipo médico te indicó.",
+    answer: "Consultas generales, control de diabetes y presión, laboratorio en el lugar, ultrasonido, electrocardiograma, examen DOT, examen de inmigración I-693, vacunas, suturas y cirugías menores. Y si necesitas tratamiento, enviamos tu receta electrónica a la farmacia que elijas.",
     questionEn: "What can I take care of in a single visit?",
-    answerEn: "General visits, diabetes and blood pressure care, on-site lab work, ultrasound, EKG, DOT exams, the I-693 immigration exam, vaccines, stitches and minor surgery. Medications ordered during the visit are handed out at our pharmacy as well.",
+    answerEn: "General visits, diabetes and blood pressure care, on-site lab work, ultrasound, EKG, DOT exams, the I-693 immigration exam, vaccines, stitches and minor surgery. If you need medication, we send the prescription electronically to the pharmacy of your choice.",
   },
   {
     question: "¿Cuál es la dirección exacta y hay dónde estacionarse?",

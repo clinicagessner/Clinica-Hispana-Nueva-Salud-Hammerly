@@ -2,7 +2,7 @@
 title: "Cranberry, water and home remedies for a UTI"
 description: "Cranberry and water may help prevent a urinary infection, but they won't clear one that has already set in. What helps, what doesn't and when to come in."
 date: "2026-10-14"
-updated: "2026-10-14"
+updated: "2026-10-15"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Health"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -90,7 +90,7 @@ If any of these show up, **go to the emergency room or call 911** right away, wi
 
 ## What happens when you come in
 
-We'll ask how long you've had symptoms and what you've already tried, so feel free to tell us about the cranberry capsules, the teas or the leftover pills: nobody is going to scold you, we just need the full picture. After that chat, no matter how many glasses of cranberry juice you've already had, we run a urine test at the clinic and, if there is an infection, you leave with your treatment the same day, so the burning doesn't have to drag on at home while you try yet another family recipe (more details on our [urinary infection](/en/services/infecciones-urinarias) page). If a urine culture is needed, for example when infections keep returning, that result takes a few days and we'll let you know if anything should change. Medicines prescribed during your visit are handed to you right at the clinic's [pharmacy](/en/services/farmacia), which saves you another stop on the way home.
+We'll ask how long you've had symptoms and what you've already tried, so feel free to tell us about the cranberry capsules, the teas or the leftover pills: nobody is going to scold you, we just need the full picture. After that chat, no matter how many glasses of cranberry juice you've already had, we run a urine test at the clinic and, if there is an infection, the medical team sets your treatment the same day, so the burning doesn't have to drag on at home while you try yet another family recipe (more details on our [urinary infection](/en/services/infecciones-urinarias) page). If a urine culture is needed, for example when infections keep returning, that result takes a few days and we'll let you know if anything should change. If you need an antibiotic, we send your [e-prescription](/en/services/farmacia) to the pharmacy you choose, near home or work, and you pick it up when it suits you.
 
 If you'd like to keep using cranberry afterwards to prevent the next one, we can talk that through too: the clinic's medical team will tell you what makes sense in your case.
 

@@ -2,7 +2,7 @@
 title: "Vitamin B12: benefits, deficiency signs and injections"
 description: "What vitamin B12 does, which signs suggest you're low and how a blood test at our Spring Branch clinic in Houston confirms a deficiency."
 date: "2026-08-18"
-updated: "2026-10-07"
+updated: "2026-10-15"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
 category: "Health"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
@@ -49,7 +49,7 @@ A single [blood test](/en/services/examenes-sangre) reads your B12 level, and th
 
 ## Pill, shot or another route: who decides?
 
-B12 is used to correct a diagnosed deficiency; it isn't a tonic for everyone. How it's replaced depends on the cause. When the issue is absorption, an injection is sometimes preferred so the vitamin doesn't have to go through the gut; when the cause is diet, an oral supplement may be enough. **The clinic's medical team decides whether you need it and in what form after reviewing your lab results**, and no single plan fits everybody. Whatever is prescribed at the visit is provided by the clinic pharmacy.
+B12 is used to correct a diagnosed deficiency; it isn't a tonic for everyone. How it's replaced depends on the cause. When the issue is absorption, an injection is sometimes preferred so the vitamin doesn't have to go through the gut; when the cause is diet, an oral supplement may be enough. **The clinic's medical team decides whether you need it and in what form after reviewing your lab results**, and no single plan fits everybody. If what you need is a prescription supplement, we send it electronically to the pharmacy you prefer.
 
 ## Does extra B12 help if your levels are already normal?
 
