@@ -18,6 +18,19 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 
+## Tanda 31 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.clinicahispananhammerly.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-15
+
 ## Tanda 24
 
 - [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr.
@@ -46,7 +59,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 26
 
-- [ ] https://www.clinicahispananhammerly.com/services/farmacia  — cambiada 2026-10-07 · rastreada 2026-09-22 · indexada · 5 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 5 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-07 · rastreada 2026-08-09 · indexada · 4 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-tuberculosis  — cambiada 2026-10-07 · rastreada 2026-09-18 · indexada · 4 impr.
@@ -72,7 +84,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 28
 
-- [ ] https://www.clinicahispananhammerly.com/en/services/farmacia  — cambiada 2026-10-07 · rastreada 2026-09-19 · indexada · 13 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 9 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 9 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 9 impr.
