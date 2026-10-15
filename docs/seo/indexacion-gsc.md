@@ -6,17 +6,20 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-14; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 72 de 94 URLs del sitemap indexadas · 22 sin indexar (14 desconocida · 6 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 72 de 94 URLs del sitemap indexadas · 22 sin indexar (14 desconocida · 6 descubierta sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 59 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 67 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  📨 ENVIADA 14/10/2026
+## Tanda 23 — cambios del 2026-10-14 (post del blog semanal + tanda de hoy)  📨 ENVIADA 15/10/2026
 
 - [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
+
+## Tanda 24
+
 - [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr.
 - [ ] https://www.clinicahispananhammerly.com/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 367 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-07 · rastreada 2026-09-30 · indexada · pedida 2026-10-05 · 316 impr.
@@ -25,13 +28,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 161 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 117 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-08-06 · indexada · pedida 2026-10-05 · 61 impr.
-
-## Tanda 16
-
 - [ ] https://www.clinicahispananhammerly.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 56 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
 
-## Tanda 17
+## Tanda 25
 
 - [ ] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 41 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
@@ -44,7 +44,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/unas-encarnadas  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 8 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-10-07 · rastreada 2026-09-28 · indexada · 5 impr.
 
-## Tanda 18
+## Tanda 26
 
 - [ ] https://www.clinicahispananhammerly.com/services/farmacia  — cambiada 2026-10-07 · rastreada 2026-09-22 · indexada · 5 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 5 impr.
@@ -55,10 +55,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-07 · desconocida · 0 impr.
-
-## Tanda 19
-
 - [ ] https://www.clinicahispananhammerly.com/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
+
+## Tanda 27
+
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-08-10 · indexada · 135 impr.
@@ -68,10 +68,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/services/unas-encarnadas  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 27 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 26 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 24 impr.
-
-## Tanda 20
-
 - [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 15 impr.
+
+## Tanda 28
+
 - [ ] https://www.clinicahispananhammerly.com/en/services/farmacia  — cambiada 2026-10-07 · rastreada 2026-09-19 · indexada · 13 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 9 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 9 impr.
@@ -81,10 +81,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-09-12 · indexada · 7 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-07 · rastreada 2026-09-19 · indexada · 7 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 6 impr.
-
-## Tanda 21
-
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-fisico-escolar  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 6 impr.
+
+## Tanda 29
+
 - [ ] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 5 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 4 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-07-31 · indexada · 3 impr.
@@ -93,11 +93,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
-
-## Tanda 22
-
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-07 · desconocida · 0 impr.
+
+## Tanda 30
+
 - [ ] https://www.clinicahispananhammerly.com/en/services/electrocardiograma  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-dot  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
