@@ -17,18 +17,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 
-## Tanda 31 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 16/10/2026
+## Tanda 31 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/en/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/en/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-15
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-15
 
 ## Tanda 32
 
