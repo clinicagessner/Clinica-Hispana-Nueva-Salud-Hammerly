@@ -23,11 +23,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
+- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
 
 ## Tanda 39 — cambios del 2026-10-15 (páginas cambiadas sin pedir)
 
+- [ ] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
+- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 38 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · pedida 2026-10-06 · 18 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 13 impr.
