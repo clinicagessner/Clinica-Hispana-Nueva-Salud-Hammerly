@@ -1,6 +1,7 @@
 ---
 title: "Vitamin B12: benefits, deficiency signs and injections"
-description: "What vitamin B12 does, which signs suggest you're low and how a blood test at our Spring Branch clinic in Houston confirms a deficiency."
+metaTitle: "Vitamin B12 Shots: What They're For and When They're Used"
+description: "What is a vitamin B12 shot for? It corrects a diagnosed deficiency, especially when B12 isn't absorbed well. Signs and testing in Spring Branch, Houston."
 date: "2026-08-18"
 updated: "2026-10-15"
 author: "Clínica Hispana Nueva Salud Hammerly Team"

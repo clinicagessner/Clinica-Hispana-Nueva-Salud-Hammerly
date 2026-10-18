@@ -1,7 +1,7 @@
 ---
 title: "Vitamina B12: beneficios, síntomas de deficiencia e inyecciones"
-metaTitle: "Vitamina B12: deficiencia, análisis e inyecciones"
-description: "Qué hace la vitamina B12, qué señales sugieren que te falta y cómo se confirma con un análisis de sangre en nuestra clínica de Spring Branch, Houston."
+metaTitle: "Vitamina B12 inyectable: para qué sirve y cuándo se usa"
+description: "¿Para qué sirve la vitamina B12 inyectable? Corrige una deficiencia diagnosticada, sobre todo si no se absorbe bien. Señales y análisis en Spring Branch."
 date: "2026-08-18"
 updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
