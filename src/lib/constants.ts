@@ -638,9 +638,9 @@ For everything else, don't let the cough drag on. Come see us at Hammerly Blvd t
     shortDescriptionEn:
       "Physical exams for school and sports, fast and with the forms completed.",
     description:
-      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y con precios accesibles.",
+      "Examen físico escolar y deportivo en Spring Branch, Houston: llenamos el formulario que pide la escuela o el equipo. Sin cita y en español.",
     descriptionEn:
-      "School and sports physical exams in Houston, TX. Fast, in Spanish, with affordable pricing.",
+      "School and sports physicals in Spring Branch, Houston: we fill out the form your school or team requires. Walk-in, in Spanish or English.",
     keywords: [
       "examen fisico escolar houston",
       "physical para la escuela houston",
