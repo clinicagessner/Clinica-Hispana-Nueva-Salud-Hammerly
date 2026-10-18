@@ -1306,7 +1306,7 @@ If you're fasting, stop by 8538 Hammerly Blvd Suite B early so you're not stuck 
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `¿Te arde al orinar? En Clínica Hispana Nueva Salud Hammerly, en Spring Branch, el examen de orina se hace en la clínica y, si confirma infección, te vas con tu tratamiento el mismo día. Atendemos infecciones urinarias en mujeres y hombres adultos, sin cita previa y con explicaciones claras en español.
+    longDescription: `¿Te arde al orinar? En Clínica Hispana Nueva Salud Hammerly, en Spring Branch, analizamos tu muestra de orina aquí mismo y, cuando el resultado muestra infección, mandamos la receta electrónica ese mismo día a la farmacia que prefieras, sea una de tu barrio o una que te quede de camino al trabajo. Atendemos infecciones urinarias en mujeres y hombres adultos, sin cita previa y con explicaciones claras en español.
 
 ## ¿Qué molestias apuntan a una infección urinaria?
 
@@ -1330,7 +1330,7 @@ El equipo médico revisa el examen de orina junto con tus síntomas, elige el an
 Fiebre, escalofríos, vómito o dolor en el costado o la espalda baja pueden indicar que la infección subió hacia los riñones: ven hoy mismo. Si estás embarazada, avísanos al llegar, porque el tratamiento se elige con más cuidado. Si las infecciones se te repiten, buscamos la causa en [ginecología](/services/ginecologia) o en la consulta de [salud del hombre](/services/salud-hombre).
 
 No aguantes otra noche de ardor: llama o pasa directo por 8538 Hammerly Blvd Suite B y te atendemos.`,
-    longDescriptionEn: `Burning when you pee? At Clínica Hispana Nueva Salud Hammerly in Spring Branch, the urine test happens at the clinic and, if it shows an infection, you walk out with your treatment the same day. We treat urinary tract infections in adult women and men, with no appointment and clear explanations in Spanish or English.
+    longDescriptionEn: `Burning when you pee? At Clínica Hispana Nueva Salud Hammerly in Spring Branch, we check your urine sample right here and, when the result shows an infection, we e-prescribe that same day to whichever pharmacy you prefer, whether it's near home or on your way to work. We treat urinary tract infections in adult women and men, with no appointment and clear explanations in Spanish or English.
 
 ## Which symptoms point to a urinary infection?
 
