@@ -760,7 +760,7 @@ Weekday evenings and Saturdays at our Hammerly Blvd clinic are a good time to br
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `La ginecología básica de Clínica Hispana Nueva Salud Hammerly, en Spring Branch (Houston), cubre el papanicolaou, los cultivos vaginales y el chequeo de rutina de la mujer. Es para ti si te toca tu revisión periódica o si tienes flujo, comezón o ardor que no se van, y prefieres explicarlo con calma en tu idioma.
+    longDescription: `La ginecología básica de Clínica Hispana Nueva Salud Hammerly, en Spring Branch (Houston), cubre el papanicolaou, los cultivos vaginales y el chequeo de rutina de la mujer. Es para ti si te toca tu revisión periódica o si tienes flujo, comezón o ardor que no se van, y prefieres explicarlo con calma en tu idioma. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
 ## ¿Cómo te preparas para el papanicolaou?
 
@@ -785,7 +785,7 @@ Las molestias vaginales no siempre tienen la misma causa: pueden ser hongos, un 
 Muchas mujeres aprovechan para hacerse una [prueba de embarazo](/services/prueba-embarazo) o hablar de métodos anticonceptivos. Cuéntanos todo lo que te preocupa al inicio de la consulta y organizamos la visita para cubrirlo.
 
 ¿Te toca tu consulta de ginecología? Llámanos o ven a Hammerly Blvd: te recibimos los siete días de la semana, sin necesidad de seguro.`,
-    longDescriptionEn: `Basic gynecology at Clínica Hispana Nueva Salud Hammerly in Spring Branch (Houston) covers the Pap smear, vaginal cultures and the routine women's checkup. It's for you if your regular exam is due, or if you're dealing with discharge, itching or burning that won't go away and would rather talk it through calmly in your own language.
+    longDescriptionEn: `Basic gynecology at Clínica Hispana Nueva Salud Hammerly in Spring Branch (Houston) covers the Pap smear, vaginal cultures and the routine women's checkup. It's for you if your regular exam is due, or if you're dealing with discharge, itching or burning that won't go away and would rather talk it through calmly in your own language. The initial consultation is free; tests and treatment are paid separately.
 
 ## How do you get ready for a Pap smear?
 
