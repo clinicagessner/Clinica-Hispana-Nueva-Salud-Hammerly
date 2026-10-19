@@ -12,18 +12,21 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 46 — cambios del 2026-10-18 (análisis diario: urinarias receta electrónica, título/meta B12, meta examen escolar)  📨 ENVIADA 19/10/2026
+## Tanda 52 — cambios del 2026-10-19 (pendientes por cupo, pedir el 20/10 desde las 4:12 PM)
 
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-18
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-18
-- [ ] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18
-- [ ] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-18
-- [ ] https://www.clinicahispananhammerly.com/en/services/examen-fisico-escolar  — cambiada 2026-10-18
-- [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
-- [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
-- [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
+- [ ] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18 · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+- [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr. · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+
+## Tanda 46 — cambios del 2026-10-18 (análisis diario: urinarias receta electrónica, título/meta B12, meta examen escolar)  ✅ PEDIDA 19/10/2026
+
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-10-18
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-10-18
+- [x] https://www.clinicahispananhammerly.com/services/examen-fisico-escolar  — cambiada 2026-10-18
+- [x] https://www.clinicahispananhammerly.com/en/services/examen-fisico-escolar  — cambiada 2026-10-18
+- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
+- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
 
 ## Tanda 39 — cambios del 2026-10-15 (páginas cambiadas sin pedir)
 
