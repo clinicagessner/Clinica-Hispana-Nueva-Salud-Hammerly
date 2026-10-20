@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 52 — cambios del 2026-10-19 (pendientes por cupo, pedir el 20/10 desde las 4:12 PM)  📨 ENVIADA 20/10/2026
+## Tanda 52 — cambios del 2026-10-19 (pendientes por cupo, pedir el 20/10 desde las 4:12 PM)  ✅ PEDIDA 20/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18 · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
-- [ ] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr. · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
-- [ ] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 38 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · pedida 2026-10-06 · 18 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 13 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-28 · indexada · 5 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-08-09 · indexada · 4 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-10 · indexada · 4 impr.
+- [x] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18 · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr. · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
+- [x] https://www.clinicahispananhammerly.com/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 38 impr.
+- [x] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · pedida 2026-10-06 · 18 impr.
+- [x] https://www.clinicahispananhammerly.com/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 13 impr.
+- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-28 · indexada · 5 impr.
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-08-09 · indexada · 4 impr.
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-10 · indexada · 4 impr.
 
 ## Tanda 53
 
