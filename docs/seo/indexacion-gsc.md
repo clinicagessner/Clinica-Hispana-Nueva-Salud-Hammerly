@@ -14,6 +14,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 <!-- /tandas:auto -->
 
 ## Tanda 58 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  📨 ENVIADA 21/10/2026
+- [ ] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
+- [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
 - [ ] https://www.clinicahispananhammerly.com/en/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 17 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-09-17 · indexada · 12 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 8 impr.
