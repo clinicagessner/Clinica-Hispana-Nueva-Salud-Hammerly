@@ -6,25 +6,22 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-20; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 74 de 94 URLs del sitemap indexadas · 20 sin indexar (13 desconocida · 7 descubierta sin indexar).
+**Estado (actualizado 2026-10-21; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 74 de 94 URLs del sitemap indexadas · 20 sin indexar (13 desconocida · 7 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 50 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 49 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 52 — cambios del 2026-10-19 (pendientes por cupo, pedir el 20/10 desde las 4:12 PM)  ✅ PEDIDA 20/10/2026
-
-- [x] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18 · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
-- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr. · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
-- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
-- [x] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
-- [x] https://www.clinicahispananhammerly.com/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 38 impr.
-- [x] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · pedida 2026-10-06 · 18 impr.
-- [x] https://www.clinicahispananhammerly.com/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 13 impr.
-- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-28 · indexada · 5 impr.
-- [x] https://www.clinicahispananhammerly.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-08-09 · indexada · 4 impr.
-- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-10 · indexada · 4 impr.
+## Tanda 58 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  📨 ENVIADA 21/10/2026
+- [ ] https://www.clinicahispananhammerly.com/en/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 17 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-09-17 · indexada · 12 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 8 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 4 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 2 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 2 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
 
 ## Tanda 53
 
@@ -37,10 +34,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 31 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-10-03 · indexada · 28 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/unas-encarnadas  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 8 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 4 impr.
 
 ## Tanda 54
 
-- [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 4 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-08-24 · indexada · 3 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-tuberculosis  — cambiada 2026-10-07 · rastreada 2026-09-18 · indexada · 3 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
@@ -50,38 +47,30 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-08-10 · indexada · 109 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 53 impr.
 
 ## Tanda 55
 
-- [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 53 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 37 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/promociones  — cambiada 2026-10-07 · rastreada 2026-09-19 · indexada · 24 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 23 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 17 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 14 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-09-17 · indexada · 12 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 10 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 8 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 8 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 6 impr.
 
 ## Tanda 56
 
-- [ ] https://www.clinicahispananhammerly.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 6 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services  — cambiada 2026-10-07 · rastreada 2026-10-01 · indexada · 6 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-09-12 · indexada · 6 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 4 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-07-31 · indexada · 3 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 2 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 2 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
 
 ## Tanda 57
 
-- [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/electrocardiograma  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-dot  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
@@ -161,3 +150,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — post nuevo 2026-10-14 (blog semanal)
 - [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
 - [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-10-18 (consulta inicial gratis, procede hammerly)
+
+## Tanda 52 — cambios del 2026-10-19 (pendientes por cupo, pedir el 20/10 desde las 4:12 PM)  ✅ PEDIDA 20/10/2026
+
+- [x] https://www.clinicahispananhammerly.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-18 · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+- [x] https://www.clinicahispananhammerly.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 641 impr. · cupo de Search Console lleno el 19/10; pedir desde el 20/10 4:12 PM
+- [x] https://www.clinicahispananhammerly.com/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-09-25 · indexada · pedida 2026-10-05 · 47 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 38 impr.
+- [x] https://www.clinicahispananhammerly.com/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 38 impr.
+- [x] https://www.clinicahispananhammerly.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · pedida 2026-10-06 · 18 impr.
+- [x] https://www.clinicahispananhammerly.com/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 13 impr.
+- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-28 · indexada · 5 impr.
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-08-09 · indexada · 4 impr.
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-10 · indexada · 4 impr.
