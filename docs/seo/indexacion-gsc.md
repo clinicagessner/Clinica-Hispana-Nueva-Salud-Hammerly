@@ -13,17 +13,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 58 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  📨 ENVIADA 21/10/2026
-- [ ] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
-- [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
-- [ ] https://www.clinicahispananhammerly.com/en/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 17 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-09-17 · indexada · 12 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 8 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 4 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 2 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 2 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
+## Tanda 58 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  ✅ PEDIDA 21/10/2026
+- [x] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
+- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — post nuevo 2026-10-21 (blog semanal)
+- [x] https://www.clinicahispananhammerly.com/en/services/drenaje-abscesos  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 17 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15 · rastreada 2026-09-17 · indexada · 12 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 8 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 4 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15 · rastreada 2026-09-19 · indexada · 2 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-07-15 · indexada · 2 impr.
+- [x] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
 
 ## Tanda 53
 
