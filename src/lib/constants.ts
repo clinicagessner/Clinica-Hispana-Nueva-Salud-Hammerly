@@ -778,7 +778,6 @@ Las molestias vaginales no siempre tienen la misma causa: pueden ser hongos, un 
 1. La muestra se envía al laboratorio y te avisamos cuando el resultado esté listo.
 2. Repasamos contigo qué significa cada parte del informe, sin palabras complicadas.
 3. Si el equipo necesita ver el útero o los ovarios, el [ultrasonido](/services/ultrasonido) se hace en la misma clínica.
-4. Cuando un resultado requiere estudios más avanzados, se orienta la referencia al especialista para que sigas sin perder tiempo.
 
 ## ¿Qué más puedes resolver en la misma visita?
 
@@ -803,7 +802,6 @@ Vaginal discomfort doesn't always have the same cause: it might be yeast, a bact
 1. The sample goes to the lab and we let you know when your result is ready.
 2. We go over what each part of the report means, in plain words.
 3. If the team needs to look at the uterus or ovaries, the [ultrasound](/en/services/ultrasonido) is done right at the clinic.
-4. When a result calls for more advanced testing, a referral to the right specialist is arranged so you can keep moving forward.
 
 ## What else can you take care of in the same visit?
 
@@ -1149,7 +1147,6 @@ Si te sientes sin energía o con el ánimo bajo, el equipo médico de la clínic
 1. Te avisamos cuando los resultados estén listos y te los explicamos con calma.
 2. El equipo médico valora si conviene repetir el análisis para confirmar.
 3. Revisamos tus síntomas, tu historia familiar y lo que pudo alterar el valor.
-4. Si el resultado lo requiere, se orienta la referencia al especialista en urología.
 
 Los hombres que trabajan de día encuentran en Hammerly Blvd consulta hasta la noche entre semana.`,
     longDescriptionEn: `The men's health checkup at Clínica Hispana Nueva Salud Hammerly in Spring Branch brings together the prostate-specific antigen (PSA) test, a look at your vital signs and other labs based on your age and complaints. It's for men in Houston who haven't been checked in years or who notice changes when they urinate.
@@ -1174,7 +1171,6 @@ If you feel low on energy or your mood is down, the clinic's medical team may in
 1. We let you know when the results are ready and go over them calmly.
 2. The medical team weighs whether to repeat the test to confirm it.
 3. We review your symptoms, family history and anything that might have affected the number.
-4. If the result calls for it, a referral to a urology specialist is arranged.
 
 Men who work daytime hours can find evening appointments at our Hammerly Blvd office on weekdays.`,
   },
