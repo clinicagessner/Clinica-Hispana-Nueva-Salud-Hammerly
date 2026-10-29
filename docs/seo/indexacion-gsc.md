@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
-## Tanda 69 — cambios del 2026-10-28 (post del blog semanal)  📨 ENVIADA 28/10/2026
+## Tanda 69 — cambios del 2026-10-28 (post del blog semanal)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicahispananhammerly.com/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
-- [ ] https://www.clinicahispananhammerly.com/en/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
+- [x] https://www.clinicahispananhammerly.com/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
+- [x] https://www.clinicahispananhammerly.com/en/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
 
 ## Tanda 70
 
