@@ -1091,23 +1091,27 @@ For the removal, come to Hammerly Blvd in a short-sleeved top; no appointment ne
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Salud del Hombre: Examen de Próstata (PSA)",
-    titleEn: "Men's Health: Prostate Exam (PSA)",
+    title: "Urología y Salud del Hombre en Houston: Próstata y PSA",
+    titleEn: "Urology and Men's Health in Houston: Prostate and PSA",
     shortDescription:
-      "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
+      "Urología básica y salud del hombre: próstata, PSA, molestias al orinar y testosterona, en español.",
     shortDescriptionEn:
-      "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
+      "Basic urology and men's health: prostate, PSA, urinary complaints and testosterone, in Spanish.",
     description:
-      "Salud del hombre en Houston, TX: examen de próstata (PSA) y chequeo general con laboratorio, en español y sin seguro médico.",
+      "Urología y salud del hombre en Houston, TX: próstata, PSA y molestias al orinar, con laboratorio propio. En español y sin seguro médico.",
     descriptionEn:
-      "Men's health in Houston, TX: prostate exam (PSA) and a general checkup with lab work, in Spanish and with no insurance needed.",
+      "Urology and men's health in Houston, TX: prostate, PSA and urinary complaints, with an on-site lab. In Spanish, no insurance needed.",
     keywords: [
+      "urologia houston",
+      "urologia cerca de mi",
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
       "chequeo del hombre houston",
     ],
     keywordsEn: [
+      "urology houston",
+      "urology near me",
       "mens health houston",
       "psa test houston",
       "prostate exam houston",
@@ -1117,19 +1121,27 @@ For the removal, come to Hammerly Blvd in a short-sleeved top; no appointment ne
       "Antígeno prostático (PSA)",
       "Nivel de testosterona",
       "Chequeo general del hombre",
+      "Molestias al orinar y de la próstata",
+      "Referencia al urólogo si un resultado lo requiere",
       "Resultados explicados en español",
     ],
     featuresEn: [
       "Prostate antigen (PSA)",
       "Testosterone level",
       "General men's checkup",
+      "Urinary and prostate complaints",
+      "Referral to a urologist if a result calls for it",
       "Results explained in Spanish",
     ],
-    longDescription: `El chequeo de salud del hombre en Clínica Hispana Nueva Salud Hammerly, en Spring Branch, reúne el análisis de antígeno prostático (PSA), la revisión de tus signos vitales y otros estudios según tu edad y tus molestias. Es para hombres de Houston que llevan años sin revisarse o que notan cambios al orinar.
+    longDescription: `La consulta de urología básica y salud del hombre en Clínica Hispana Nueva Salud Hammerly, en Spring Branch, reúne el análisis de antígeno prostático (PSA), la revisión de tus signos vitales y otros estudios según tu edad y tus molestias. Es para hombres de Houston que llevan años sin revisarse o que notan cambios al orinar.
 
 ## ¿Qué es el PSA y qué puede indicar?
 
 El PSA es una proteína que fabrica la próstata y que se mide en una muestra de sangre. Puede subir por varias razones: el crecimiento benigno de la próstata que llega con la edad, una inflamación, una infección o, en algunos casos, un cáncer. Por eso un valor alto no es un diagnóstico, sino una señal para mirar más de cerca. Según las recomendaciones del [USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening), la decisión de hacerse esta prueba conviene tomarla conversando con un profesional de salud, y esa conversación forma parte de la consulta.
+
+## ¿Qué molestias urológicas puedes consultar aquí?
+
+Muchos hombres esperan meses antes de contar que algo cambió al orinar. En esta consulta puedes hablar de un chorro más flojo que antes, de la sensación de no vaciar del todo, de las ganas urgentes que no dan tiempo, de levantarte varias veces cada noche o de un dolor en los testículos. El equipo médico te pregunta desde cuándo pasa, revisa tus medicamentos y pide lo que ayuda a ubicar el origen: examen de orina, PSA, glucosa o función de los riñones, todo en el laboratorio de la clínica. Con esos datos se decide si basta con tratamiento y control aquí o si conviene la referencia al urólogo, que se orienta desde la misma visita. La sangre en la orina, la fiebre con dolor al orinar o no poder orinar en absoluto no deben esperar: ven hoy mismo.
 
 ## ¿Cómo te preparas para la muestra?
 
@@ -1149,11 +1161,15 @@ Si te sientes sin energía o con el ánimo bajo, el equipo médico de la clínic
 3. Revisamos tus síntomas, tu historia familiar y lo que pudo alterar el valor.
 
 Los hombres que trabajan de día encuentran en Hammerly Blvd consulta hasta la noche entre semana.`,
-    longDescriptionEn: `The men's health checkup at Clínica Hispana Nueva Salud Hammerly in Spring Branch brings together the prostate-specific antigen (PSA) test, a look at your vital signs and other labs based on your age and complaints. It's for men in Houston who haven't been checked in years or who notice changes when they urinate.
+    longDescriptionEn: `The basic urology and men's health visit at Clínica Hispana Nueva Salud Hammerly in Spring Branch brings together the prostate-specific antigen (PSA) test, a look at your vital signs and other labs based on your age and complaints. It's for men in Houston who haven't been checked in years or who notice changes when they urinate.
 
 ## What is PSA and what can it signal?
 
 The prostate releases a protein called PSA into the bloodstream, and a single blood draw measures it. It can rise for several reasons: the benign prostate enlargement that comes with age, inflammation, an infection or, in some cases, cancer. So a high value isn't a diagnosis; it's a signal to take a closer look. The [U.S. Preventive Services Task Force (USPSTF)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening) recommends that the decision to get this test be made in conversation with a health professional, and that's exactly what happens during the visit.
+
+## Which urinary complaints can you bring to this visit?
+
+Plenty of men wait months before mentioning that something changed in the bathroom. Here you can talk about a stream that's weaker than it used to be, the feeling that your bladder never fully empties, sudden urges that leave no time, waking up several times each night or pain in the testicles. The medical team asks how long it's been happening, reviews your medications and orders whatever helps locate the cause: a urinalysis, PSA, glucose or kidney function, all in the clinic's lab. With those results, the team decides whether treatment and follow-up here are enough or whether a urologist referral makes sense, and that referral is arranged from the same visit. Blood in your urine, fever with painful urination or being unable to urinate at all can't wait: come in today.
 
 ## How should you prepare for the sample?
 
