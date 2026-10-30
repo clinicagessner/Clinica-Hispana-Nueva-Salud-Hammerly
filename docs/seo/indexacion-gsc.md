@@ -172,3 +172,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispananhammerly.com/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
 - [x] https://www.clinicahispananhammerly.com/en/blog/infarto-mujer-senales-distintas-hombre  — cambiada 2026-10-28
+
+## Tanda 74 — cambios del 2026-10-29 (salud-hombre como urología y salud del hombre)  ✅ PEDIDA 29/10/2026
+
+- [x] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-29 (título/H1 "Urología y Salud del Hombre en Houston: Próstata y PSA" + sección de molestias urológicas) · IndexNow 200
+- [x] https://www.clinicahispananhammerly.com/en/services/salud-hombre  — cambiada 2026-10-29 · IndexNow 200
