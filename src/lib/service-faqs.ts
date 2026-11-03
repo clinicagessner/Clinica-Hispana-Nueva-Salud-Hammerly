@@ -124,6 +124,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "What is a vaginal culture for?",
       answerEn: "It identifies which organism is causing the discharge, odor or itching. That way treatment targets the real cause instead of cycling through creams that don't work. The sample is taken with a swab during the exam and it's quick.",
     },
+    {
+      question: "¿Ponen la inyección anticonceptiva en la clínica?",
+      answer: "Sí. En la consulta de ginecología te explicamos las opciones de anticoncepción hormonal, pastillas o inyección, y la inyección se aplica en el consultorio. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.",
+      questionEn: "Do you give the birth control shot at the clinic?",
+      answerEn: "Yes. At the gynecology visit we explain the hormonal birth control options, the pill or the shot, and the shot is given in the exam room. The initial consultation is free; tests and treatment are paid separately.",
+    },
   ],
   "prueba-embarazo": [
     {
@@ -243,6 +249,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Pueden influir tomar poca agua, aguantar las ganas de orinar, las relaciones sexuales, los cambios de la menopausia o en hombres la próstata. Si te pasa seguido, el equipo médico busca la causa y te da medidas concretas para prevenirlas.",
       questionEn: "What makes a bladder infection return again and again?",
       answerEn: "Low water intake, holding your urine, sex, menopause changes or, in men, the prostate can all play a part. If it happens often, the medical team looks for the cause and gives you specific steps to prevent the next one.",
+    },
+    {
+      question: "Me levanto mucho a orinar por la vejiga hiperactiva, ¿me atienden en urología?",
+      answer: "Sí. Claro. La vejiga hiperactiva, igual que el ardor o las infecciones repetidas, se revisa en nuestra consulta de urología en español: primero un examen de orina aquí mismo y, con el resultado, el tratamiento con receta electrónica a tu farmacia. Sin seguro, sin problema.",
+      questionEn: "I get up a lot at night because of an overactive bladder. Can urology help?",
+      answerEn: "Yes. Yes. Overactive bladder, like burning or repeat infections, is checked at our urology visit in Spanish: first a urine test right here and, with the result, treatment with an e-prescription to your pharmacy. No insurance, no problem.",
     },
   ],
   "examen-heces": [
