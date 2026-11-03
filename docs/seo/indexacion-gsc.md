@@ -13,15 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
-## Tanda 79 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))
+## Tanda 79 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))  📨 ENVIADA 03/11/2026
 
 - [ ] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananhammerly.com/services  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananhammerly.com/en/services  — cambiada 2026-11-02
-
-## Tanda 84 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
-
 - [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-02
