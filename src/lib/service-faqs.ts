@@ -447,10 +447,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "sueros-vitaminados": [
     {
-      question: "¿Me explican qué lleva el suero antes de ponérmelo?",
-      answer: "Sí. En la consulta previa el equipo médico te dice qué contiene la mezcla y resuelve tus dudas. Solo después, y si estás de acuerdo, se coloca la vía en el brazo.",
-      questionEn: "Do you explain what's in the drip before I get it?",
-      answerEn: "Yes. In the visit beforehand the medical team tells you what the mix contains and answers your questions. Only then, and only if you agree, is the IV line placed in your arm.",
+      question: "¿Qué lleva el suero?",
+      answer: "Vitamina B12. En la consulta previa el equipo médico resuelve tus dudas; solo después, y si estás de acuerdo, se coloca la vía en el brazo.",
+      questionEn: "What's in the drip?",
+      answerEn: "Vitamin B12. In the visit beforehand the medical team answers your questions; only then, and only if you agree, is the IV line placed in your arm.",
     },
     {
       question: "¿Puedo ponerme un suero si estoy embarazada?",

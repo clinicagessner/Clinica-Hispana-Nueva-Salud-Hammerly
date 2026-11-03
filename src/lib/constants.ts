@@ -2292,9 +2292,9 @@ Drop in for your shot Monday through Saturday until 9 PM, or Sunday until 5 PM, 
     metaTitle: "Sueros Vitaminados (Terapia IV) en Houston",
     metaTitleEn: "Vitamin IV Therapy in Houston",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero de vitamina B12 por vía intravenosa, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
       "Sueros vitaminados (terapia IV) en Spring Branch, Houston: el equipo médico revisa tu salud antes de aplicarlo. En español y sin cita.",
     descriptionEn:
@@ -2303,31 +2303,31 @@ Drop in for your shot Monday through Saturday until 9 PM, or Sunday until 5 PM, 
       "sueros vitaminados houston",
       "terapia iv houston",
       "suero de vitaminas houston",
-      "hidratacion intravenosa houston",
+      "suero de vitamina b12 houston",
     ],
     keywordsEn: [
       "vitamin iv therapy houston",
       "iv drip houston",
-      "iv hydration houston",
+      "vitamin b12 iv houston",
       "vitamin drip houston",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación médica previa",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Medical evaluation first",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados son una aplicación por vía intravenosa que se hace en Clínica Hispana Nueva Salud Hammerly, en Spring Branch (Houston). Antes de ponerte cualquier suero, el equipo médico de la clínica revisa tu estado de salud y te explica qué contiene la mezcla, para que decidas con información y no a ciegas.
+    longDescription: `El suero vitaminado que se aplica en Clínica Hispana Nueva Salud Hammerly, en Spring Branch (Houston), es un suero de vitamina B12 por vía intravenosa. Antes de ponértelo, el equipo médico de la clínica revisa tu estado de salud y resuelve tus dudas, para que decidas con información y no a ciegas.
 
 ## ¿Qué pasa desde que llegas hasta que te vas?
 
-Primero respondes unas preguntas sobre tu salud, los medicamentos que tomas y tus alergias. El personal médico toma tus signos vitales, como la presión y el pulso. Con esa información se define si el suero es adecuado para ti y se te explica, en la consulta, cuál es su contenido.
+Primero respondes unas preguntas sobre tu salud, los medicamentos que tomas y tus alergias. El personal médico toma tus signos vitales, como la presión y el pulso. Con esa información se define si el suero de vitamina B12 es adecuado para ti.
 
 Después te sientas en un sillón, se limpia la piel del brazo y se coloca una aguja fina en la vena conectada a la bolsa del suero. El líquido entra gota a gota. Durante la aplicación el personal está pendiente de ti, y al terminar retira la aguja y cubre el punto con una gasa.
 
@@ -2338,7 +2338,7 @@ Hay casos en que el equipo médico puede decirte que no, o pedirte otra evaluaci
 - Embarazo o lactancia.
 - Enfermedad del riñón o del corazón.
 - Presión muy alta sin control.
-- Alergia conocida a alguno de los componentes que te expliquen.
+- Alergia conocida a la vitamina B12.
 - Tratamientos con varios medicamentos a la vez.
 
 Si tienes alguna [condición crónica](/services/condiciones-cronicas), menciónala desde el principio.
@@ -2352,11 +2352,11 @@ Si tienes alguna [condición crónica](/services/condiciones-cronicas), mención
 - Si la zona del pinchazo se pone roja, caliente o dolorosa en los días siguientes, vuelve para que la revisen.
 
 Si quieres probar los sueros vitaminados, ven a 8538 Hammerly Blvd Suite B sin cita, o llámanos y pregunta el precio antes de tu visita.`,
-    longDescriptionEn: `Vitamin IV drips are an intravenous application offered at Clínica Hispana Nueva Salud Hammerly in Spring Branch, Houston. Before any drip, the clinic's medical team reviews your health and explains what the mix contains, so you decide with full information instead of guessing.
+    longDescriptionEn: `The vitamin IV offered at Clínica Hispana Nueva Salud Hammerly in Spring Branch, Houston, is an intravenous vitamin B12 drip. Before you get it, the clinic's medical team reviews your health and answers your questions, so you decide with full information instead of guessing.
 
 ## What happens from check-in to checkout?
 
-First you answer some questions about your health, the medicines you take and any allergies. The medical staff checks your vital signs, such as blood pressure and pulse. With that, they decide whether the drip suits you and walk you through its contents during the visit.
+First you answer some questions about your health, the medicines you take and any allergies. The medical staff checks your vital signs, such as blood pressure and pulse. With that, they decide whether the vitamin B12 drip suits you.
 
 Then you settle into a chair, the skin on your arm is cleaned and a thin needle is placed in a vein, connected to the IV bag. The fluid goes in drop by drop. The staff keeps an eye on you the whole time, and when it's done they remove the needle and cover the spot with gauze.
 
@@ -2367,7 +2367,7 @@ In some cases the medical team may say no, or ask for another evaluation first:
 - Pregnancy or breastfeeding.
 - Kidney or heart disease.
 - Very high blood pressure that isn't controlled.
-- A known allergy to any ingredient they describe to you.
+- A known allergy to vitamin B12.
 - Taking several medications at once.
 
 If you live with a [chronic condition](/en/services/condiciones-cronicas), bring it up from the start.
