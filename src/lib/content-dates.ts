@@ -11,11 +11,11 @@ export const SERVICES_LAST_REVIEWED = "2026-10-07";
 export const SERVICE_DATES: Record<string, string> = {
   "condiciones-cronicas": "2026-10-15",
   "tiroides": "2026-10-15",
-  "ginecologia": "2026-11-02",
+  "ginecologia": "2026-11-04",
   "alergias": "2026-10-15",
   "enfermedades-respiratorias": "2026-10-15",
   "anticonceptivos": "2026-10-15",
-  "infecciones-urinarias": "2026-11-02",
+  "infecciones-urinarias": "2026-11-04",
   "salud-hombre": "2026-10-29",
   "prueba-strep": "2026-10-15",
   "enfermedades-transmision-sexual": "2026-10-15",

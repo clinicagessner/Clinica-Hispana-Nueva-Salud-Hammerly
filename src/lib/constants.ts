@@ -724,26 +724,26 @@ Weekday evenings and Saturdays at our Hammerly Blvd clinic are a good time to br
     highlighted: true,
     title: "Ginecología: Papanicolaou, Cultivos y Chequeo",
     titleEn: "Gynecology: Pap Smear, Cultures & Checkup",
-    metaTitle: "Ginecología en Houston: Papanicolaou y Chequeo",
-    metaTitleEn: "Gynecology in Houston: Pap Smear & Checkup",
+    metaTitle: "Clínica para la Mujer y Ginecología en Houston",
+    metaTitleEn: "Women's Clinic & Gynecology in Houston",
     shortDescription:
       "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Ginecología en Houston, TX, en una clínica hispana: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Clínica para la mujer en Houston, TX: papanicolaou, ultrasonido, inyección anticonceptiva y cultivos. Consulta inicial gratis y en español.",
     descriptionEn:
-      "Gynecology in Houston, TX, at a Hispanic clinic: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Women's clinic in Houston, TX: Pap smear, ultrasound, birth control shot and cultures. Free initial consultation, in Spanish.",
     keywords: [
       "ginecologia en houston",
-      "ginecologo houston español",
+      "clinica para la mujer houston",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
     ],
     keywordsEn: [
       "gynecology in houston",
-      "gynecologist houston spanish",
+      "womens clinic houston",
       "pap smear houston",
       "vaginal culture houston",
       "vaginal infection treatment houston",
@@ -1294,16 +1294,16 @@ If you're fasting, stop by 8538 Hammerly Blvd Suite B early so you're not stuck 
     icon: "Droplet",
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
-    metaTitle: "Tratamiento de Infecciones Urinarias en Houston",
-    metaTitleEn: "UTI Treatment & Urinalysis in Houston",
+    metaTitle: "Urología e Infecciones Urinarias en Houston",
+    metaTitleEn: "Urology & Urinary Infections in Houston",
     shortDescription:
       "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
       "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, con precios accesibles.",
+      "Consulta de urología en español en Houston: examen de orina, infecciones urinarias y vejiga hiperactiva. Receta el mismo día a tu farmacia.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with affordable pricing.",
+      "Urology visits in Spanish in Houston: urinalysis, urinary infections and overactive bladder. Same-day prescription sent to your pharmacy.",
     keywords: [
       "infecciones urinarias houston",
       "examen de orina houston",
