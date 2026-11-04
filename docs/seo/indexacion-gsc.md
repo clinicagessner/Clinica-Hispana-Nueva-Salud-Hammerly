@@ -6,11 +6,10 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 79 de 98 URLs del sitemap indexadas · 19 sin indexar (9 descubierta sin indexar · 9 desconocida · 1 otra).
+**Estado (actualizado 2026-11-04; URL Inspection API, datos de hoy 2026-11-04):** 80 de 98 URLs del sitemap indexadas · 18 sin indexar (13 descubierta sin indexar · 5 desconocida).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 36 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 34 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
 ## Tanda 89 — cambios del 2026-11-04 (análisis diario: título/meta de ginecología y urinarias como los anuncios, exámenes de sangre sin cita)  📨 ENVIADA 04/11/2026
@@ -22,64 +21,52 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-11-04
 - [ ] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04
 
-## Tanda 79 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
+## Tanda 90
 
-- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/services  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/en/services  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-02
-- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-02
-
-## Tanda 85
-
-- [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 608 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 206 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 200 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 72 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 36 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-10-03 · indexada · 35 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-08-06 · indexada · pedida 2026-10-05 · 30 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-30 · rastreada 2026-10-01 · indexada · pedida 2026-10-29 · 9 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-08-24 · indexada · 4 impr.
-
-## Tanda 86
-
+- [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 353 impr.
+- [ ] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 196 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 142 impr.
+- [ ] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 51 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 30 impr.
+- [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-10-03 · indexada · 11 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-08-06 · indexada · pedida 2026-10-05 · 11 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-30 · rastreada 2026-10-01 · indexada · pedida 2026-10-29 · 8 impr.
+- [ ] https://www.clinicahispananhammerly.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-08-24 · indexada · 2 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · desconocida · 0 impr.
+
+## Tanda 91
+
+- [ ] https://www.clinicahispananhammerly.com/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-heces  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 55 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-08-10 · indexada · 22 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 14 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 12 impr.
-
-## Tanda 87
-
-- [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 10 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 9 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 8 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-09-12 · indexada · 7 impr.
+- [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 20 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-08-10 · indexada · 7 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 5 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-07-31 · indexada · 3 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 4 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 4 impr.
+
+## Tanda 92
+
+- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 3 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 3 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 3 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-07-31 · indexada · 2 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-09-12 · indexada · 2 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-
-## Tanda 88
-
+- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-dot  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
+
+## Tanda 93
+
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/prueba-tuberculosis  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/salud-hombre  — cambiada 2026-10-30 · desconocida · pedida 2026-10-29 · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/vacunas  — cambiada 2026-10-07 · desconocida · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/salud-hombre  — cambiada 2026-10-30 · descubierta sin indexar · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/vacunas  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-21 · 0 impr.
 
 ## Historial (tandas pedidas)
 
@@ -195,3 +182,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-29 (título/H1 "Urología y Salud del Hombre en Houston: Próstata y PSA" + sección de molestias urológicas) · IndexNow 200
 - [x] https://www.clinicahispananhammerly.com/en/services/salud-hombre  — cambiada 2026-10-29 · IndexNow 200
+
+## Tanda 79 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
+
+- [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/en/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-02
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-02
