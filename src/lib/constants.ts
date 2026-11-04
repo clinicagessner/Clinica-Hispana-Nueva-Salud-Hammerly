@@ -1263,6 +1263,10 @@ Te sientas, se limpia la piel del brazo y se toma la muestra con una aguja fina 
 
 Te avisamos cuando estén listos y el equipo médico de la clínica revisa contigo cada valor que salió alto o bajo, con palabras sencillas. Si tienes diabetes o presión alta, esos datos sirven para ajustar tu plan de [condiciones crónicas](/services/condiciones-cronicas). Si algún valor amerita ir más allá de la clínica, te ayudamos con la referencia al especialista indicado.
 
+## Análisis de sangre cerca de ti, sin cita
+
+¿Buscas exámenes de sangre cerca de mí en Spring Branch? Aquí no hace falta cita: llegas, nos cuentas en español qué quieres revisar y el equipo médico te ayuda a elegir los análisis que tienen sentido para ti. La muestra se toma en la misma clínica, con o sin seguro médico. La consulta inicial es gratis; los exámenes se pagan aparte. Si prefieres saber qué mide cada prueba antes de venir, lo contamos en la guía del [laboratorio clínico](/blog/laboratorio-clinico-houston-analisis-sangre).
+
 Si vienes en ayunas, pasa temprano por 8538 Hammerly Blvd Suite B para no quedarte toda la mañana sin desayunar.`,
     longDescriptionEn: `Blood tests at Clínica Hispana Nueva Salud Hammerly show how your sugar, cholesterol, organs and blood cells are doing. They're meant for adults who want a checkup, for anyone keeping a chronic condition under control and for people who need lab work for paperwork, right here in Spring Branch, Houston.
 
@@ -1284,6 +1288,10 @@ You sit down, the skin on your arm is cleaned and the sample is taken with a thi
 ## What happens once the numbers come in?
 
 We let you know when they're ready, and the clinic's medical team goes over every value that came out high or low with you in plain language. If you live with diabetes or high blood pressure, those numbers help adjust your [chronic conditions](/en/services/condiciones-cronicas) plan. When a result needs a closer look, we guide the referral to the right specialist.
+
+## Blood work near you, no appointment
+
+Looking for blood tests near you in Spring Branch? You don't need an appointment: walk in, tell us in Spanish or English what you'd like checked, and the medical team helps you pick the tests that make sense for you. The sample is drawn right here at the clinic, with or without health insurance. The initial consultation is free; lab tests are paid separately. If you'd rather know what each test measures before coming in, our [clinical lab guide](/en/blog/laboratorio-clinico-houston-analisis-sangre) walks you through it.
 
 If you're fasting, stop by 8538 Hammerly Blvd Suite B early so you're not stuck without breakfast all morning.`,
   },
