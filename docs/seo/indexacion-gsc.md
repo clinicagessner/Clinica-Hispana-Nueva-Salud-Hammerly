@@ -13,6 +13,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
+## Tanda 89 — cambios del 2026-11-04 (análisis diario: título/meta de ginecología y urinarias como los anuncios, exámenes de sangre sin cita)  📨 ENVIADA 04/11/2026
+
+- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-04
+- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-04
+- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-04
+- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-04
+- [ ] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-11-04
+- [ ] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04
+
 ## Tanda 79 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
 
 - [x] https://www.clinicahispananhammerly.com/services/sueros-vitaminados  — cambiada 2026-11-02
@@ -29,7 +38,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 85
 
 - [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 608 impr.
-- [ ] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-10-07 · ? · pedida 2026-10-05 · 326 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 206 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 200 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 72 impr.
@@ -69,7 +77,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-dot  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/prueba-tuberculosis  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/salud-hombre  — cambiada 2026-10-30 · desconocida · pedida 2026-10-29 · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/vacunas  — cambiada 2026-10-07 · desconocida · 0 impr.
