@@ -12,6 +12,19 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 94 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos))
+
+- [ ] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
+
 ## Tanda 89 — cambios del 2026-11-04 (análisis diario: título/meta de ginecología y urinarias como los anuncios, exámenes de sangre sin cita)  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
 - [x] https://www.clinicahispananhammerly.com/blog/tos-nocturna-silbido-pecho-ninos-asma  — cambiada 2026-11-04 · post del blog semanal
@@ -39,7 +52,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 91
 
 - [ ] https://www.clinicahispananhammerly.com/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-heces  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · desconocida · 0 impr.
@@ -54,7 +66,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-07 · rastreada 2026-09-25 · indexada · 3 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 3 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 3 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-07 · rastreada 2026-07-31 · indexada · 2 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-09-12 · indexada · 2 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
