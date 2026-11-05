@@ -12,16 +12,16 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 89 — cambios del 2026-11-04 (análisis diario: título/meta de ginecología y urinarias como los anuncios, exámenes de sangre sin cita)  📨 ENVIADA 04/11/2026
+## Tanda 89 — cambios del 2026-11-04 (análisis diario: título/meta de ginecología y urinarias como los anuncios, exámenes de sangre sin cita)  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/blog/tos-nocturna-silbido-pecho-ninos-asma  — cambiada 2026-11-04 · post del blog semanal
-- [ ] https://www.clinicahispananhammerly.com/en/blog/tos-nocturna-silbido-pecho-ninos-asma  — cambiada 2026-11-04 · post del blog semanal
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-04
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-04
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-04
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-04
-- [ ] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-11-04
-- [ ] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/blog/tos-nocturna-silbido-pecho-ninos-asma  — cambiada 2026-11-04 · post del blog semanal
+- [x] https://www.clinicahispananhammerly.com/en/blog/tos-nocturna-silbido-pecho-ninos-asma  — cambiada 2026-11-04 · post del blog semanal
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-11-04
+- [x] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04
 
 ## Tanda 90
 
