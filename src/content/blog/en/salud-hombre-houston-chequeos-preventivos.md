@@ -53,7 +53,7 @@ An [electrocardiogram](/en/services/electrocardiograma) evaluates your heart rhy
 
 ### Chronic condition management
 
-If you already live with diabetes, hypertension or high cholesterol, our [chronic condition management program](/en/services/condiciones-cronicas) gives you consistent follow-up with same-day lab work.
+If you already live with diabetes, hypertension or high cholesterol, our [chronic condition management program](/en/services/condiciones-cronicas) gives you consistent follow-up with on-site lab work.
 
 ## Conditions we treat frequently
 

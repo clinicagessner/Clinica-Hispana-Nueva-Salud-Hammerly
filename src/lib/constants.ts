@@ -452,13 +452,13 @@ Our Hammerly Blvd office sees thyroid patients seven days a week, evenings inclu
     keywords: [
       "alergias houston",
       "tratamiento de alergias houston",
-      "doctor de alergias español houston",
+      "clínica de alergias en español houston",
       "examen de alergias houston",
     ],
     keywordsEn: [
       "allergy treatment houston",
       "allergy testing houston",
-      "allergy doctor houston",
+      "allergy care houston",
       "allergy clinic houston",
     ],
     features: [
@@ -557,13 +557,13 @@ For everything else, bring your current allergy medicine to Hammerly Blvd; we ta
     ],
     features: [
       "Prueba rápida de flu y COVID",
-      "Diagnóstico el mismo día",
+      "Diagnóstico en la consulta",
       "Tratamiento de gripe, tos y bronquitis",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "Rapid flu and COVID testing",
-      "Same-day diagnosis",
+      "Diagnosis during your visit",
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],

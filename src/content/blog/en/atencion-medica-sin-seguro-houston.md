@@ -32,7 +32,7 @@ At a clinic like ours the model is simple: you pay directly for the service you 
 At our clinic, uninsured patients get the same care as anyone else:
 
 - **Family medicine visits** for all ages
-- **[Lab tests](/en/services/examenes-sangre)** with same-day results in most cases
+- **[Lab tests](/en/services/examenes-sangre)** with fast results
 - **Treatment for common illnesses:** flu, infections, [urinary tract infections](/en/services/infecciones-urinarias) and more
 - **[Gynecology](/en/services/ginecologia):** Pap smears, cultures and family planning
 - **Physical exams** for [work, school](/en/services/examen-fisico-escolar) or a [CDL license](/en/services/examen-dot)

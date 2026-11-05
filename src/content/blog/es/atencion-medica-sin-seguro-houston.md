@@ -32,7 +32,7 @@ En una clínica como la nuestra el modelo es simple: pagas directamente el servi
 En nuestra clínica, los pacientes sin seguro acceden a lo mismo que cualquier otro paciente:
 
 - **Consultas de medicina familiar** para todas las edades
-- **[Análisis de laboratorio](/services/examenes-sangre)** con resultados el mismo día en la mayoría de los casos
+- **[Análisis de laboratorio](/services/examenes-sangre)** con resultados rápidos
 - **Tratamiento de enfermedades comunes:** gripe, infecciones, [infecciones urinarias](/services/infecciones-urinarias) y más
 - **[Ginecología](/services/ginecologia):** papanicolaou, cultivos y planificación familiar
 - **Exámenes físicos** para [trabajo, escuela](/services/examen-fisico-escolar) o [licencia CDL](/services/examen-dot)

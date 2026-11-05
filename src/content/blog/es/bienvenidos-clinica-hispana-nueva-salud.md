@@ -29,7 +29,7 @@ Ofrecemos una amplia gama de servicios bajo un mismo techo:
 
 - Medicina familiar para todas las edades
 - Examen médico de inmigración I-693 con médico autorizado por USCIS
-- Laboratorio clínico con resultados el mismo día
+- Laboratorio clínico con resultados rápidos
 - Ultrasonido y electrocardiograma
 - Control de diabetes, hipertensión y colesterol
 - Ginecología y salud de la mujer

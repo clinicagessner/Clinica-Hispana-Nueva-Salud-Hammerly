@@ -54,7 +54,7 @@ El [electrocardiograma](/services/electrocardiograma) evalúa el ritmo del coraz
 
 ### Control de condiciones crónicas
 
-Si ya vives con diabetes, hipertensión o colesterol alto, nuestro programa de [control de condiciones crónicas](/services/condiciones-cronicas) te da seguimiento constante con laboratorio el mismo día.
+Si ya vives con diabetes, hipertensión o colesterol alto, nuestro programa de [control de condiciones crónicas](/services/condiciones-cronicas) te da seguimiento constante con laboratorio en la clínica.
 
 ## Condiciones que tratamos con frecuencia
 

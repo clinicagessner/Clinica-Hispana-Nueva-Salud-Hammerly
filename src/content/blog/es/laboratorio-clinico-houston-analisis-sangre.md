@@ -61,7 +61,7 @@ En [Clínica Hispana Nueva Salud Hammerly](/services/examenes-sangre) tomamos tu
 Depende del panel que necesites. Te informamos el precio exacto **antes** de tomar la muestra, y nuestras promociones suelen incluir paquetes con varios estudios juntos a precio reducido.
 
 **¿En cuánto tiempo están los resultados?**
-La mayoría el mismo día; algunos estudios especializados pueden tardar un poco más. Te avisamos en cuanto estén y los revisamos contigo.
+Salen rápido; algunos estudios especializados pueden tardar un poco más. Te avisamos en cuanto estén y los revisamos contigo.
 
 **¿Necesito orden médica para hacerme análisis?**
 No necesitas traer una orden de otro doctor: nuestro equipo médico evalúa qué estudios te corresponden y los ordena en la misma visita.

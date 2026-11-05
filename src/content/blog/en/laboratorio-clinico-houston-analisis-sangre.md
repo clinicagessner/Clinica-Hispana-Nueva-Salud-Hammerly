@@ -61,7 +61,7 @@ At [Clínica Hispana Nueva Salud Hammerly](/en/services/examenes-sangre) we draw
 It depends on the panel you need. We tell you the exact price **before** drawing the sample, and our promotions often bundle several tests at a reduced price.
 
 **How fast are results?**
-Most come back the same day; some specialized tests can take a bit longer. We let you know as soon as they're ready and review them with you.
+Most come back quickly; some specialized tests can take a bit longer. We let you know as soon as they're ready and review them with you.
 
 **Do I need a doctor's order?**
 You don't need to bring an order from another doctor: our medical team evaluates which tests you need and orders them in the same visit.
