@@ -46,8 +46,8 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Cómo es la atención en Nueva Salud Hammerly?",
-    answer: "Somos una clínica abierta para hispanos y un centro de salud para toda la familia: un doctor hispano puede ser tu médico primario, con atención médica familiar confiable y una consulta médica rápida y eficaz, con el mejor equipo médico en Houston. La consulta médica es gratis en la primera visita; los exámenes y el tratamiento se pagan aparte. Además de la consulta general hay exámenes de sangre, consulta de ginecología, papanicolaou y examen de ETS. Agenda tu visita hoy o ven sin cita.",
+    answer: "Somos una clínica abierta para hispanos y un centro de salud para toda la familia: un doctor hispano puede ser tu médico primario, con atención médica familiar confiable y una consulta médica rápida y eficaz, con nuestro equipo médico en Houston. La consulta médica es gratis en la primera visita; los exámenes y el tratamiento se pagan aparte. Además de la consulta general hay exámenes de sangre, consulta de ginecología, papanicolaou y examen de ETS. Agenda tu visita hoy o ven sin cita.",
     questionEn: "What is care like at Nueva Salud Hammerly?",
-    answerEn: "We are a clinic open to Hispanics and a health center for the whole family: a Hispanic doctor can be your primary care doctor, with reliable family medical care and a quick, effective visit, with the best medical team in Houston. The medical visit is free the first time; tests and treatment are paid separately. Besides general visits there are blood tests, gynecology visits, Pap smears and STD testing. Book your visit today or walk in.",
+    answerEn: "We are a clinic open to Hispanics and a health center for the whole family: a Hispanic doctor can be your primary care doctor, with reliable family medical care and a quick, effective visit, with our medical team in Houston. The medical visit is free the first time; tests and treatment are paid separately. Besides general visits there are blood tests, gynecology visits, Pap smears and STD testing. Book your visit today or walk in.",
   },
 ];

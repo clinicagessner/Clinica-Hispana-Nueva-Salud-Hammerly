@@ -787,7 +787,7 @@ Muchas mujeres aprovechan para hacerse una [prueba de embarazo](/services/prueba
 
 ## Clínica para la mujer en Hammerly Blvd
 
-¿Buscas ginecología cerca de mí? Esta clínica hispana de ginecología funciona también como clínica para la mujer de Spring Branch: la consulta ginecológica, el papanicolaou y los ultrasonidos se resuelven en un mismo lugar. Para la anticoncepción hormonal comparamos contigo pastilla diaria e inyección anticonceptiva; si eliges la inyección, sales con ella puesta. En Hammerly Blvd la atención ginecológica sucede en un espacio cómodo, seguro y confidencial, con el mejor equipo hispano en Houston para tu bienestar. Agenda tu cita hoy.
+¿Buscas ginecología cerca de mí? Esta clínica hispana de ginecología funciona también como clínica para la mujer de Spring Branch: la consulta ginecológica, el papanicolaou y los ultrasonidos se resuelven en un mismo lugar. Para la anticoncepción hormonal comparamos contigo pastilla diaria e inyección anticonceptiva; si eliges la inyección, sales con ella puesta. En Hammerly Blvd la atención ginecológica sucede en un espacio cómodo, seguro y confidencial, con nuestro equipo médico en Houston para tu bienestar. Agenda tu cita hoy.
 
 ¿Te toca tu consulta de ginecología? Llámanos o ven a Hammerly Blvd: te recibimos los siete días de la semana, sin necesidad de seguro.`,
     longDescriptionEn: `Basic gynecology at Clínica Hispana Nueva Salud Hammerly in Spring Branch (Houston) covers the Pap smear, vaginal cultures and the routine women's checkup. It's for you if your regular exam is due, or if you're dealing with discharge, itching or burning that won't go away and would rather talk it through calmly in your own language. The initial consultation is free; tests and treatment are paid separately.
@@ -815,7 +815,7 @@ Many women use the visit to get a [pregnancy test](/en/services/prueba-embarazo)
 
 ## A women's clinic on Hammerly Blvd
 
-Looking for gynecology near you? This Hispanic gynecology clinic is also Spring Branch's women's clinic: the gynecology visit, the Pap smear and ultrasounds are handled in one place. For hormonal birth control we compare the daily pill and the birth control shot with you; if you choose the shot, you leave with it done. On Hammerly Blvd, gynecology care happens in a comfortable, safe and confidential space, with the best Hispanic team in Houston for your well-being. Book your appointment today.
+Looking for gynecology near you? This Hispanic gynecology clinic is also Spring Branch's women's clinic: the gynecology visit, the Pap smear and ultrasounds are handled in one place. For hormonal birth control we compare the daily pill and the birth control shot with you; if you choose the shot, you leave with it done. On Hammerly Blvd, gynecology care happens in a comfortable, safe and confidential space, with our medical team in Houston for your well-being. Book your appointment today.
 
 Ready for your gynecology visit? Call us or stop by Hammerly Blvd. We see patients seven days a week, no insurance required.`,
   },
@@ -1363,7 +1363,7 @@ Fiebre, escalofríos, vómito o dolor en el costado o la espalda baja pueden ind
 
 ## Consulta de urología en español en Hammerly
 
-Somos también tu clínica de urología cerca de ti, con personal que habla español: consulta de urología y examen de urología para problemas urológicos como el ardor al orinar, las infecciones que vuelven o la vejiga hiperactiva, cuyo tratamiento se valora en esta misma consulta con la receta enviada a la farmacia que elijas. Es urología en español, con servicios médicos accesibles: sin seguro, sin problema. En Hammerly la atención urológica se da en un espacio cómodo, seguro y confidencial, y el mejor equipo hispano en Houston está para tu bienestar. Para próstata y PSA, mira [urología y salud del hombre](/services/salud-hombre). Agenda tu cita o llámanos ahora.
+Somos también tu clínica de urología cerca de ti, con personal que habla español: consulta de urología y examen de urología para problemas urológicos como el ardor al orinar, las infecciones que vuelven o la vejiga hiperactiva, cuyo tratamiento se valora en esta misma consulta con la receta enviada a la farmacia que elijas. Es urología en español, con servicios médicos accesibles: sin seguro, sin problema. En Hammerly la atención urológica se da en un espacio cómodo, seguro y confidencial, y nuestro equipo médico en Houston está para tu bienestar. Para próstata y PSA, mira [urología y salud del hombre](/services/salud-hombre). Agenda tu cita o llámanos ahora.
 
 No aguantes otra noche de ardor: llama o pasa directo por 8538 Hammerly Blvd Suite B y te atendemos.`,
     longDescriptionEn: `Burning when you pee? At Clínica Hispana Nueva Salud Hammerly in Spring Branch, we check your urine sample right here and, when the result shows an infection, we e-prescribe that same day to whichever pharmacy you prefer, whether it's near home or on your way to work. We treat urinary tract infections in adult women and men, with no appointment and clear explanations in Spanish or English.
@@ -1391,7 +1391,7 @@ Fever, chills, vomiting or pain in your side or lower back may mean the infectio
 
 ## Urology visits in Spanish on Hammerly
 
-We are also your urology clinic close to home, with staff who speak Spanish: a urology visit and urology exam for urological problems such as burning when you urinate, infections that come back or an overactive bladder, whose treatment is assessed at this same visit with the prescription sent to the pharmacy you choose. It is urology in Spanish, with affordable medical services: no insurance, no problem. Hammerly's urology care takes place in a comfortable, safe and confidential setting, and the best Hispanic team in Houston is here for your well-being. For prostate and PSA, see [urology and men's health](/en/services/salud-hombre). Book your appointment or call us now.
+We are also your urology clinic close to home, with staff who speak Spanish: a urology visit and urology exam for urological problems such as burning when you urinate, infections that come back or an overactive bladder, whose treatment is assessed at this same visit with the prescription sent to the pharmacy you choose. It is urology in Spanish, with affordable medical services: no insurance, no problem. Hammerly's urology care takes place in a comfortable, safe and confidential setting, and our medical team in Houston is here for your well-being. For prostate and PSA, see [urology and men's health](/en/services/salud-hombre). Book your appointment or call us now.
 
 Don't put up with another night of burning: call us or walk in at 8538 Hammerly Blvd Suite B and we'll see you.`,
   },
