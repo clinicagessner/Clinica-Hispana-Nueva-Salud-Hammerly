@@ -22,18 +22,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
 
-## Tanda 99 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026
+## Tanda 99 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-06
-- [ ] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
 
 ## Tanda 100
 
