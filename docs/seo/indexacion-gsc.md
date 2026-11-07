@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-06; URL Inspection API, datos ANTIGUOS del 2026-11-04: antiguos (2026-11-04): --sin-fetch):** 80 de 100 URLs del sitemap indexadas · 20 sin indexar (13 descubierta sin indexar · 5 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-04: antiguos (2026-11-04): --sin-fetch):** 80 de 100 URLs del sitemap indexadas · 20 sin indexar (13 descubierta sin indexar · 5 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 32 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
-## Tanda 94 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos))
+## Tanda 94 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos)) (+ post de salud del hombre es/en, cambiado el 2026-11-05)  📨 ENVIADA 07/11/2026
 
 - [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
@@ -21,19 +21,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
 - [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
-
-## Tanda 99 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
-
-- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-06
-- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-11-05
-- [x] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05
-- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
-- [x] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-10-03 · indexada · 11 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-09-25 · indexada · 3 impr.
 
 ## Tanda 100
 
@@ -42,7 +31,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 142 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 51 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-alcohol-drogas  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 30 impr.
-- [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-10-03 · indexada · 11 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-08-06 · indexada · pedida 2026-10-05 · 11 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/salud-hombre  — cambiada 2026-10-30 · rastreada 2026-10-01 · indexada · pedida 2026-10-29 · 8 impr.
 - [ ] https://www.clinicahispananhammerly.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-08-24 · indexada · 2 impr.
@@ -59,7 +47,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 5 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-07 · rastreada 2026-07-15 · indexada · 4 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-07 · rastreada 2026-10-06 · indexada · 4 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-09-25 · indexada · 3 impr.
 
 ## Tanda 102
 
@@ -218,3 +205,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-04
 - [x] https://www.clinicahispananhammerly.com/services/examenes-sangre  — cambiada 2026-11-04
 - [x] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04
+
+## Tanda 99 — cambios del 2026-11-06 (sin superlativos: nuestro equipo médico / precios accesibles (Randy))  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
+
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-06
+- [x] https://www.clinicahispananhammerly.com/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/services/enfermedades-respiratorias  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-05
