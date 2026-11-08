@@ -13,16 +13,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
-## Tanda 94 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos)) (+ post de salud del hombre es/en, cambiado el 2026-11-05)  📨 ENVIADA 07/11/2026
+## Tanda 94 — cambios del 2026-11-05 (§9: médico nombrado, plazos de resultados y «doctor de alergias» (errores viejos)) (+ post de salud del hombre es/en, cambiado el 2026-11-05)  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
-- [ ] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-10-03 · indexada · 11 impr.
-- [ ] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-09-25 · indexada · 3 impr.
+- [x] https://www.clinicahispananhammerly.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-05
+- [x] https://www.clinicahispananhammerly.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-10-03 · indexada · 11 impr.
+- [x] https://www.clinicahispananhammerly.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-05 · rastreada 2026-09-25 · indexada · 3 impr.
 
 ## Tanda 100
 
