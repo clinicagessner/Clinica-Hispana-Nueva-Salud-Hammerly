@@ -13,6 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
+## Tanda 109 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicahispananhammerly.com/es  — cambiada 2026-11-14
+
 ## Tanda 105
 
 - [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 726 impr.
