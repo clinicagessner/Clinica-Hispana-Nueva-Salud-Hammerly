@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
-## Tanda 109 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+## Tanda 109 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Tanda 110
 
