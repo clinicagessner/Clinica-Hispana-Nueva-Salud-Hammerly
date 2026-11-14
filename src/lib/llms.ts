@@ -98,6 +98,7 @@ function contactBlock(locale: Locale, r: GooglePlaceData): string[] {
     `- ${t.languages}`,
     `- Facebook: [${SOCIAL_LINKS.facebook.replace("https://www.", "")}](${SOCIAL_LINKS.facebook})`,
     `- Instagram: [${SOCIAL_LINKS.instagram.replace("https://www.", "")}](${SOCIAL_LINKS.instagram})`,
+    `- YouTube: [${SOCIAL_LINKS.youtube.replace("https://www.", "")}](${SOCIAL_LINKS.youtube})`,
     "",
     ...t.facts(r).map((f) => `- ${f}`),
     "",

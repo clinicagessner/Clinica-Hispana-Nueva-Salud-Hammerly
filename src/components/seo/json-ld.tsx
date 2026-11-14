@@ -37,6 +37,7 @@ export const CLINIC_ID = `${SITE_CONFIG.baseUrl}/#clinic`;
 const SAME_AS = [
   SOCIAL_LINKS.facebook,
   SOCIAL_LINKS.instagram,
+  SOCIAL_LINKS.youtube,
   "https://www.facebook.com/630614486793803",
 ];
 

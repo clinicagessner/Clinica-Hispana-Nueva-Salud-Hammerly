@@ -82,6 +82,7 @@ export const OPENING_HOURS = [
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/ClinicaHispanaNuevaSaludHammerly",
   instagram: "https://www.instagram.com/clinicahispanahammerly",
+  youtube: "https://www.youtube.com/@NuevaSaludHammerly",
 } as const;
 
 // Fallback de build para rating/reseñas (valores reales del listado de Google
