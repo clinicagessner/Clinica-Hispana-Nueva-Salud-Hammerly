@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 85 de 102 URLs del sitemap indexadas · 17 sin indexar (12 desconocida · 5 descubierta sin indexar).
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 85 de 102 URLs del sitemap indexadas · 17 sin indexar (12 desconocida · 5 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
 ## Tanda 110
@@ -55,6 +55,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 113
 
 - [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispananhammerly.com/en/services/examenes-sangre  — cambiada 2026-11-04 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 
 ## Historial (tandas pedidas)
 
