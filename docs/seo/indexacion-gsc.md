@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
+## Tanda 114 — cambios del 2026-11-18 (post del blog semanal)  📨 ENVIADA 18/11/2026
+
+- [ ] https://www.clinicahispananhammerly.com/blog/menopausia-bochornos-sueno-chequeos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispananhammerly.com/en/blog/menopausia-bochornos-sueno-chequeos  — cambiada 2026-11-18
+
 ## Tanda 110
 
 - [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 810 impr.
