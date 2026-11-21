@@ -12,18 +12,24 @@ Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmai
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 124 — cambios del 2026-11-21 (análisis diario: frases de anuncios y títulos de posts) 📨 ENVIADA 21/11/2026
+## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)
 
-- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
-- [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
+- [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
+- [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
+- [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
+
+## Tanda 124 — cambios del 2026-11-21 (análisis diario: frases de anuncios y títulos de posts) 📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
+
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
 
 ## Tanda 125
 
