@@ -1,6 +1,6 @@
 ---
 title: "Ultrasound myths: is it safe, does it hurt, how often?"
-metaTitle: "Ultrasound Myths and Facts: Safety, Pain and Repeats"
+metaTitle: "Does Ultrasound Use Radiation or Harm the Baby? Myths"
 description: "Does ultrasound use radiation, hurt or harm a baby? Eight common myths, what the evidence says and what a scan can't show. Spring Branch, Houston 77055."
 date: "2026-10-21"
 updated: "2026-10-21"

@@ -1,6 +1,6 @@
 ---
 title: "Mitos del ultrasonido: ¿es seguro, duele, cuántas veces?"
-metaTitle: "Mitos y verdades del ultrasonido: seguridad y dolor"
+metaTitle: "¿El ultrasonido tiene radiación o daña al bebé? Mitos"
 description: "¿El ultrasonido tiene radiación, duele o daña al bebé? Ocho mitos frecuentes, lo que dice la evidencia y lo que el estudio no ve. Spring Branch, 77055."
 date: "2026-10-21"
 updated: "2026-10-21"

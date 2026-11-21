@@ -1,6 +1,7 @@
 ---
 title: "Arándano, agua y remedios caseros en la infección urinaria"
-description: "El jugo de arándano y tomar agua pueden ayudar a prevenir, pero no curan una infección de orina ya instalada. Qué sirve, qué no y cuándo venir a consulta."
+metaTitle: "Jugo de arándano para la infección urinaria: ¿sirve?"
+description: "¿Cómo tomar jugo de arándano para la infección urinaria? Puede ayudar a prevenir, pero no cura una infección ya instalada. Qué sirve, qué no y cuándo venir."
 date: "2026-10-14"
 updated: "2026-10-15"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"

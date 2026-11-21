@@ -1,5 +1,6 @@
 ---
 title: "Cranberry, water and home remedies for a UTI"
+metaTitle: "Cranberry Juice for a UTI: Does It Actually Help?"
 description: "Cranberry and water may help prevent a urinary infection, but they won't clear one that has already set in. What helps, what doesn't and when to come in."
 date: "2026-10-14"
 updated: "2026-10-15"
