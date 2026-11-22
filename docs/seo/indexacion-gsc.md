@@ -6,32 +6,20 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-21; URL Inspection API, datos de hoy 2026-11-21):** 87 de 104 URLs del sitemap indexadas · 17 sin indexar (10 descubierta sin indexar · 7 desconocida).
+**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-21: antiguos (2026-11-21): --sin-fetch):** 87 de 104 URLs del sitemap indexadas · 17 sin indexar (10 descubierta sin indexar · 7 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 28 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-05).
 <!-- /tandas:auto -->
 
-## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)
+## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)  📨 ENVIADA 22/11/2026
 
 - [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
 - [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
 - [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
 
-## Tanda 124 — cambios del 2026-11-21 (análisis diario: frases de anuncios y títulos de posts) 📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
-
-- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
-- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
-
-## Tanda 125
+## Tanda 129
 
 - [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 458 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 248 impr.
@@ -44,7 +32,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 
-## Tanda 126
+## Tanda 130
 
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 6 impr.
@@ -57,7 +45,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/services/cirugias-menores  — cambiada 2026-10-07 · rastreada 2026-08-19 · indexada · 1 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 
-## Tanda 127
+## Tanda 131
 
 - [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
@@ -251,3 +239,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 119 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)  ✅ PEDIDA 20/11/2026
 
 - [x] https://www.clinicahispananhammerly.com/en/blog/menopausia-bochornos-sueno-chequeos  — cambiada 2026-11-21
+
+## Tanda 124 — cambios del 2026-11-21 (análisis diario: frases de anuncios y títulos de posts) 📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
+
+- [x] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/services/ginecologia  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/services/ginecologia  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/services/infecciones-urinarias  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/services/infecciones-urinarias  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
+- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
