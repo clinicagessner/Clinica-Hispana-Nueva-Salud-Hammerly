@@ -13,11 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-05).
 <!-- /tandas:auto -->
 
-## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)  📨 ENVIADA 24/11/2026
+## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
-- [ ] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
+- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
+- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
+- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
 
 ## Tanda 129
 
