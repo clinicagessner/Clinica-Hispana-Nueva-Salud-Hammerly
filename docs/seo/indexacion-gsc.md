@@ -6,18 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 82 de 104 URLs del sitemap indexadas · 22 sin indexar (9 desconocida · 8 descubierta sin indexar · 5 rastreada sin indexar).
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 82 de 104 URLs del sitemap indexadas · 22 sin indexar (9 desconocida · 8 descubierta sin indexar · 5 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 28 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-05).
 <!-- /tandas:auto -->
-
-## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-
-- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
-- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
-- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
 
 ## Tanda 129
 
@@ -258,3 +252,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-21
 - [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
 - [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-21
+
+## Tanda 128 — cambios del 2026-11-22 (error de GSC el 21/11, repetir)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinicahispananhammerly.com/en/blog/mitos-verdades-ultrasonido-seguro-duele  — cambiada 2026-11-22
+- [x] https://www.clinicahispananhammerly.com/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
+- [x] https://www.clinicahispananhammerly.com/en/blog/arandano-agua-remedios-caseros-infeccion-urinaria  — cambiada 2026-11-22
