@@ -6,7 +6,7 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispananhammerly.com/`, cuenta **clinicahns4@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 82 de 106 URLs del sitemap indexadas · 24 sin indexar (9 desconocida · 8 descubierta sin indexar · 5 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 82 de 106 URLs del sitemap indexadas · 24 sin indexar (9 desconocida · 8 descubierta sin indexar · 5 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 28 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
@@ -18,7 +18,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
 - [ ] https://www.clinicahispananhammerly.com/en/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
 
-## Tanda 134
+## Tanda 138 — cambios del 2026-11-26 (TikTok y Yelp en el pie)
+
+- [ ] https://www.clinicahispananhammerly.com/  — cambiada 2026-11-26
+- [ ] https://www.clinicahispananhammerly.com/en  — cambiada 2026-11-26
+
+## Tanda 139
 
 - [ ] https://www.clinicahispananhammerly.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-07 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 922 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/examen-dot  — cambiada 2026-10-07 · rastreada 2026-10-04 · indexada · 359 impr.
@@ -31,7 +36,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/services/examen-heces  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/services/prueba-embarazo  — cambiada 2026-10-07 · desconocida · 0 impr.
 
-## Tanda 135
+## Tanda 140
 
 - [ ] https://www.clinicahispananhammerly.com/services/suturas-heridas  — cambiada 2026-10-07 · desconocida · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/walk-in  — cambiada 2026-10-07 · rastreada 2026-09-17 · indexada · 48 impr.
@@ -44,7 +49,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/services/extraccion-implantes  — cambiada 2026-10-07 · rastreada 2026-09-20 · indexada · 6 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog  — cambiada 2026-10-07 · desconocida · 0 impr.
 
-## Tanda 136
+## Tanda 141
 
 - [ ] https://www.clinicahispananhammerly.com/en/blog/adultos-mayores-gripe-senales-familia  — cambiada 2026-10-07 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-07 · desconocida · 0 impr.
@@ -57,7 +62,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispananhammerly.com/en/services/alergias  — cambiada 2026-11-05 · rastreada 2026-07-15 · rastreada sin indexar · pedida 2026-11-06 · 9 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/tiroides  — cambiada 2026-10-15 · rastreada 2026-07-15 · rastreada sin indexar · pedida 2026-10-21 · 3 impr.
 
-## Tanda 137
+## Tanda 142
 
 - [ ] https://www.clinicahispananhammerly.com/en/services/condiciones-cronicas  — cambiada 2026-10-15 · rastreada 2026-07-15 · rastreada sin indexar · pedida 2026-10-16 · 1 impr.
 - [ ] https://www.clinicahispananhammerly.com/en/services/anticonceptivos  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-21 · 0 impr.
