@@ -87,6 +87,7 @@ export const SOCIAL_LINKS = {
   yelp: "https://www.yelp.com/biz/clinica-hispana-nueva-salud-hammerly-houston",
   x: "https://x.com/NSHammerly",
   pinterest: "https://www.pinterest.com/clinicahispanahammerly/",
+  nextdoor: "https://nextdoor.com/page/clinica-hispana-nueva-salud-hammerly-houston-tx/",
 } as const;
 
 // Fallback de build para rating/reseñas (valores reales del listado de Google

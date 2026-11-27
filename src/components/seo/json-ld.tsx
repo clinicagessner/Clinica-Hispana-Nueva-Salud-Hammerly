@@ -42,6 +42,7 @@ const SAME_AS = [
   SOCIAL_LINKS.yelp,
   SOCIAL_LINKS.x,
   SOCIAL_LINKS.pinterest,
+  SOCIAL_LINKS.nextdoor,
   "https://www.facebook.com/630614486793803",
 ];
 
