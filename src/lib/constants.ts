@@ -83,6 +83,8 @@ export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/ClinicaHispanaNuevaSaludHammerly",
   instagram: "https://www.instagram.com/clinicahispanahammerly",
   youtube: "https://www.youtube.com/@NuevaSaludHammerly",
+  tiktok: "https://www.tiktok.com/@clinichispananuevasalud",
+  yelp: "https://www.yelp.com/biz/clinica-hispana-nueva-salud-hammerly-houston",
 } as const;
 
 // Fallback de build para rating/reseñas (valores reales del listado de Google

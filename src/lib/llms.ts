@@ -99,6 +99,8 @@ function contactBlock(locale: Locale, r: GooglePlaceData): string[] {
     `- Facebook: [${SOCIAL_LINKS.facebook.replace("https://www.", "")}](${SOCIAL_LINKS.facebook})`,
     `- Instagram: [${SOCIAL_LINKS.instagram.replace("https://www.", "")}](${SOCIAL_LINKS.instagram})`,
     `- YouTube: [${SOCIAL_LINKS.youtube.replace("https://www.", "")}](${SOCIAL_LINKS.youtube})`,
+    `- TikTok: [${SOCIAL_LINKS.tiktok.replace("https://www.", "")}](${SOCIAL_LINKS.tiktok})`,
+    `- Yelp: [${SOCIAL_LINKS.yelp.replace("https://www.", "")}](${SOCIAL_LINKS.yelp})`,
     "",
     ...t.facts(r).map((f) => `- ${f}`),
     "",

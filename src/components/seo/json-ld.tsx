@@ -38,6 +38,8 @@ const SAME_AS = [
   SOCIAL_LINKS.facebook,
   SOCIAL_LINKS.instagram,
   SOCIAL_LINKS.youtube,
+  SOCIAL_LINKS.tiktok,
+  SOCIAL_LINKS.yelp,
   "https://www.facebook.com/630614486793803",
 ];
 
