@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-05).
 <!-- /tandas:auto -->
 
-## Tanda 133 — cambios del 2026-11-25 (post del blog semanal)  📨 ENVIADA 26/11/2026
+## Tanda 133 — cambios del 2026-11-25 (post del blog semanal)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.clinicahispananhammerly.com/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
-- [ ] https://www.clinicahispananhammerly.com/en/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
+- [x] https://www.clinicahispananhammerly.com/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
+- [x] https://www.clinicahispananhammerly.com/en/blog/levantarse-orinar-noche-despues-50  — cambiada 2026-11-25
 
 ## Tanda 138 — cambios del 2026-11-26 (TikTok y Yelp en el pie)
 
