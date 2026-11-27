@@ -101,6 +101,7 @@ function contactBlock(locale: Locale, r: GooglePlaceData): string[] {
     `- YouTube: [${SOCIAL_LINKS.youtube.replace("https://www.", "")}](${SOCIAL_LINKS.youtube})`,
     `- TikTok: [${SOCIAL_LINKS.tiktok.replace("https://www.", "")}](${SOCIAL_LINKS.tiktok})`,
     `- Yelp: [${SOCIAL_LINKS.yelp.replace("https://www.", "")}](${SOCIAL_LINKS.yelp})`,
+    `- X: [${SOCIAL_LINKS.x.replace("https://", "")}](${SOCIAL_LINKS.x})`,
     "",
     ...t.facts(r).map((f) => `- ${f}`),
     "",
