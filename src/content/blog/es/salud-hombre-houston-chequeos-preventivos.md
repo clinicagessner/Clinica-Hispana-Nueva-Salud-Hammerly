@@ -60,7 +60,7 @@ Si ya vives con diabetes, hipertensión o colesterol alto, nuestro programa de [
 
 - **Presión arterial alta:** el "asesino silencioso"; no da síntomas pero daña corazón, cerebro y riñones
 - **Diabetes tipo 2:** muy común en la comunidad hispana; detectada a tiempo se controla con plan y seguimiento
-- **Infecciones urinarias y de próstata:** ardor al orinar, urgencia frecuente o dolor pélvico tienen [tratamiento el mismo día](/services/infecciones-urinarias)
+- **Infecciones urinarias y de próstata:** ardor al orinar, urgencia frecuente o dolor pélvico tienen [tratamiento rápido](/services/infecciones-urinarias)
 - **Infecciones de transmisión sexual:** ofrecemos [pruebas confidenciales de ETS](/services/enfermedades-transmision-sexual) con resultados explicados en privado y sin juicios
 
 ## Exámenes recomendados por edad

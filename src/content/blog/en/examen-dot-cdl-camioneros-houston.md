@@ -1,6 +1,6 @@
 ---
 title: "DOT exam for CDL truck drivers in Houston"
-description: "Everything about the DOT physical exam for your CDL license in Houston: what it includes, what to bring and how to get your certificate the same day."
+description: "Everything about the DOT physical exam for your CDL license in Houston: what it includes, what to bring and how to get your certificate."
 date: "2026-02-22"
 updated: "2026-10-02"
 author: "Clínica Hispana Nueva Salud Hammerly Team"
@@ -17,7 +17,7 @@ services:
   - "examen-fisico-escolar"
 ---
 
-If you drive trucks or other commercial vehicles, the DOT physical is a requirement you can't skip: no valid medical certificate, no CDL. Here's what it evaluates, what to bring and how to leave the same day with your certificate.
+If you drive trucks or other commercial vehicles, the DOT physical is a requirement you can't skip: no valid medical certificate, no CDL. Here's what it evaluates, what to bring and how to leave with your certificate.
 
 ## What is the DOT exam?
 
@@ -56,7 +56,7 @@ The DOT medical certificate lasts **up to 24 months**. If you have a condition t
 
 ## Your DOT exam in Houston, in Spanish
 
-At [Clínica Hispana Nueva Salud Hammerly](/en/services/examen-dot) we perform your DOT physical **in Spanish**, [no appointment needed](/en/walk-in), with an on-site lab. In most cases you leave the **same day with your certificate** ready to process or renew your CDL. We also do [drug and alcohol testing](/en/services/examen-alcohol-drogas) if your company requires it separately.
+At [Clínica Hispana Nueva Salud Hammerly](/en/services/examen-dot) we perform your DOT physical **in Spanish**, [no appointment needed](/en/walk-in), with an on-site lab. If nothing is left pending, you leave **with your certificate** ready to process or renew your CDL. We also do [drug and alcohol testing](/en/services/examen-alcohol-drogas) if your company requires it separately.
 
 Visit us Monday to Saturday from **9 AM to 9 PM** and Sunday from **9 AM to 5 PM** at 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — minutes from I-10 — or call **(832) 280-9555**.
 

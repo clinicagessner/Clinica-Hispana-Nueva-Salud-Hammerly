@@ -25,7 +25,7 @@ Many Hispanic families put off a visit for fear of an unpayable bill, and end up
 
 ## How paying without insurance works
 
-At a clinic like ours the model is simple: you pay directly for the service you need, at a fixed price we tell you upfront. No deductibles, no confusing copays, no authorizations. For many routine services, the direct price is lower than people imagine — check our [current promotions](/en/promociones), which often include discounted checkups and lab packages.
+At a clinic like ours the model is simple: you pay directly for the service you need, at a price we tell you upfront. No deductibles, no confusing copays, no authorizations. For many routine services, the direct price is lower than people imagine — check our [current promotions](/en/promociones), which often include discounted checkups and lab packages.
 
 ## What you can get without insurance
 
@@ -44,7 +44,7 @@ At our clinic, uninsured patients get the same care as anyone else:
 1. **Don't wait until it's serious.** Treating a problem early almost always costs less — in money and in health. A urinary infection caught early is one visit; ignored, it can become a kidney problem.
 2. **Ask the price upfront.** A serious clinic tells you clearly before treating you. If they won't, be wary.
 3. **Use the on-site lab.** You avoid paying a third party and making extra trips, and results come back faster.
-4. **Get a preventive checkup once a year.** Catching high blood pressure, blood sugar or cholesterol early is the cheapest way to protect yourself long-term.
+4. **Get a preventive checkup once a year.** Catching high blood pressure, blood sugar or cholesterol early is the simplest way to protect yourself long-term.
 5. **Compare with the ER.** For issues that aren't a true emergency, a walk-in clinic solves the same thing for a fraction of the cost.
 
 ## What if I need something the clinic doesn't do?

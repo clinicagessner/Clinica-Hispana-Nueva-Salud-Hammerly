@@ -75,7 +75,7 @@ If your grandparent already has their [diabetes, blood pressure or cholesterol c
 
 With older adults, "let's see if it passes" isn't a good plan. Flu has antiviral medicines that work best when started within the first two days of symptoms, and people 65 and older are exactly the group where the medical team weighs that option most carefully.
 
-Our team swabs the nose for [flu and COVID rapid testing](/en/services/enfermedades-respiratorias), and you'll hear which virus showed up within minutes, before your grandparent leaves the exam room. The team also checks temperature and vital signs and listens to the lungs to see whether something more than a virus is going on. Knowing which virus it is helps decide on treatment and protect everyone else in the house.
+Our team swabs the nose for [flu and COVID rapid testing](/en/services/enfermedades-respiratorias), and you'll quickly hear which virus showed up, before your grandparent leaves the exam room. The team also checks temperature and vital signs and listens to the lungs to see whether something more than a virus is going on. Knowing which virus it is helps decide on treatment and protect everyone else in the house.
 
 To make the trip easier on your grandparent:
 

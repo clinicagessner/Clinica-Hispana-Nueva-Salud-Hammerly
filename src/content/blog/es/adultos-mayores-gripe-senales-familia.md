@@ -75,7 +75,7 @@ Si el abuelo ya lleva su control de [diabetes, presión o colesterol](/services/
 
 En los adultos mayores no conviene esperar a ver si se le pasa. Para la influenza existen antivirales que funcionan mejor cuando se empiezan en los primeros dos días de síntomas, y las personas de 65 años o más son justamente uno de los grupos donde el equipo médico valora más esa opción.
 
-En la clínica hacemos [pruebas rápidas de flu y COVID](/services/enfermedades-respiratorias) con un hisopo en la nariz; el resultado está en unos minutos. Además, el equipo toma la temperatura y los signos vitales y escucha los pulmones para ver si hay algo más que un virus. Saber qué virus es ayuda a decidir el tratamiento y a proteger al resto de la casa.
+En la clínica hacemos [pruebas rápidas de flu y COVID](/services/enfermedades-respiratorias) con un hisopo en la nariz; el resultado sale rápido. Además, el equipo toma la temperatura y los signos vitales y escucha los pulmones para ver si hay algo más que un virus. Saber qué virus es ayuda a decidir el tratamiento y a proteger al resto de la casa.
 
 Para que la visita sea más fácil para el abuelo:
 

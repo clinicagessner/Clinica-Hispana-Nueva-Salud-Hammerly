@@ -21,7 +21,7 @@ A blood test can say a lot about your health, even before any symptom appears. D
 
 ## Why get blood tests?
 
-- **Catch problems early**, while they're still easy and inexpensive to treat
+- **Catch problems early**, while they're still easy to treat
 - **Monitor a chronic condition** like [diabetes, high blood pressure or cholesterol](/en/services/condiciones-cronicas)
 - **Meet a requirement:** [immigration exam](/en/services/examenes-inmigracion), work or school
 - **Explain vague symptoms:** constant tiredness, hair loss, weight changes — the answer is often in your blood

@@ -1138,7 +1138,7 @@ For the removal, come to Hammerly Blvd in a short-sleeved top; no appointment ne
       "Nivel de testosterona",
       "Chequeo general del hombre",
       "Molestias al orinar y de la próstata",
-      "Referencia al urólogo si un resultado lo requiere",
+      "Referencia al especialista cuando el resultado lo requiere",
       "Resultados explicados en español",
     ],
     featuresEn: [
@@ -1146,7 +1146,7 @@ For the removal, come to Hammerly Blvd in a short-sleeved top; no appointment ne
       "Testosterone level",
       "General men's checkup",
       "Urinary and prostate complaints",
-      "Referral to a urologist if a result calls for it",
+      "Specialist referral when results call for it",
       "Results explained in Spanish",
     ],
     longDescription: `La consulta de urología básica y salud del hombre en Clínica Hispana Nueva Salud Hammerly, en Spring Branch, reúne el análisis de antígeno prostático (PSA), la revisión de tus signos vitales y otros estudios según tu edad y tus molestias. Es para hombres de Houston que llevan años sin revisarse o que notan cambios al orinar.
@@ -1157,7 +1157,7 @@ El PSA es una proteína que fabrica la próstata y que se mide en una muestra de
 
 ## ¿Qué molestias urológicas puedes consultar aquí?
 
-Muchos hombres esperan meses antes de contar que algo cambió al orinar. En esta consulta puedes hablar de un chorro más flojo que antes, de la sensación de no vaciar del todo, de las ganas urgentes que no dan tiempo, de levantarte varias veces cada noche o de un dolor en los testículos. El equipo médico te pregunta desde cuándo pasa, revisa tus medicamentos y pide lo que ayuda a ubicar el origen: examen de orina, PSA, glucosa o función de los riñones, todo en el laboratorio de la clínica. Con esos datos se decide si basta con tratamiento y control aquí o si conviene la referencia al urólogo, que se orienta desde la misma visita. La sangre en la orina, la fiebre con dolor al orinar o no poder orinar en absoluto no deben esperar: ven hoy mismo.
+Muchos hombres esperan meses antes de contar que algo cambió al orinar. En esta consulta puedes hablar de un chorro más flojo que antes, de la sensación de no vaciar del todo, de las ganas urgentes que no dan tiempo, de levantarte varias veces cada noche o de un dolor en los testículos. El equipo médico te pregunta desde cuándo pasa, revisa tus medicamentos y pide lo que ayuda a ubicar el origen: examen de orina, PSA, glucosa o función de los riñones, todo en el laboratorio de la clínica. Con esos datos se decide si basta con tratamiento y control aquí o si conviene la referencia al especialista cuando el resultado lo requiere. La sangre en la orina, la fiebre con dolor al orinar o no poder orinar en absoluto no deben esperar: ven hoy mismo.
 
 ## ¿Cómo te preparas para la muestra?
 
@@ -1185,7 +1185,7 @@ The prostate releases a protein called PSA into the bloodstream, and a single bl
 
 ## Which urinary complaints can you bring to this visit?
 
-Plenty of men wait months before mentioning that something changed in the bathroom. Here you can talk about a stream that's weaker than it used to be, the feeling that your bladder never fully empties, sudden urges that leave no time, waking up several times each night or pain in the testicles. The medical team asks how long it's been happening, reviews your medications and orders whatever helps locate the cause: a urinalysis, PSA, glucose or kidney function, all in the clinic's lab. With those results, the team decides whether treatment and follow-up here are enough or whether a urologist referral makes sense, and that referral is arranged from the same visit. Blood in your urine, fever with painful urination or being unable to urinate at all can't wait: come in today.
+Plenty of men wait months before mentioning that something changed in the bathroom. Here you can talk about a stream that's weaker than it used to be, the feeling that your bladder never fully empties, sudden urges that leave no time, waking up several times each night or pain in the testicles. The medical team asks how long it's been happening, reviews your medications and orders whatever helps locate the cause: a urinalysis, PSA, glucose or kidney function, all in the clinic's lab. With those results, the team decides whether treatment and follow-up here are enough or whether a specialist referral makes sense when results call for it. Blood in your urine, fever with painful urination or being unable to urinate at all can't wait: come in today.
 
 ## How should you prepare for the sample?
 
@@ -1311,13 +1311,13 @@ If you're fasting, stop by 8538 Hammerly Blvd Suite B early so you're not stuck 
     metaTitle: "Urología e Infecciones Urinarias en Houston",
     metaTitleEn: "Urology & Urinary Infections in Houston",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Examen de orina y tratamiento de infecciones urinarias, rápido y en español.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "Urinalysis and fast urinary infection treatment, in Spanish.",
     description:
-      "Consulta de urología en español en Houston: examen de orina, infecciones urinarias y vejiga hiperactiva. Receta el mismo día a tu farmacia.",
+      "Consulta de urología en español en Houston: examen de orina, infecciones urinarias y vejiga hiperactiva. Receta electrónica a tu farmacia.",
     descriptionEn:
-      "Urology visits in Spanish in Houston: urinalysis, urinary infections and overactive bladder. Same-day prescription sent to your pharmacy.",
+      "Urology visits in Spanish in Houston: urinalysis, urinary infections and overactive bladder. E-prescription sent to your pharmacy.",
     keywords: [
       "infecciones urinarias houston",
       "examen de orina houston",
@@ -1333,18 +1333,18 @@ If you're fasting, stop by 8538 Hammerly Blvd Suite B early so you're not stuck 
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento el mismo día",
+      "Tratamiento rápido",
       "Atención sin cita en español",
       "Consulta de urología en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Same-day treatment",
+      "Fast treatment",
       "Walk-in care in Spanish",
       "Urology visits in Spanish",
     ],
-    longDescription: `¿Te arde al orinar? En Clínica Hispana Nueva Salud Hammerly, en Spring Branch, analizamos tu muestra de orina aquí mismo y, cuando el resultado muestra infección, mandamos la receta electrónica ese mismo día a la farmacia que prefieras, sea una de tu barrio o una que te quede de camino al trabajo. Atendemos infecciones urinarias en mujeres y hombres adultos, sin cita previa y con explicaciones claras en español.
+    longDescription: `¿Te arde al orinar? En Clínica Hispana Nueva Salud Hammerly, en Spring Branch, analizamos tu muestra de orina aquí mismo y, cuando el resultado muestra infección, mandamos la receta electrónica a la farmacia que prefieras, sea una de tu barrio o una que te quede de camino al trabajo. Atendemos infecciones urinarias en mujeres y hombres adultos, sin cita previa y con explicaciones claras en español.
 
 ## ¿Qué molestias apuntan a una infección urinaria?
 
@@ -1372,7 +1372,7 @@ Fiebre, escalofríos, vómito o dolor en el costado o la espalda baja pueden ind
 Somos también tu clínica de urología cerca de ti, con personal que habla español: consulta de urología y examen de urología para problemas urológicos como el ardor al orinar, las infecciones que vuelven o la vejiga hiperactiva, cuyo tratamiento se valora en esta misma consulta con la receta enviada a la farmacia que elijas. Es urología en español, con servicios médicos accesibles: sin seguro, sin problema. En Hammerly la atención urológica se da en un espacio cómodo, seguro y confidencial, y nuestro equipo hispano en Houston está para tu bienestar. Para próstata y PSA, mira [urología y salud del hombre](/services/salud-hombre). Agenda tu cita o llámanos ahora.
 
 No aguantes otra noche de ardor: llama o pasa directo por 8538 Hammerly Blvd Suite B y te atendemos.`,
-    longDescriptionEn: `Burning when you pee? At Clínica Hispana Nueva Salud Hammerly in Spring Branch, we check your urine sample right here and, when the result shows an infection, we e-prescribe that same day to whichever pharmacy you prefer, whether it's near home or on your way to work. We treat urinary tract infections in adult women and men, with no appointment and clear explanations in Spanish or English.
+    longDescriptionEn: `Burning when you pee? At Clínica Hispana Nueva Salud Hammerly in Spring Branch, we check your urine sample right here and, when the result shows an infection, we e-prescribe to whichever pharmacy you prefer, whether it's near home or on your way to work. We treat urinary tract infections in adult women and men, with no appointment and clear explanations in Spanish or English.
 
 ## Which symptoms point to a urinary infection?
 
@@ -1501,9 +1501,9 @@ You can drop off the container on Hammerly Blvd any day of the week, Sunday afte
     title: "Prueba de Estreptococo (Strep Test)",
     titleEn: "Strep Test",
     shortDescription:
-      "Prueba rápida de estreptococo (strep) para el dolor de garganta, con resultado el mismo día.",
+      "Prueba rápida de estreptococo (strep) para el dolor de garganta, con resultado rápido.",
     shortDescriptionEn:
-      "Rapid strep test for sore throat, with same-day result.",
+      "Rapid strep test for sore throat, with a fast result.",
     description:
       "Prueba de estreptococo (strep test) en Houston, TX. Resultado rápido y tratamiento en español, con precios accesibles.",
     descriptionEn:
@@ -1522,13 +1522,13 @@ You can drop off the container on Hammerly Blvd any day of the week, Sunday afte
     ],
     features: [
       "Prueba rápida de estreptococo",
-      "Resultado el mismo día",
+      "Resultado rápido",
       "Tratamiento si es positivo",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "Rapid strep test",
-      "Same-day result",
+      "Fast result",
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
@@ -1914,7 +1914,7 @@ Te acuestas boca arriba y el personal coloca unos parches adhesivos en el pecho,
 
 ## ¿Quién lo revisa y qué sigue?
 
-El equipo médico de la clínica revisa el trazo junto con tu presión, tus síntomas y tus antecedentes. Si todo está en orden, queda en tu expediente para comparar en el futuro. Si aparece algo que necesita más estudio, se orienta la referencia al especialista del corazón. Cuando tienes presión alta o colesterol elevado, el resultado se integra a tu control de [condiciones crónicas](/services/condiciones-cronicas).
+El equipo médico de la clínica revisa el trazo junto con tu presión, tus síntomas y tus antecedentes. Si todo está en orden, queda en tu expediente para comparar en el futuro. Si aparece algo que necesita más estudio, se orienta la referencia al especialista cuando el resultado lo requiere. Cuando tienes presión alta o colesterol elevado, el resultado se integra a tu control de [condiciones crónicas](/services/condiciones-cronicas).
 
 Si sientes un dolor de pecho fuerte, falta de aire o desmayo en este momento, no vengas manejando: llama al 911. Para un EKG de control, te esperamos en Hammerly Blvd.`,
     longDescriptionEn: `The electrocardiogram (EKG) at Clínica Hispana Nueva Salud Hammerly records your heart's electrical activity through small patches stuck to your skin. We perform it in Spring Branch, Houston, for adults with palpitations or high blood pressure, for people who need it before surgery and for workers whose medical exam requires one.
@@ -1937,7 +1937,7 @@ You lie on your back while our staff places sticky patches on your chest, wrists
 
 ## Who reviews it, and what's next?
 
-The clinic's medical team reads the tracing along with your blood pressure, symptoms and history. If everything looks fine, it stays in your chart for comparison later on. Should the tracing raise a question, we help arrange a referral to a heart specialist. When you have high blood pressure or high cholesterol, the result becomes part of your [chronic conditions](/en/services/condiciones-cronicas) follow-up.
+The clinic's medical team reads the tracing along with your blood pressure, symptoms and history. If everything looks fine, it stays in your chart for comparison later on. Should the tracing raise a question, we arrange a specialist referral when results call for it. When you have high blood pressure or high cholesterol, the result becomes part of your [chronic conditions](/en/services/condiciones-cronicas) follow-up.
 
 If you have severe chest pain, shortness of breath or fainting right now, don't drive yourself: call 911. For a routine EKG, we'll see you on Hammerly Blvd.`,
   },
@@ -2036,13 +2036,13 @@ Told to fast? Get to Hammerly Blvd early: our doors open at 9 AM every day.`,
     metaTitle: "Examen Físico DOT para CDL en Houston",
     metaTitleEn: "DOT Physical Exam for CDL in Houston",
     shortDescription:
-      "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
+      "Examen físico DOT para conductores comerciales (CDL), en español y sin cita.",
     shortDescriptionEn:
-      "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
+      "DOT physical exam for commercial drivers (CDL), in Spanish and walk-in.",
     description:
-      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
+      "Examen físico DOT en Houston, TX para licencia CDL, en español y sin cita. Con precios accesibles.",
     descriptionEn:
-      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
+      "DOT physical exam in Houston, TX for CDL license, in Spanish and walk-in. With affordable pricing.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -2056,13 +2056,13 @@ Told to fast? Get to Hammerly Blvd early: our doors open at 9 AM every day.`,
       "dot medical exam houston",
     ],
     features: [
-      "Certificado DOT el mismo día",
+      "Certificado DOT al terminar el examen",
       "Para licencia CDL",
       "Proceso rápido",
       "Atención en español",
     ],
     featuresEn: [
-      "Same-day DOT certificate",
+      "DOT certificate when the exam is done",
       "For CDL license",
       "Fast process",
       "Care in Spanish",

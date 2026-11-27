@@ -59,7 +59,7 @@ If you already live with diabetes, hypertension or high cholesterol, our [chroni
 
 - **High blood pressure:** the "silent killer"; it causes no symptoms but damages the heart, brain and kidneys
 - **Type 2 diabetes:** very common in the Hispanic community; caught early, it can be controlled with a plan and follow-up
-- **Urinary and prostate infections:** burning when urinating, frequent urgency or pelvic pain have [same-day treatment](/en/services/infecciones-urinarias)
+- **Urinary and prostate infections:** burning when urinating, frequent urgency or pelvic pain have [fast treatment](/en/services/infecciones-urinarias)
 - **Sexually transmitted infections:** we offer [confidential STD testing](/en/services/enfermedades-transmision-sexual) with results explained privately and without judgment
 
 ## Recommended exams by age

@@ -1,6 +1,6 @@
 ---
 title: "Examen DOT para camioneros CDL en Houston"
-description: "Todo sobre el examen físico DOT para tu licencia CDL en Houston: qué incluye, qué llevar y cómo obtener tu certificado el mismo día."
+description: "Todo sobre el examen físico DOT para tu licencia CDL en Houston: qué incluye, qué llevar y cómo obtener tu certificado."
 date: "2026-02-22"
 updated: "2026-10-02"
 author: "Equipo Clínica Hispana Nueva Salud Hammerly"
@@ -17,7 +17,7 @@ services:
   - "examen-fisico-escolar"
 ---
 
-Si manejas camiones u otros vehículos comerciales, el examen físico DOT es un requisito que no puedes dejar pasar: sin certificado médico vigente no hay licencia CDL. Aquí te explicamos en español qué evalúa, qué llevar y cómo salir el mismo día con tu certificado.
+Si manejas camiones u otros vehículos comerciales, el examen físico DOT es un requisito que no puedes dejar pasar: sin certificado médico vigente no hay licencia CDL. Aquí te explicamos en español qué evalúa, qué llevar y cómo salir con tu certificado.
 
 ## ¿Qué es el examen DOT?
 
@@ -56,7 +56,7 @@ El certificado médico DOT dura **hasta 24 meses**. Si tienes alguna condición 
 
 ## Tu examen DOT en Houston, en español
 
-En [Clínica Hispana Nueva Salud Hammerly](/services/examen-dot) realizamos tu examen físico DOT **en español**, [sin cita previa](/walk-in) y con laboratorio en el sitio. En la mayoría de los casos sales el **mismo día con tu certificado** listo para tramitar o renovar tu CDL. También hacemos [exámenes de alcohol y drogas](/services/examen-alcohol-drogas) si tu empresa los requiere por separado.
+En [Clínica Hispana Nueva Salud Hammerly](/services/examen-dot) realizamos tu examen físico DOT **en español**, [sin cita previa](/walk-in) y con laboratorio en el sitio. Si no queda nada pendiente, sales **con tu certificado** listo para tramitar o renovar tu CDL. También hacemos [exámenes de alcohol y drogas](/services/examen-alcohol-drogas) si tu empresa los requiere por separado.
 
 Visítanos de lunes a sábado de **9 AM a 9 PM** y domingo de **9 AM a 5 PM** en 8538 Hammerly Blvd Suite B, Houston, TX 77055 (Spring Branch) — a minutos de la I-10 — o llámanos al **(832) 280-9555**.
 

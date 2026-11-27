@@ -21,7 +21,7 @@ Un análisis de sangre puede contar mucho sobre tu salud, incluso antes de que a
 
 ## ¿Por qué hacerse análisis de sangre?
 
-- **Detectar problemas a tiempo**, cuando todavía son fáciles y baratos de tratar
+- **Detectar problemas a tiempo**, cuando todavía son fáciles de tratar
 - **Dar seguimiento a una condición crónica** como [diabetes, presión alta o colesterol](/services/condiciones-cronicas)
 - **Completar un requisito:** [examen de inmigración](/services/examenes-inmigracion), trabajo o escuela
 - **Entender síntomas vagos:** cansancio constante, caída de cabello, cambios de peso — muchas veces la respuesta está en la sangre
