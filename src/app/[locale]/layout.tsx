@@ -41,13 +41,13 @@ export async function generateMetadata({
     authors: [{ name: SITE_CONFIG.name }],
     // Search Console verificado por DNS (propiedad de Dominio). Este meta tag
     // es solo un método alternativo opcional; se activa si se define la env.
-    ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
-      ? {
-          verification: {
-            google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,
-          },
-        }
-      : {}),
+    // Pinterest (sitio reclamado por pinterest.com/clinicahispanahammerly): no quitar.
+    verification: {
+      ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+        ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
+        : {}),
+      other: { "p:domain_verify": "83b85360bded169672e7fc4ba20cb6a6" },
+    },
     openGraph: {
       type: "website",
       siteName: SITE_CONFIG.name,

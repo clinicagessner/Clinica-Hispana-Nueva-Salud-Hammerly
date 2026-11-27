@@ -2,7 +2,7 @@ import { useLocale, useTranslations } from "next-intl";
 import { Mail, MapPin, Phone, Clock } from "lucide-react";
 import {
   FacebookLogo,
-  InstagramLogo, TiktokLogo, XLogo, YoutubeLogo,
+  InstagramLogo, PinterestLogo, TiktokLogo, XLogo, YoutubeLogo,
 } from "@phosphor-icons/react/dist/ssr";
 import { Link } from "@/i18n/navigation";
 import { Logo } from "@/components/shared/logo";
@@ -118,6 +118,17 @@ export function Footer() {
                       className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 ring-1 ring-white/10 transition-colors hover:bg-teal hover:text-blue-deep"
                     >
                       <XLogo className="h-4 w-4" weight="bold" />
+                    </a>
+                  )}
+                  {SOCIAL_LINKS.pinterest && (
+                    <a
+                      href={SOCIAL_LINKS.pinterest}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="Pinterest"
+                      className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 ring-1 ring-white/10 transition-colors hover:bg-teal hover:text-blue-deep"
+                    >
+                      <PinterestLogo className="h-4 w-4" weight="fill" />
                     </a>
                   )}
                 </div>
