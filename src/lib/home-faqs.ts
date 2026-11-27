@@ -40,9 +40,9 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Quién firma el examen médico para inmigración?",
-    answer: "El examen I-693 lo realiza y firma un Civil Surgeon autorizado por USCIS. Al terminar el proceso recibes el formulario sellado en sobre cerrado, que debes entregar sin abrir. Te avisamos en cuanto esté listo para recogerlo.",
+    answer: "El examen I-693 lo realiza y firma un Civil Surgeon autorizado por USCIS. Al terminar el proceso recibes el formulario sellado en sobre cerrado, que debes entregar sin abrir. Te avisamos en cuanto esté listo para recogerlo. Aviso: este servicio está temporalmente pausado hasta nuevo aviso.",
     questionEn: "Who signs the immigration medical exam?",
-    answerEn: "Your I-693 is completed and signed by a Civil Surgeon whom USCIS has authorized. When the process is complete you receive the form sealed in a closed envelope, which must be submitted unopened. We'll let you know as soon as it's ready to pick up.",
+    answerEn: "Your I-693 is completed and signed by a Civil Surgeon whom USCIS has authorized. When the process is complete you receive the form sealed in a closed envelope, which must be submitted unopened. We'll let you know as soon as it's ready to pick up. Notice: this service is temporarily paused until further notice.",
   },
   {
     question: "¿Cómo es la atención en Nueva Salud Hammerly?",

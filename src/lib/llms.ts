@@ -37,7 +37,7 @@ const T = {
     contact: "Location and contact",
     hours: "Open seven days a week: Monday to Saturday 9:00 AM to 9:00 PM, Sunday 9:00 AM to 5:00 PM. Walk-ins welcome at any time the clinic is open.",
     facts: (r: GooglePlaceData) => [
-      "Immigration medical exam (Form I-693) performed by a USCIS-designated civil surgeon.",
+      "Immigration medical exam (Form I-693) performed by a USCIS-designated civil surgeon (service temporarily paused until further notice).",
       "Free on-site parking; wheelchair-accessible entrance, parking and restrooms.",
       "No insurance needed.",
       `Serves ${AREAS}.`,
@@ -63,7 +63,7 @@ const T = {
     contact: "Ubicación y contacto",
     hours: "Abierto los siete días de la semana: lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM. Se atiende sin cita en todo el horario.",
     facts: (r: GooglePlaceData) => [
-      "Examen médico de inmigración (Formulario I-693) realizado por un médico autorizado por USCIS (civil surgeon).",
+      "Examen médico de inmigración (Formulario I-693) realizado por un médico autorizado por USCIS (civil surgeon) (servicio temporalmente pausado hasta nuevo aviso).",
       "Estacionamiento gratuito en el lugar; entrada, estacionamiento y baños accesibles para silla de ruedas.",
       "No hace falta seguro médico.",
       `Atiende a ${AREAS_ES}.`,
